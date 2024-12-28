@@ -102,9 +102,9 @@ namespace Sonic853.Udon.Weather.UI
                 {
                     var hourUI = (HourUI)Instantiate(hourUIItemPrefab.gameObject, hourUIItemsTransform).GetComponent(typeof(UdonBehaviour));
                     hourUI.weatherUI = this;
-                    hourUI.gameObject.SetActive(true);
                     UdonArrayPlus.Add(ref hourUIItems, hourUI);
                 }
+                hourUIItems[i].gameObject.SetActive(true);
                 hourUIItems[i].LoadData(hourData);
             }
             var _maxDayCount = locationItem.daily.Count > maxDayCount ? maxDayCount : locationItem.daily.Count;
@@ -117,9 +117,9 @@ namespace Sonic853.Udon.Weather.UI
                 {
                     var dayUI = (DayUI)Instantiate(dayUIItemPrefab.gameObject, dayUIItemsTransform).GetComponent(typeof(UdonBehaviour));
                     dayUI.weatherUI = this;
-                    dayUI.gameObject.SetActive(true);
                     UdonArrayPlus.Add(ref dayUIItems, dayUI);
                 }
+                dayUIItems[i].gameObject.SetActive(true);
                 dayUIItems[i].LoadData(dayData);
             }
         }
@@ -137,11 +137,13 @@ namespace Sonic853.Udon.Weather.UI
             foreach (var hourUIItem in hourUIItems)
             {
                 hourUIItem.Clear();
+                hourUIItem.gameObject.SetActive(false);
             }
             hourUIItemsTransform.gameObject.SetActive(false);
             foreach (var dayUIItem in dayUIItems)
             {
                 dayUIItem.Clear();
+                dayUIItem.gameObject.SetActive(false);
             }
             dayUIItemsTransform.gameObject.SetActive(false);
         }
