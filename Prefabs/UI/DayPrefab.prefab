@@ -132,9 +132,9 @@ RectTransform:
   m_Children:
   - {fileID: 4523148730360365598}
   - {fileID: 1547348203611036083}
+  - {fileID: 441031920741712369}
   - {fileID: 8135592712401997662}
   - {fileID: 8024818031708345633}
-  - {fileID: 441031920741712369}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -229,6 +229,10 @@ MonoBehaviour:
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 5482926138816008556}
   weatherUI: {fileID: 0}
+  tempMax: -1
+  tempMin: -1
+  iconDay: 
+  iconNight: 
   qWImage: {fileID: 2799680964721655016}
   qWImageNight: {fileID: 8885969889492553870}
   accuWImage: {fileID: 3503038806922286003}
