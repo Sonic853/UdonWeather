@@ -3,7 +3,11 @@
     "rootNamespace": "",
     "references": [
         "VRC.Udon",
-        "UdonSharp.Runtime"
+        "UdonSharp.Runtime",
+        "Unity.TextMeshPro",
+        "Sonic853.UdonLab.ArrayPlus",
+        "Sonic853.Udon.TranslateManager",
+        "Sonic853.UdonLab.UrlLoader"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
