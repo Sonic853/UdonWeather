@@ -73,7 +73,7 @@ namespace Sonic853.Udon.Weather.UI
             var _where = _(locationItem.locationName);
             if (!string.IsNullOrEmpty(locationItem.adm1Name)
                 && locationItem.adm1Name != "olddata"
-                && locationItem.adm1Name != locationItem.locationName) _where = $"{_(locationItem.adm1Name)}{_(", ")}{_where}";
+                && locationItem.adm1Name != locationItem.locationName) _where = _($"{locationItem.adm1Name}{", "}{locationItem.locationName}");
             where.text = _where;
             temp.text = $"{locationItem.temp}°";
             tempReal.text = $"{_("Real Feel: ")}{locationItem.feelsLike}°";
