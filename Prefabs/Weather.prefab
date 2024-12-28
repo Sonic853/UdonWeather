@@ -1434,8 +1434,8 @@ MonoBehaviour:
   _udonSharpBackingUdonBehaviour: {fileID: 8206979092969256449}
   currentLanguage: zh-CN
   translates:
-  - {fileID: 3771373793218381784}
   - {fileID: 5624145538524397841}
+  - {fileID: 3771373793218381784}
   texts: []
   tMP_Texts:
   - {fileID: 4942164629732315570}
