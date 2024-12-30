@@ -886,6 +886,10 @@ MonoBehaviour:
     ID: 621
     SerializedTypeNames:
     - VRC.Udon.UdonBehaviour
+  - gameObject: {fileID: 5808270737336561328}
+    ID: 622
+    SerializedTypeNames:
+    - VRC.Udon.UdonBehaviour
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   PlayerPersistence: []
@@ -1763,7 +1767,7 @@ PrefabInstance:
       objectReference: {fileID: 5932493299880539541, guid: f88c947eaf87670479871763ab5e5aa0, type: 3}
     - target: {fileID: 6255172556026131913, guid: f88c947eaf87670479871763ab5e5aa0, type: 3}
       propertyPath: m_Name
-      value: Weather
+      value: CnWeather
       objectReference: {fileID: 0}
     - target: {fileID: 6544226509940673445, guid: f88c947eaf87670479871763ab5e5aa0, type: 3}
       propertyPath: serializationData.Prefab
@@ -2034,6 +2038,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f88c947eaf87670479871763ab5e5aa0, type: 3}
+--- !u!1 &5808270737336561328 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9123926040954629714, guid: f88c947eaf87670479871763ab5e5aa0, type: 3}
+  m_PrefabInstance: {fileID: 5808270737336561327}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
