@@ -34,7 +34,12 @@ namespace Sonic853.Udon.Weather.UI
             if (hourData.TryGetValue("fxTime", out var fxTimeToken) && fxTimeToken.TokenType == TokenType.String)
             {
                 DateTime.TryParse(fxTimeToken.String, out fxTime);
-                time.text = fxTime.ToString("HH:mm");
+
+                var hour = fxTime.Hour;
+                var isPm = fxTime.Hour >= 12;
+                if (hour > 12) hour -= 12;
+                var hourText = _($"{{0}} {(isPm ? "PM" : "AM")}");
+                time.text = string.Format(hourText, hour);
             }
             if (hourData.TryGetValue("temp", out var tempToken) && tempToken.TokenType == TokenType.String)
             {
@@ -63,8 +68,11 @@ namespace Sonic853.Udon.Weather.UI
             qWImage.gameObject.SetActive(true);
             qWImage.sprite = weatherUI.GetSprite("999");
             accuWImage.gameObject.SetActive(false);
-            time.text = "--:--";
+            time.text = "-- --";
             tempText.text = "-°";
         }
+        #region 翻译
+        public string _(string text) => weatherUI._(text);
+        #endregion
     }
 }

@@ -15,10 +15,6 @@ namespace Sonic853.Udon.Weather.UI
     public class WeatherUI : UdonSharpBehaviour
     {
         public UdonWeather udonWeather;
-        public Sprite[] qWIcons;
-        [NonSerialized] public DataDictionary qWIconsIndex = new DataDictionary();
-        public Sprite[] accuWIcons;
-        [NonSerialized] public DataDictionary accuWIconsIndex = new DataDictionary();
         [SerializeField] Image qWImage;
         [SerializeField] Image accuWImage;
         [SerializeField] TMP_Text dataSource;
@@ -35,19 +31,6 @@ namespace Sonic853.Udon.Weather.UI
         [SerializeField] DayUI[] dayUIItems;
         public int maxDayCount = 7;
         public int maxHourCount = 7;
-        public void InitIndex()
-        {
-            qWIconsIndex = new DataDictionary();
-            accuWIconsIndex = new DataDictionary();
-            for (var i = 0; i < qWIcons.Length; i++)
-            {
-                qWIconsIndex.Add(qWIcons[i].name, i);
-            }
-            for (var i = 0; i < accuWIcons.Length; i++)
-            {
-                accuWIconsIndex.Add(accuWIcons[i].name, i);
-            }
-        }
         public void LoadData(LocationItem locationItem)
         {
             Clear();
@@ -62,19 +45,26 @@ namespace Sonic853.Udon.Weather.UI
             {
                 qWImage.gameObject.SetActive(true);
                 accuWImage.gameObject.SetActive(false);
-                qWImage.sprite = GetSprite(locationItem.icon, qWIcons, qWIconsIndex);
+                qWImage.sprite = udonWeather.GetSprite(locationItem.icon);
             }
             else
             {
                 qWImage.gameObject.SetActive(false);
                 accuWImage.gameObject.SetActive(true);
-                accuWImage.sprite = GetSprite(locationItem.icon, accuWIcons, accuWIconsIndex);
+                accuWImage.sprite = udonWeather.GetSprite(locationItem.icon);
             }
-            var _where = _(locationItem.locationName);
+            var locationName = "";
             if (!string.IsNullOrEmpty(locationItem.adm1Name)
                 && locationItem.adm1Name != "olddata"
-                && locationItem.adm1Name != locationItem.locationName) _where = _($"{locationItem.adm1Name}{", "}{locationItem.locationName}");
-            where.text = _where;
+                && locationItem.adm1Name != locationItem.locationName) locationName = _($"{locationItem.adm1Name}{"|"}{locationItem.locationName}");
+            else locationName = _(locationItem.locationName);
+            var texts = locationName.Split('|');
+            var finalText = texts[0];
+            if (texts.Length > 1)
+            {
+                finalText = texts[1];
+            }
+            where.text = finalText;
             temp.text = $"{locationItem.temp}°";
             tempReal.text = $"{_("Real Feel: ")}{locationItem.feelsLike}°";
             // 从 daily 的第一个数据中获取最高最低温度
@@ -127,7 +117,7 @@ namespace Sonic853.Udon.Weather.UI
         {
             dataSource.text = $"{_("Data Source: ")}";
             qWImage.gameObject.SetActive(true);
-            qWImage.sprite = GetSprite("999");
+            qWImage.sprite = udonWeather.GetSprite("999");
             accuWImage.gameObject.SetActive(false);
             where.text = _("Loading...");
             tempReal.text = $"{_("Real Feel: ")}-°";
@@ -147,19 +137,7 @@ namespace Sonic853.Udon.Weather.UI
             }
             dayUIItemsTransform.gameObject.SetActive(false);
         }
-        public Sprite GetSprite(string iconName)
-        {
-            if (iconName.Length == 3) return GetSprite(iconName, qWIcons, qWIconsIndex);
-            return GetSprite(iconName, accuWIcons, accuWIconsIndex);
-        }
-        public static Sprite GetSprite(string iconName, Sprite[] icons, DataDictionary iconsIndex)
-        {
-            if (iconsIndex.TryGetValue(iconName, out var indexToken) && indexToken.TokenType == TokenType.Int)
-            {
-                return icons[indexToken.Int];
-            }
-            return icons[icons.Length - 1];
-        }
+        public Sprite GetSprite(string iconName) => udonWeather.GetSprite(iconName);
         #region 翻译
         public string _(string text) => udonWeather._(text);
         #endregion

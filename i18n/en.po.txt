@@ -46,6 +46,12 @@ msgstr ", "
 msgid "MM/dd"
 msgstr "dd/MM"
 
+msgid "{0} AM"
+msgstr "{0} AM"
+
+msgid "{0} PM"
+msgstr "{0} PM"
+
 msgid "Real Feel: "
 msgstr "Real Feel: "
 

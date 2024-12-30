@@ -46,6 +46,12 @@ msgstr "，"
 msgid "MM/dd"
 msgstr "MM/dd"
 
+msgid "{0} AM"
+msgstr "上午{0}点"
+
+msgid "{0} PM"
+msgstr "下午{0}点"
+
 msgid "Real Feel: "
 msgstr "体感温度："
 
@@ -64,5 +70,170 @@ msgstr "数据来源："
 msgid "QWeather"
 msgstr "和风天气"
 
+msgid "Beijing"
+msgstr "北京"
+
 msgid "Shanghai"
 msgstr "上海"
+
+msgid "Tianjin"
+msgstr "天津"
+
+msgid "Chongqing"
+msgstr "重庆"
+
+msgid "Heilongjiang|Harbin"
+msgstr "哈尔滨"
+
+msgid "Jilin|Changchun"
+msgstr "长春"
+
+msgid "Liaoning|Shenyang"
+msgstr "沈阳"
+
+msgid "Inner Mongolia Autonomous Region|Hohhot"
+msgstr "呼和浩特"
+
+msgid "Hebei|Shijiazhuang"
+msgstr "石家庄"
+
+msgid "Shanxi|Taiyuan"
+msgstr "太原"
+
+msgid "Shaanxi|Xi'an"
+msgstr "西安"
+
+msgid "Shandong|Jinan"
+msgstr "济南"
+
+msgid "Xinjiang Uygur Autonomous Region|Urumqi"
+msgstr "乌鲁木齐"
+
+msgid "Tibet Autonomous Region|Lhasa"
+msgstr "拉萨"
+
+msgid "Qinghai|Xining"
+msgstr "西宁"
+
+msgid "Gansu|Lanzhou"
+msgstr "兰州"
+
+msgid "Ningxia Hui Autonomous Region|Yinchuan"
+msgstr "银川"
+
+msgid "Henan|Zhengzhou"
+msgstr "郑州"
+
+msgid "Jiangsu|Nanjing"
+msgstr "南京"
+
+msgid "Hubei|Wuhan"
+msgstr "武汉"
+
+msgid "Zhejiang|Hangzhou"
+msgstr "杭州"
+
+msgid "Anhui|Hefei"
+msgstr "合肥"
+
+msgid "Fujian|Fuzhou"
+msgstr "福州"
+
+msgid "Jiangxi|Nanchang"
+msgstr "南昌"
+
+msgid "Hunan|Changsha"
+msgstr "长沙"
+
+msgid "Guizhou|Guiyang"
+msgstr "贵阳"
+
+msgid "Sichuan|Chengdu"
+msgstr "成都"
+
+msgid "Guangdong|Guangzhou"
+msgstr "广州"
+
+msgid "Guangdong|Shenzhen"
+msgstr "深圳"
+
+msgid "Yunnan|Kunming"
+msgstr "昆明"
+
+msgid "Guangxi Zhuang Autonomous Region|Nanning"
+msgstr "南宁"
+
+msgid "Guangxi Zhuang Autonomous Region|Yulin"
+msgstr "玉林"
+
+msgid "Guangxi Zhuang Autonomous Region|Rong County"
+msgstr "容县"
+
+msgid "Hainan|Haikou"
+msgstr "海口"
+
+msgid "Hong Kong SAR|Hong Kong"
+msgstr "香港"
+
+msgid "Macao SAR|Macao"
+msgstr "澳门"
+
+msgid "Taiwan, Province of China|Taipei"
+msgstr "台北"
+
+msgid "Taiwan, Province of China|New Taipei City"
+msgstr "新北市"
+
+msgid "Taiwan, Province of China|Tainan"
+msgstr "台南市"
+
+msgid "Taiwan, Province of China|Taichung"
+msgstr "台中市"
+
+msgid "Taiwan, Province of China|Taitung"
+msgstr "台东市"
+
+msgid "Taiwan, Province of China|Keelung"
+msgstr "基隆市"
+
+msgid "Taiwan, Province of China|Taoyuan"
+msgstr "桃园"
+
+msgid "Taiwan, Province of China|Hsinchu"
+msgstr "新竹"
+
+msgid "Taiwan, Province of China|Miaoli"
+msgstr "苗栗市"
+
+msgid "Taiwan, Province of China|Changhua"
+msgstr "彰化市"
+
+msgid "Taiwan, Province of China|Nantou"
+msgstr "南投市"
+
+msgid "Taiwan, Province of China|Douliu City"
+msgstr "斗六市"
+
+msgid "Taiwan, Province of China|Chiayi"
+msgstr "嘉义市"
+
+msgid "Taiwan, Province of China|Kaohsiung"
+msgstr "高雄"
+
+msgid "Taiwan, Province of China|Pingtung"
+msgstr "屏东市"
+
+msgid "Taiwan, Province of China|Yilan"
+msgstr "宜兰市"
+
+msgid "Taiwan, Province of China|Hualien"
+msgstr "花莲市"
+
+msgid "Fujian|Kinmen"
+msgstr "金门"
+
+msgid "Fujian|Lianjiang"
+msgstr "连江"
+
+msgid "Taiwan, Province of China|Magong"
+msgstr "马公市"
