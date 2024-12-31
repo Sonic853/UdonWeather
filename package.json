@@ -1,6 +1,6 @@
 {
   "name": "com.sonic853.udon.weather",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Sonic853 - Udon Weather",
   "description": "Udon 天气",
   "unity": "2022.3",
@@ -14,5 +14,10 @@
     "name": "Sonic853",
     "email": "sonic853@qq.com",
     "url": "https://github.com/Sonic853"
+  },
+  "vpmDependencies": {
+    "com.sonic853.udon.translate-manager": "1.x.x",
+    "com.sonic853.udonlab.urlloader": "2.x.x",
+    "com.sonic853.udonlab.arrayplus": "2.x.x"
   }
 }
