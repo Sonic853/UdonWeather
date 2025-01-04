@@ -94,9 +94,10 @@ namespace Sonic853.Udon.Weather
                     var locationItem = (LocationItem)Instantiate(locationItemPrefab.gameObject, locationItemsTransform).GetComponent(typeof(UdonBehaviour));
                     locationItem.udonWeather = this;
                     UdonArrayPlus.Add(ref locationItems, locationItem);
-                    var locationKey = $"{adm1Name}|{locationName}".ToLower();
-                    locationItem.tAdm1Name = _(adm1Name);
-                    locationItem.tLocationName = adm1Name != locationName ? _(locationKey) : _(locationName);
+                    var locationK = $"{adm1Name}|{locationName}";
+                    var locationKey = locationK.ToLower();
+                    locationItem.tAdm1Name = _(adm1Name).Trim();
+                    locationItem.tLocationName = adm1Name != locationName ? _(locationK).Trim() : _(locationName).Trim();
                     if (locations.ContainsKey(locationKey))
                     {
                         locations.SetValue(locationKey, locationItems.Length - 1);
@@ -165,9 +166,13 @@ namespace Sonic853.Udon.Weather
                 var locationItem = locationItems[i];
                 if (
                     locationItem.locationName.ToLower().Contains(_userType)
+                    // || locationItem.locationName.ToLower() == _userType
                     || locationItem.adm1Name.ToLower().Contains(_userType)
+                    // || locationItem.adm1Name.ToLower() == _userType
                     || locationItem.tAdm1Name.ToLower().Contains(_userType)
+                    // || locationItem.tAdm1Name.ToLower() == _userType
                     || locationItem.tLocationName.ToLower().Contains(_userType)
+                    // || locationItem.tLocationName.ToLower() == _userType
                 )
                 {
                     foundIndex.Add(i);

@@ -13,14 +13,16 @@ namespace Sonic853.Udon.Weather.UI
     {
         public UdonWeather udonWeather;
         [SerializeField] TMP_InputField inputField;
+        [SerializeField] InputField inputFieldLegacy;
         [SerializeField] LocationUI locationUIPrefab;
         [SerializeField] Transform locationUIsTransform;
         [SerializeField] LocationUI[] locationUIs = new LocationUI[0];
         public void OnTypeInput()
         {
             Clear();
+            inputField.text = inputFieldLegacy.text;
             if (string.IsNullOrEmpty(inputField.text)) { return; }
-            var result = udonWeather.SearchWeathers(inputField.text);
+            var result = udonWeather.SearchWeathers(inputField.text.Trim());
             for (var i = 0; i < result.Length; i++)
             {
                 LocationUI locationUI;
