@@ -19,6 +19,9 @@ msgstr "Udon 天氣"
 msgid "Loading..."
 msgstr "正在載入…"
 
+msgid "Search..."
+msgstr "搜索…"
+
 msgid "Monday"
 msgstr "星期一"
 
@@ -82,74 +85,146 @@ msgstr "天津"
 msgid "Chongqing"
 msgstr "重慶"
 
+msgid "Heilongjiang"
+msgstr "黑龍江省"
+
 msgid "Heilongjiang|Harbin"
 msgstr "哈爾濱"
+
+msgid "Jilin"
+msgstr "吉林省"
 
 msgid "Jilin|Changchun"
 msgstr "長春"
 
+msgid "Liaoning"
+msgstr "遼寧省"
+
 msgid "Liaoning|Shenyang"
 msgstr "瀋陽"
+
+msgid "Inner Mongolia Autonomous Region"
+msgstr "內蒙古自治區"
 
 msgid "Inner Mongolia Autonomous Region|Hohhot"
 msgstr "呼和浩特"
 
+msgid "Hebei"
+msgstr "河北省"
+
 msgid "Hebei|Shijiazhuang"
 msgstr "石家莊"
+
+msgid "Shanxi"
+msgstr "山西省"
 
 msgid "Shanxi|Taiyuan"
 msgstr "太原"
 
+msgid "Shaanxi"
+msgstr "陝西省"
+
 msgid "Shaanxi|Xi'an"
 msgstr "西安"
+
+msgid "Shandong"
+msgstr "山東省"
 
 msgid "Shandong|Jinan"
 msgstr "濟南"
 
+msgid "Xinjiang Uygur Autonomous Region"
+msgstr "新疆維吾爾自治區"
+
 msgid "Xinjiang Uygur Autonomous Region|Urumqi"
 msgstr "烏魯木齊"
+
+msgid "Tibet Autonomous Region"
+msgstr "西藏自治區"
 
 msgid "Tibet Autonomous Region|Lhasa"
 msgstr "拉薩"
 
+msgid "Qinghai"
+msgstr "青海省"
+
 msgid "Qinghai|Xining"
 msgstr "西寧"
+
+msgid "Gansu"
+msgstr "甘肅省"
 
 msgid "Gansu|Lanzhou"
 msgstr "蘭州"
 
+msgid "Ningxia Hui Autonomous Region"
+msgstr "寧夏回族自治區"
+
 msgid "Ningxia Hui Autonomous Region|Yinchuan"
 msgstr "銀川"
+
+msgid "Henan"
+msgstr "河南省"
 
 msgid "Henan|Zhengzhou"
 msgstr "鄭州"
 
+msgid "Jiangsu"
+msgstr "江蘇省"
+
 msgid "Jiangsu|Nanjing"
 msgstr "南京"
+
+msgid "Hubei"
+msgstr "湖北省"
 
 msgid "Hubei|Wuhan"
 msgstr "武漢"
 
+msgid "Zhejiang"
+msgstr "浙江省"
+
 msgid "Zhejiang|Hangzhou"
 msgstr "杭州"
+
+msgid "Anhui"
+msgstr "安徽省"
 
 msgid "Anhui|Hefei"
 msgstr "合肥"
 
+msgid "Fujian"
+msgstr "福建省"
+
 msgid "Fujian|Fuzhou"
 msgstr "福州"
+
+msgid "Jiangxi"
+msgstr "江西省"
 
 msgid "Jiangxi|Nanchang"
 msgstr "南昌"
 
+msgid "Hunan"
+msgstr "湖南省"
+
 msgid "Hunan|Changsha"
 msgstr "長沙"
+
+msgid "Guizhou"
+msgstr "貴州省"
 
 msgid "Guizhou|Guiyang"
 msgstr "貴陽"
 
+msgid "Sichuan"
+msgstr "四川省"
+
 msgid "Sichuan|Chengdu"
 msgstr "成都"
+
+msgid "Guangdong"
+msgstr "廣東省"
 
 msgid "Guangdong|Guangzhou"
 msgstr "廣州"
@@ -157,8 +232,14 @@ msgstr "廣州"
 msgid "Guangdong|Shenzhen"
 msgstr "深圳"
 
+msgid "Yunnan"
+msgstr "雲南省"
+
 msgid "Yunnan|Kunming"
 msgstr "昆明"
+
+msgid "Guangxi Zhuang Autonomous Region"
+msgstr "廣西壯族自治區"
 
 msgid "Guangxi Zhuang Autonomous Region|Nanning"
 msgstr "南寧"
@@ -169,14 +250,26 @@ msgstr "玉林"
 msgid "Guangxi Zhuang Autonomous Region|Rong County"
 msgstr "容縣"
 
+msgid "Hainan"
+msgstr "海南省"
+
 msgid "Hainan|Haikou"
 msgstr "海口"
+
+msgid "Hong Kong SAR"
+msgstr "香港特別行政區"
 
 msgid "Hong Kong SAR|Hong Kong"
 msgstr "香港"
 
+msgid "Macao SAR"
+msgstr "澳門特別行政區"
+
 msgid "Macao SAR|Macao"
 msgstr "澳門"
+
+msgid "Taiwan, Province of China"
+msgstr "台灣省"
 
 msgid "Taiwan, Province of China|Taipei"
 msgstr "台北"

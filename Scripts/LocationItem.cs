@@ -19,9 +19,17 @@ namespace Sonic853.Udon.Weather
         /// </summary>
         public string adm1Name;
         /// <summary>
+        /// 翻译后的行政区域名称
+        /// </summary>
+        public string tAdm1Name;
+        /// <summary>
         /// 地区名称
         /// </summary>
         public string locationName;
+        /// <summary>
+        /// 翻译后的地区名称
+        /// </summary>
+        public string tLocationName;
         /// <summary>
         /// 更新时间
         /// </summary>

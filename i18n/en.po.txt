@@ -19,6 +19,9 @@ msgstr "Udon Weather"
 msgid "Loading..."
 msgstr "Loading..."
 
+msgid "Search..."
+msgstr "Search..."
+
 msgid "Monday"
 msgstr "Monday"
 

@@ -4,7 +4,7 @@ using UnityEngine;
 using VRC.SDKBase;
 using VRC.Udon;
 
-namespace Sonic853.Udon.Weather.UI
+namespace Sonic853.Udon.Weather
 {
     public class PlayAnim : UdonSharpBehaviour
     {

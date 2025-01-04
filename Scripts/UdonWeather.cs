@@ -28,7 +28,7 @@ namespace Sonic853.Udon.Weather
         /// <summary>
         /// 所有地区的天气信息
         /// </summary>
-        [SerializeField] LocationItem[] locationItems;
+        [SerializeField] LocationItem[] locationItems = new LocationItem[0];
         LocationItem currentLocationItem;
         DataDictionary locations = new DataDictionary();
         public string defaultWeather;
@@ -95,6 +95,8 @@ namespace Sonic853.Udon.Weather
                     locationItem.udonWeather = this;
                     UdonArrayPlus.Add(ref locationItems, locationItem);
                     var locationKey = $"{adm1Name}|{locationName}".ToLower();
+                    locationItem.tAdm1Name = _(adm1Name);
+                    locationItem.tLocationName = adm1Name != locationName ? _(locationKey) : _(locationName);
                     if (locations.ContainsKey(locationKey))
                     {
                         locations.SetValue(locationKey, locationItems.Length - 1);
@@ -111,13 +113,12 @@ namespace Sonic853.Udon.Weather
                 if (locationUI == null) { continue; }
                 if (locations.TryGetValue(locationUI.location.ToLower(), out var indexToken) && indexToken.TokenType == TokenType.Int)
                 {
-                    locationUI.locationIndex = indexToken.Int;
-                    locationUI.LoadData(locationItems[locationUI.locationIndex]);
+                    locationUI.LoadData(locationItems[indexToken.Int]);
                 }
                 else
                 {
                     locationUI.Clear();
-                    locationUI.locationIndex = -1;
+                    locationUI.locationItem = null;
                 }
             }
             ReadDefaultWeather();
@@ -139,7 +140,7 @@ namespace Sonic853.Udon.Weather
                 ShowWeather(defaultWeather);
             }
         }
-        public void ShowWeather(string locationName) => ShowWeather(SearchWeather(locationName));
+        public void ShowWeather(string locationName) => ShowWeather(GetWeather(locationName));
         public void ShowWeather(int locationIndex)
         {
             if (locationIndex == -1 || locationIndex >= locationItems.Length) { return; }
@@ -154,7 +155,37 @@ namespace Sonic853.Udon.Weather
             PlayerData.SetString($"Sonic853.Udon.Weather", defaultWeather);
             location.LoadUI();
         }
-        public LocationItem SearchWeather(string locationName)
+        public LocationItem[] SearchWeathers(string userType)
+        {
+            if (string.IsNullOrEmpty(userType)) { return new LocationItem[0]; }
+            var foundIndex = new DataList();
+            var _userType = userType.ToLower();
+            for (int i = 0; i < locationItems.Length; i++)
+            {
+                var locationItem = locationItems[i];
+                if (
+                    locationItem.locationName.ToLower().Contains(_userType)
+                    || locationItem.adm1Name.ToLower().Contains(_userType)
+                    || locationItem.tAdm1Name.ToLower().Contains(_userType)
+                    || locationItem.tLocationName.ToLower().Contains(_userType)
+                )
+                {
+                    foundIndex.Add(i);
+                }
+            }
+            var foundIndexCount = foundIndex.Count;
+            if (foundIndexCount > 0)
+            {
+                var foundLocationItems = new LocationItem[foundIndexCount];
+                for (int i = 0; i < foundIndexCount; i++)
+                {
+                    foundLocationItems[i] = locationItems[foundIndex[i].Int];
+                }
+                return foundLocationItems;
+            }
+            return new LocationItem[0];
+        }
+        public LocationItem GetWeather(string locationName)
         {
             if (string.IsNullOrEmpty(locationName)) { return null; }
             var _defaultWeather = locationName.ToLower();

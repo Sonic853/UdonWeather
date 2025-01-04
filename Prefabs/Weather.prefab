@@ -59,6 +59,8 @@ MonoBehaviour:
   _udonSharpBackingUdonBehaviour: {fileID: 3673881369045588187}
   weatherUrl:
     url: https://853lab.github.io/VRChat-World-cnWeather/cnweather2.json
+  weatherCnUrl:
+    url: https://853lab.com/VRChat-World-cnWeather/cnweather2.json
   defaultWeather: Shanghai
   rememberWeatherName: 1
   udonWeather: {fileID: 7492291332607422083}
@@ -472,6 +474,8 @@ MonoBehaviour:
     SerializationNodes: []
   _udonSharpBackingUdonBehaviour: {fileID: 2326066349270070600}
   urls: []
+  altUrls: []
+  useAlt: 0
   isLoading: 0
   udonSendFunctions: []
   sendCustomEvents: []
@@ -1701,6 +1705,8 @@ MonoBehaviour:
   UrlLoader: {fileID: 770021536580457345}
   url:
     url: 
+  altUrl:
+    url: 
   udonSendFunction: {fileID: 2744544702633752718}
   sendCustomEvent: LoadWeather
   setVariableName: content
@@ -2001,7 +2007,9 @@ MonoBehaviour:
   _udonSharpBackingUdonBehaviour: {fileID: 9131336795559348324}
   udonWeather: {fileID: 0}
   adm1Name: 
+  tAdm1Name: 
   locationName: 
+  tLocationName: 
   fxLink: 
   temp: -1
   feelsLike: -1

@@ -13,28 +13,30 @@ namespace Sonic853.Udon.Weather.UI
     {
         public UdonWeather udonWeather;
         public string location;
-        [NonSerialized] public int locationIndex = -1;
+        [NonSerialized] public LocationItem locationItem;
         [SerializeField] Image QWIcon;
         [SerializeField] Image AccuWIcon;
         [SerializeField] TMP_Text locationText;
         [SerializeField] TMP_Text temp;
-        public void LoadData(LocationItem locationItem)
+        public void LoadData(LocationItem _locationItem)
         {
-            if (locationItem.icon.Length == 3)
+            if (_locationItem == null) { return; }
+            locationItem = _locationItem;
+            if (_locationItem.icon.Length == 3)
             {
                 QWIcon.gameObject.SetActive(true);
                 AccuWIcon.gameObject.SetActive(false);
-                QWIcon.sprite = udonWeather.GetSprite(locationItem.icon);
+                QWIcon.sprite = udonWeather.GetSprite(_locationItem.icon);
             }
             else
             {
                 QWIcon.gameObject.SetActive(false);
                 AccuWIcon.gameObject.SetActive(true);
-                AccuWIcon.sprite = udonWeather.GetSprite(locationItem.icon);
+                AccuWIcon.sprite = udonWeather.GetSprite(_locationItem.icon);
             }
-            if (locationItem.adm1Name != "olddata" && locationItem.adm1Name != locationItem.locationName)
+            if (_locationItem.adm1Name != "olddata" && _locationItem.adm1Name != _locationItem.locationName)
             {
-                var texts = _($"{locationItem.adm1Name}{"|"}{locationItem.locationName}").Split('|');
+                var texts = _($"{_locationItem.adm1Name}{"|"}{_locationItem.locationName}").Split('|');
                 var finalText = texts[0];
                 if (texts.Length > 1)
                 {
@@ -44,16 +46,16 @@ namespace Sonic853.Udon.Weather.UI
             }
             else
             {
-                locationText.text = _(locationItem.locationName);
+                locationText.text = _(_locationItem.locationName);
             }
-            temp.text = $"{locationItem.temp}°";
+            temp.text = $"{_locationItem.temp}°";
         }
-        public void LoadWeather(int _locationIndex)
+        public void LoadWeather(LocationItem _locationItem)
         {
-            if (_locationIndex == -1) { return; }
-            udonWeather.ShowWeather(_locationIndex);
+            if (_locationItem == null) { return; }
+            udonWeather.ShowWeather(_locationItem);
         }
-        public void SendFunction() => LoadWeather(locationIndex);
+        public void SendFunction() => LoadWeather(locationItem);
         public void Clear()
         {
             QWIcon.gameObject.SetActive(true);

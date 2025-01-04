@@ -10,6 +10,7 @@ namespace Sonic853.Udon.Weather
     public class UdonWeatherConfig : UdonSharpBehaviour
     {
         public VRCUrl weatherUrl;
+        public VRCUrl weatherCnUrl;
         public string defaultWeather;
         public bool rememberWeatherName = true;
         public UdonWeather udonWeather;
@@ -26,7 +27,17 @@ namespace Sonic853.Udon.Weather
             }
             if (urlSubmitter != null && !string.IsNullOrEmpty(weatherUrl.ToString()))
             {
-                urlSubmitter.url = weatherUrl;
+                var currentLanguage = VRCPlayerApi.GetCurrentLanguage() ?? "en";
+                if (currentLanguage == "zh-CN")
+                {
+                    urlSubmitter.url = !string.IsNullOrEmpty(weatherCnUrl.ToString()) ? weatherCnUrl : weatherUrl;
+                    urlSubmitter.altUrl = weatherUrl;
+                }
+                else
+                {
+                    urlSubmitter.url = weatherUrl;
+                    urlSubmitter.altUrl = !string.IsNullOrEmpty(weatherCnUrl.ToString()) ? weatherCnUrl : weatherUrl;
+                }
                 urlSubmitter.SubmitUrlWithUpdate();
             }
         }
