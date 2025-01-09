@@ -4,6 +4,8 @@
 
 一种能在 VRChat 里显示 7 天以及每小时的天气预报
 
+Demo: [853的功能屋 853's Udon Room](https://vrchat.com/home/world/wrld_fa01cb8c-766c-4f36-8360-57409866d011)
+
 ## 数据来源
 
 - [和风天气](https://www.qweather.com/)
