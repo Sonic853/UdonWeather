@@ -7,41 +7,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: uPoEditor 1.0\n"
-"Language: zh_HK\n"
+"Language: ja\n"
 "Project-Id-Version: Udon Weather\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
 
 msgid "Udon Weather"
-msgstr "Udon 天氣"
+msgstr "Udon 天気予報"
 
 msgid "Loading..."
-msgstr "正在載入…"
+msgstr "読み込み中…"
 
 msgid "Search..."
-msgstr "搜索…"
+msgstr "検索…"
 
 msgid "Monday"
-msgstr "星期一"
+msgstr "月曜日"
 
 msgid "Tuesday"
-msgstr "星期二"
+msgstr "火曜日"
 
 msgid "Wednesday"
-msgstr "星期三"
+msgstr "水曜日"
 
 msgid "Thursday"
-msgstr "星期四"
+msgstr "木曜日"
 
 msgid "Friday"
-msgstr "星期五"
+msgstr "金曜日"
 
 msgid "Saturday"
-msgstr "星期六"
+msgstr "土曜日"
 
 msgid "Sunday"
-msgstr "星期日"
+msgstr "日曜日"
 
 msgid ", "
 msgstr "，"
@@ -50,28 +50,28 @@ msgid "MM/dd"
 msgstr "MM/dd"
 
 msgid "{0} AM"
-msgstr "上午{0}時"
+msgstr "午前{0}点"
 
 msgid "{0} PM"
-msgstr "下午{0}時"
+msgstr "午後{0}点"
 
 msgid "Real Feel: "
-msgstr "體感温度："
+msgstr "実感温度："
 
 msgid "Today"
-msgstr "今天"
+msgstr "今日"
 
 msgid "Highest: "
-msgstr "最高氣温："
+msgstr "最高温度："
 
 msgid "Lowest: "
-msgstr "最低氣温："
+msgstr "最低温度："
 
 msgid "Data Source: "
-msgstr "資料來源："
+msgstr "データソース："
 
 msgid "QWeather"
-msgstr "和风天氣"
+msgstr "和风天気"
 
 msgid "Beijing"
 msgstr "北京"
@@ -86,10 +86,10 @@ msgid "Chongqing"
 msgstr "重慶"
 
 msgid "Heilongjiang"
-msgstr "黑龍江省"
+msgstr "黒竜江省"
 
 msgid "Heilongjiang|Harbin"
-msgstr "哈爾濱"
+msgstr "ハルビン"
 
 msgid "Jilin"
 msgstr "吉林省"
@@ -104,16 +104,16 @@ msgid "Liaoning|Shenyang"
 msgstr "瀋陽"
 
 msgid "Inner Mongolia Autonomous Region"
-msgstr "內蒙古自治區"
+msgstr "内モンゴル自治区"
 
 msgid "Inner Mongolia Autonomous Region|Hohhot"
-msgstr "呼和浩特"
+msgstr "フフホト"
 
 msgid "Hebei"
 msgstr "河北省"
 
 msgid "Hebei|Shijiazhuang"
-msgstr "石家莊"
+msgstr "石家荘"
 
 msgid "Shanxi"
 msgstr "山西省"
@@ -131,19 +131,19 @@ msgid "Shandong"
 msgstr "山東省"
 
 msgid "Shandong|Jinan"
-msgstr "濟南"
+msgstr "済南"
 
 msgid "Xinjiang Uygur Autonomous Region"
-msgstr "新疆維吾爾自治區"
+msgstr "新疆ウイグル自治区"
 
 msgid "Xinjiang Uygur Autonomous Region|Urumqi"
-msgstr "烏魯木齊"
+msgstr "ウルムチ"
 
 msgid "Tibet Autonomous Region"
-msgstr "西藏自治區"
+msgstr "西蔵自治区"
 
 msgid "Tibet Autonomous Region|Lhasa"
-msgstr "拉薩"
+msgstr "ラサ"
 
 msgid "Qinghai"
 msgstr "青海省"
@@ -152,13 +152,13 @@ msgid "Qinghai|Xining"
 msgstr "西寧"
 
 msgid "Gansu"
-msgstr "甘肅省"
+msgstr "甘粛省"
 
 msgid "Gansu|Lanzhou"
 msgstr "蘭州"
 
 msgid "Ningxia Hui Autonomous Region"
-msgstr "寧夏回族自治區"
+msgstr "寧夏回族自治区"
 
 msgid "Ningxia Hui Autonomous Region|Yinchuan"
 msgstr "銀川"
@@ -224,10 +224,10 @@ msgid "Sichuan|Chengdu"
 msgstr "成都"
 
 msgid "Guangdong"
-msgstr "廣東省"
+msgstr "広東省"
 
 msgid "Guangdong|Guangzhou"
-msgstr "廣州"
+msgstr "広州"
 
 msgid "Guangdong|Shenzhen"
 msgstr "深圳"
@@ -239,7 +239,7 @@ msgid "Yunnan|Kunming"
 msgstr "昆明"
 
 msgid "Guangxi Zhuang Autonomous Region"
-msgstr "廣西壯族自治區"
+msgstr "広西チワン族自治区"
 
 msgid "Guangxi Zhuang Autonomous Region|Nanning"
 msgstr "南寧"
@@ -248,7 +248,7 @@ msgid "Guangxi Zhuang Autonomous Region|Yulin"
 msgstr "玉林"
 
 msgid "Guangxi Zhuang Autonomous Region|Rong County"
-msgstr "容縣"
+msgstr "容県"
 
 msgid "Hainan"
 msgstr "海南省"
@@ -257,19 +257,19 @@ msgid "Hainan|Haikou"
 msgstr "海口"
 
 msgid "Hong Kong SAR"
-msgstr "香港特別行政區"
+msgstr "香港特別行政区"
 
 msgid "Hong Kong SAR|Hong Kong"
 msgstr "香港"
 
 msgid "Macao SAR"
-msgstr "澳門特別行政區"
+msgstr "マカオ特別行政区"
 
 msgid "Macao SAR|Macao"
-msgstr "澳門"
+msgstr "マカオ"
 
 msgid "Taiwan, Province of China"
-msgstr "台灣省"
+msgstr "台湾省"
 
 msgid "Taiwan, Province of China|Taipei"
 msgstr "台北"
