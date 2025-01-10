@@ -76,14 +76,272 @@ msgstr "和风天气"
 msgid "Beijing"
 msgstr "北京"
 
+msgid "Beijing|Haidian"
+msgstr "海淀"
+
+msgid "Beijing|Chaoyang"
+msgstr "朝阳"
+
+msgid "Beijing|Shunyi"
+msgstr "顺义"
+
+msgid "Beijing|Huairou"
+msgstr "怀柔"
+
+msgid "Beijing|Tongzhou"
+msgstr "通州"
+
+msgid "Beijing|Changping"
+msgstr "昌平"
+
+msgid "Beijing|Yanqing"
+msgstr "延庆"
+
+msgid "Beijing|Fengtai"
+msgstr "丰台"
+
+msgid "Beijing|Shijingshan"
+msgstr "石景山"
+
+msgid "Beijing|Daxing"
+msgstr "大兴"
+
+msgid "Beijing|Fangshan"
+msgstr "房山"
+
+msgid "Beijing|Miyun"
+msgstr "密云"
+
+msgid "Beijing|Mentougou"
+msgstr "门头沟"
+
+msgid "Beijing|Pinggu"
+msgstr "平谷"
+
+msgid "Beijing|Dongcheng"
+msgstr "东城"
+
+msgid "Beijing|Xicheng"
+msgstr "西城"
+
 msgid "Shanghai"
 msgstr "上海"
+
+msgid "Shanghai|Minhang"
+msgstr "闵行"
+
+msgid "Shanghai|Baoshan"
+msgstr "宝山"
+
+msgid "Shanghai|Huangpu"
+msgstr "黄浦"
+
+msgid "Shanghai|Jiading"
+msgstr "嘉定"
+
+msgid "Shanghai|Pudong"
+msgstr "浦东新区"
+
+msgid "Shanghai|Jinshan"
+msgstr "金山"
+
+msgid "Shanghai|Qingpu"
+msgstr "青浦"
+
+msgid "Shanghai|Songjiang"
+msgstr "松江"
+
+msgid "Shanghai|Fengxian"
+msgstr "奉贤"
+
+msgid "Shanghai|Chongming"
+msgstr "崇明"
+
+msgid "Shanghai|Xuhui"
+msgstr "徐汇"
+
+msgid "Shanghai|Changning"
+msgstr "长宁"
+
+msgid "Shanghai|Jing'an"
+msgstr "静安"
+
+msgid "Shanghai|Putuo"
+msgstr "普陀"
+
+msgid "Shanghai|Hongkou"
+msgstr "虹口"
+
+msgid "Shanghai|Yangpu"
+msgstr "杨浦"
 
 msgid "Tianjin"
 msgstr "天津"
 
+msgid "Tianjin|Wuqing"
+msgstr "武清"
+
+msgid "Tianjin|Baodi"
+msgstr "宝坻"
+
+msgid "Tianjin|Dongli"
+msgstr "东丽"
+
+msgid "Tianjin|Xiqing"
+msgstr "西青"
+
+msgid "Tianjin|Beichen"
+msgstr "北辰"
+
+msgid "Tianjin|Ninghe"
+msgstr "宁河"
+
+msgid "Tianjin|Heping"
+msgstr "和平"
+
+msgid "Tianjin|Jinghai"
+msgstr "静海"
+
+msgid "Tianjin|Jinnan"
+msgstr "津南"
+
+msgid "Tianjin|Binhai"
+msgstr "滨海新区"
+
+msgid "Tianjin|Hedong"
+msgstr "河东"
+
+msgid "Tianjin|Hexi"
+msgstr "河西"
+
+msgid "Tianjin|Jizhou"
+msgstr "蓟州"
+
+msgid "Tianjin|Nankai"
+msgstr "南开"
+
+msgid "Tianjin|Hebei"
+msgstr "河北"
+
+msgid "Tianjin|Hongqiao"
+msgstr "红桥"
+
 msgid "Chongqing"
 msgstr "重庆"
+
+msgid "Chongqing|Yongchuan"
+msgstr "永川"
+
+msgid "Chongqing|Hechuan"
+msgstr "合川"
+
+msgid "Chongqing|Nanchuan"
+msgstr "南川"
+
+msgid "Chongqing|Jiangjin"
+msgstr "江津"
+
+msgid "Chongqing|Yu Bei"
+msgstr "渝北"
+
+msgid "Chongqing|Beibei"
+msgstr "北碚"
+
+msgid "Chongqing|Banan"
+msgstr "巴南"
+
+msgid "Chongqing|Changshou"
+msgstr "长寿"
+
+msgid "Chongqing|Qianjiang"
+msgstr "黔江"
+
+msgid "Chongqing|Yuzhong"
+msgstr "渝中"
+
+msgid "Chongqing|Wanzhou"
+msgstr "万州"
+
+msgid "Chongqing|Fuling"
+msgstr "涪陵"
+
+msgid "Chongqing|Chengkou"
+msgstr "城口"
+
+msgid "Chongqing|Yunyang"
+msgstr "云阳"
+
+msgid "Chongqing|Wuxi"
+msgstr "巫溪"
+
+msgid "Chongqing|Fengjie"
+msgstr "奉节"
+
+msgid "Chongqing|Wushan"
+msgstr "巫山"
+
+msgid "Chongqing|Tongnan"
+msgstr "潼南"
+
+msgid "Chongqing|Dianjiang"
+msgstr "垫江"
+
+msgid "Chongqing|Liangping"
+msgstr "梁平"
+
+msgid "Chongqing|Zhong County"
+msgstr "忠县"
+
+msgid "Chongqing|Shizhu"
+msgstr "石柱"
+
+msgid "Chongqing|Dazu"
+msgstr "大足"
+
+msgid "Chongqing|Rongchang"
+msgstr "荣昌"
+
+msgid "Chongqing|Tongliang"
+msgstr "铜梁"
+
+msgid "Chongqing|Bishan"
+msgstr "璧山"
+
+msgid "Chongqing|Fengdu"
+msgstr "丰都"
+
+msgid "Chongqing|Wulong"
+msgstr "武隆"
+
+msgid "Chongqing|Pengshui"
+msgstr "彭水"
+
+msgid "Chongqing|Qijiang"
+msgstr "綦江"
+
+msgid "Chongqing|Youyang"
+msgstr "酉阳"
+
+msgid "Chongqing|Dadukou"
+msgstr "大渡口"
+
+msgid "Chongqing|Xiushan"
+msgstr "秀山"
+
+msgid "Chongqing|Jiangbei"
+msgstr "江北"
+
+msgid "Chongqing|Shapingba"
+msgstr "沙坪坝"
+
+msgid "Chongqing|Jiulongpo"
+msgstr "九龙坡"
+
+msgid "Chongqing|Nan'an"
+msgstr "南岸"
+
+msgid "Chongqing|Kaizhou"
+msgstr "开州"
 
 msgid "Heilongjiang"
 msgstr "黑龙江省"
@@ -91,11 +349,614 @@ msgstr "黑龙江省"
 msgid "Heilongjiang|Harbin"
 msgstr "哈尔滨"
 
+msgid "Heilongjiang|Shuangcheng"
+msgstr "双城"
+
+msgid "Heilongjiang|Hulan"
+msgstr "呼兰"
+
+msgid "Heilongjiang|Acheng"
+msgstr "阿城"
+
+msgid "Heilongjiang|Bin County"
+msgstr "宾县"
+
+msgid "Heilongjiang|Yilan"
+msgstr "依兰"
+
+msgid "Heilongjiang|Bayan"
+msgstr "巴彦"
+
+msgid "Heilongjiang|Tonghe"
+msgstr "通河"
+
+msgid "Heilongjiang|Fangzheng"
+msgstr "方正"
+
+msgid "Heilongjiang|Yanshou"
+msgstr "延寿"
+
+msgid "Heilongjiang|Shangzhi"
+msgstr "尚志"
+
+msgid "Heilongjiang|Wuchang"
+msgstr "五常"
+
+msgid "Heilongjiang|Mulan"
+msgstr "木兰"
+
+msgid "Heilongjiang|Daoli"
+msgstr "道里"
+
+msgid "Heilongjiang|Nangang"
+msgstr "南岗"
+
+msgid "Heilongjiang|Daowai"
+msgstr "道外"
+
+msgid "Heilongjiang|Pingfang"
+msgstr "平房"
+
+msgid "Heilongjiang|Songbei"
+msgstr "松北"
+
+msgid "Heilongjiang|Xiangfang"
+msgstr "香坊"
+
+msgid "Heilongjiang|Qiqihar"
+msgstr "齐齐哈尔"
+
+msgid "Heilongjiang|Nehe"
+msgstr "讷河"
+
+msgid "Heilongjiang|Longjiang"
+msgstr "龙江"
+
+msgid "Heilongjiang|Gannan Prefecture"
+msgstr "甘南"
+
+msgid "Heilongjiang|Fuyu"
+msgstr "富裕"
+
+msgid "Heilongjiang|Yi'an"
+msgstr "依安"
+
+msgid "Heilongjiang|Baiquan"
+msgstr "拜泉"
+
+msgid "Heilongjiang|Keshan"
+msgstr "克山"
+
+msgid "Heilongjiang|Kedong"
+msgstr "克东"
+
+msgid "Heilongjiang|Tailai"
+msgstr "泰来"
+
+msgid "Heilongjiang|Longsha"
+msgstr "龙沙"
+
+msgid "Heilongjiang|Jianhua"
+msgstr "建华"
+
+msgid "Heilongjiang|Tiefeng"
+msgstr "铁锋"
+
+msgid "Heilongjiang|Ang'angxi"
+msgstr "昂昂溪"
+
+msgid "Heilongjiang|Fulaerji"
+msgstr "富拉尔基"
+
+msgid "Heilongjiang|Nianzishan"
+msgstr "碾子山"
+
+msgid "Heilongjiang|Meilisi Daur"
+msgstr "梅里斯"
+
+msgid "Heilongjiang|Mudanjiang"
+msgstr "牡丹江"
+
+msgid "Heilongjiang|Hailin"
+msgstr "海林"
+
+msgid "Heilongjiang|Muling"
+msgstr "穆棱"
+
+msgid "Heilongjiang|Linkou"
+msgstr "林口"
+
+msgid "Heilongjiang|Suifenhe"
+msgstr "绥芬河"
+
+msgid "Heilongjiang|Ning'an"
+msgstr "宁安"
+
+msgid "Heilongjiang|Dongning"
+msgstr "东宁"
+
+msgid "Heilongjiang|Dong'an"
+msgstr "东安"
+
+msgid "Heilongjiang|Yangming"
+msgstr "阳明"
+
+msgid "Heilongjiang|Aimin"
+msgstr "爱民"
+
+msgid "Heilongjiang|Xi'an"
+msgstr "西安"
+
+msgid "Heilongjiang|Jiamusi"
+msgstr "佳木斯"
+
+msgid "Heilongjiang|Tangyuan"
+msgstr "汤原"
+
+msgid "Heilongjiang|Fuyuan"
+msgstr "抚远"
+
+msgid "Heilongjiang|Huachuan"
+msgstr "桦川"
+
+msgid "Heilongjiang|Huanan"
+msgstr "桦南"
+
+msgid "Heilongjiang|Tongjiang"
+msgstr "同江"
+
+msgid "Heilongjiang|Fujin"
+msgstr "富锦"
+
+msgid "Heilongjiang|Xiangyang"
+msgstr "向阳"
+
+msgid "Heilongjiang|Qianjin"
+msgstr "前进"
+
+msgid "Heilongjiang|Dongfeng"
+msgstr "东风"
+
+msgid "Heilongjiang|Jiaoqu"
+msgstr "郊区"
+
+msgid "Heilongjiang|Suihua"
+msgstr "绥化"
+
+msgid "Heilongjiang|Zhaodong"
+msgstr "肇东"
+
+msgid "Heilongjiang|Anda"
+msgstr "安达"
+
+msgid "Heilongjiang|Hailun"
+msgstr "海伦"
+
+msgid "Heilongjiang|Mingshui"
+msgstr "明水"
+
+msgid "Heilongjiang|Wangkui"
+msgstr "望奎"
+
+msgid "Heilongjiang|Lanxi"
+msgstr "兰西"
+
+msgid "Heilongjiang|Qinggang"
+msgstr "青冈"
+
+msgid "Heilongjiang|Qing'an"
+msgstr "庆安"
+
+msgid "Heilongjiang|Suiling"
+msgstr "绥棱"
+
+msgid "Heilongjiang|Beilin"
+msgstr "北林"
+
+msgid "Heilongjiang|Heihe"
+msgstr "黑河"
+
+msgid "Heilongjiang|Nenjiang"
+msgstr "嫩江"
+
+msgid "Heilongjiang|Sunwu"
+msgstr "孙吴"
+
+msgid "Heilongjiang|Xunke"
+msgstr "逊克"
+
+msgid "Heilongjiang|Wudalianchi"
+msgstr "五大连池"
+
+msgid "Heilongjiang|Bei'an"
+msgstr "北安"
+
+msgid "Heilongjiang|Aihui"
+msgstr "爱辉"
+
+msgid "Heilongjiang|Daxing'anling Prefecture"
+msgstr "大兴安岭"
+
+msgid "Heilongjiang|Tahe"
+msgstr "塔河"
+
+msgid "Heilongjiang|Mohe"
+msgstr "漠河"
+
+msgid "Heilongjiang|Huma"
+msgstr "呼玛"
+
+msgid "Heilongjiang|Yichun"
+msgstr "伊春"
+
+msgid "Heilongjiang|Tieli"
+msgstr "铁力"
+
+msgid "Heilongjiang|Jiayin"
+msgstr "嘉荫"
+
+msgid "Heilongjiang|Nancha"
+msgstr "南岔"
+
+msgid "Heilongjiang|Youhao zone"
+msgstr "友好"
+
+msgid "Heilongjiang|Jinlin"
+msgstr "金林"
+
+msgid "Heilongjiang|Yimei"
+msgstr "伊美"
+
+msgid "Heilongjiang|Wucui"
+msgstr "乌翠"
+
+msgid "Heilongjiang|Tangwangxian"
+msgstr "汤旺县"
+
+msgid "Heilongjiang|Daqingshan"
+msgstr "大箐山县"
+
+msgid "Heilongjiang|Fenglin"
+msgstr "丰林"
+
+msgid "Heilongjiang|Daqing"
+msgstr "大庆"
+
+msgid "Heilongjiang|Lindian"
+msgstr "林甸"
+
+msgid "Heilongjiang|Zhaozhou"
+msgstr "肇州"
+
+msgid "Heilongjiang|Zhaoyuan"
+msgstr "肇源"
+
+msgid "Heilongjiang|Dorbod"
+msgstr "杜尔伯特"
+
+msgid "Heilongjiang|Sartu"
+msgstr "萨尔图"
+
+msgid "Heilongjiang|Longfeng"
+msgstr "龙凤"
+
+msgid "Heilongjiang|Ranghulu"
+msgstr "让胡路"
+
+msgid "Heilongjiang|Honggang"
+msgstr "红岗"
+
+msgid "Heilongjiang|Datong"
+msgstr "大同"
+
+msgid "Heilongjiang|Xinxing"
+msgstr "新兴"
+
+msgid "Heilongjiang|Qitaihe"
+msgstr "七台河"
+
+msgid "Heilongjiang|Boli"
+msgstr "勃利"
+
+msgid "Heilongjiang|Taoshan"
+msgstr "桃山"
+
+msgid "Heilongjiang|Qiezihe"
+msgstr "茄子河"
+
+msgid "Heilongjiang|Jixi"
+msgstr "鸡西"
+
+msgid "Heilongjiang|Hulin"
+msgstr "虎林"
+
+msgid "Heilongjiang|Mishan"
+msgstr "密山"
+
+msgid "Heilongjiang|Jidong"
+msgstr "鸡东"
+
+msgid "Heilongjiang|Jiguan"
+msgstr "鸡冠"
+
+msgid "Heilongjiang|Hengshan"
+msgstr "恒山"
+
+msgid "Heilongjiang|Didao"
+msgstr "滴道"
+
+msgid "Heilongjiang|Lishu"
+msgstr "梨树"
+
+msgid "Heilongjiang|Chengzihe"
+msgstr "城子河"
+
+msgid "Heilongjiang|Mashan"
+msgstr "麻山"
+
+msgid "Heilongjiang|Hegang"
+msgstr "鹤岗"
+
+msgid "Heilongjiang|Suibin"
+msgstr "绥滨"
+
+msgid "Heilongjiang|Luobei"
+msgstr "萝北"
+
+msgid "Heilongjiang|Xiangyang"
+msgstr "向阳"
+
+msgid "Heilongjiang|Gongnong"
+msgstr "工农"
+
+msgid "Heilongjiang|Nanshan"
+msgstr "南山"
+
+msgid "Heilongjiang|Xing'an"
+msgstr "兴安"
+
+msgid "Heilongjiang|Dongshan"
+msgstr "东山"
+
+msgid "Heilongjiang|Xingshan"
+msgstr "兴山"
+
+msgid "Heilongjiang|Shuangyashan"
+msgstr "双鸭山"
+
+msgid "Heilongjiang|Jixian"
+msgstr "集贤"
+
+msgid "Heilongjiang|Baoqing"
+msgstr "宝清"
+
+msgid "Heilongjiang|Raohe"
+msgstr "饶河"
+
+msgid "Heilongjiang|Youyi"
+msgstr "友谊"
+
+msgid "Heilongjiang|Jianshan"
+msgstr "尖山"
+
+msgid "Heilongjiang|Lingdong"
+msgstr "岭东"
+
+msgid "Heilongjiang|Sifangtai"
+msgstr "四方台"
+
+msgid "Heilongjiang|Baoshan"
+msgstr "宝山"
+
 msgid "Jilin"
 msgstr "吉林省"
 
 msgid "Jilin|Changchun"
 msgstr "长春"
+
+msgid "Jilin|Nong'an"
+msgstr "农安"
+
+msgid "Jilin|Dehui"
+msgstr "德惠"
+
+msgid "Jilin|Jiutai"
+msgstr "九台"
+
+msgid "Jilin|Yushu Prefecture"
+msgstr "榆树"
+
+msgid "Jilin|Shuangyang"
+msgstr "双阳"
+
+msgid "Jilin|Erdao"
+msgstr "二道"
+
+msgid "Jilin|Nanguan"
+msgstr "南关"
+
+msgid "Jilin|Kuancheng"
+msgstr "宽城"
+
+msgid "Jilin|Chaoyang"
+msgstr "朝阳"
+
+msgid "Jilin|Luyuan"
+msgstr "绿园"
+
+msgid "Jilin"
+msgstr "吉林"
+
+msgid "Jilin|Shulan"
+msgstr "舒兰"
+
+msgid "Jilin|Yongji"
+msgstr "永吉"
+
+msgid "Jilin|Jiaohe"
+msgstr "蛟河"
+
+msgid "Jilin|Panshi"
+msgstr "磐石"
+
+msgid "Jilin|Huadian"
+msgstr "桦甸"
+
+msgid "Jilin|Changyi"
+msgstr "昌邑"
+
+msgid "Jilin|Longtan"
+msgstr "龙潭"
+
+msgid "Jilin|Chuanying"
+msgstr "船营"
+
+msgid "Jilin|Fengman"
+msgstr "丰满"
+
+msgid "Jilin|Yanji"
+msgstr "延吉"
+
+msgid "Jilin|Dunhua"
+msgstr "敦化"
+
+msgid "Jilin|Antu"
+msgstr "安图"
+
+msgid "Jilin|Wangqing"
+msgstr "汪清"
+
+msgid "Jilin|Helong"
+msgstr "和龙"
+
+msgid "Jilin|Yanbian Prefecture"
+msgstr "延边"
+
+msgid "Jilin|Longjing"
+msgstr "龙井"
+
+msgid "Jilin|Hunchun"
+msgstr "珲春"
+
+msgid "Jilin|Tumen"
+msgstr "图们"
+
+msgid "Jilin|Siping"
+msgstr "四平"
+
+msgid "Jilin|Shuangliao"
+msgstr "双辽"
+
+msgid "Jilin|Lishu"
+msgstr "梨树"
+
+msgid "Jilin|Gongzhuling"
+msgstr "公主岭"
+
+msgid "Jilin|Yitong"
+msgstr "伊通"
+
+msgid "Jilin|Tiexi"
+msgstr "铁西"
+
+msgid "Jilin|Tiedong"
+msgstr "铁东"
+
+msgid "Jilin|Tonghua"
+msgstr "通化"
+
+msgid "Jilin|Meihekou"
+msgstr "梅河口"
+
+msgid "Jilin|Liuhe"
+msgstr "柳河"
+
+msgid "Jilin|Huinan"
+msgstr "辉南"
+
+msgid "Jilin|Ji'an"
+msgstr "集安"
+
+msgid "Jilin|Tonghua County"
+msgstr "通化县"
+
+msgid "Jilin|Dongchang"
+msgstr "东昌"
+
+msgid "Jilin|Erdaojiang"
+msgstr "二道江"
+
+msgid "Jilin|Baicheng"
+msgstr "白城"
+
+msgid "Jilin|Taonan"
+msgstr "洮南"
+
+msgid "Jilin|Da'an"
+msgstr "大安"
+
+msgid "Jilin|Zhenlai"
+msgstr "镇赉"
+
+msgid "Jilin|Tongyu"
+msgstr "通榆"
+
+msgid "Jilin|Taobei"
+msgstr "洮北"
+
+msgid "Jilin|Liaoyuan"
+msgstr "辽源"
+
+msgid "Jilin|Dongfeng"
+msgstr "东丰"
+
+msgid "Jilin|Dongliao"
+msgstr "东辽"
+
+msgid "Jilin|Longshan"
+msgstr "龙山"
+
+msgid "Jilin|Xi'an"
+msgstr "西安"
+
+msgid "Jilin|Songyuan"
+msgstr "松原"
+
+msgid "Jilin|Qian'an"
+msgstr "乾安"
+
+msgid "Jilin|Qian Gorlos"
+msgstr "前郭"
+
+msgid "Jilin|Changling"
+msgstr "长岭"
+
+msgid "Jilin|Fuyu"
+msgstr "扶余"
+
+msgid "Jilin|Ningjiang"
+msgstr "宁江"
+
+msgid "Jilin|Baishan"
+msgstr "白山"
+
+msgid "Jilin|Jingyu"
+msgstr "靖宇"
+
+msgid "Jilin|Linjiang"
+msgstr "临江"
+
+msgid "Jilin|Changbai"
+msgstr "长白"
+
+msgid "Jilin|Fusong"
+msgstr "抚松"
+
+msgid "Jilin|Jiangyuan"
+msgstr "江源"
+
+msgid "Jilin|Hunjiang"
+msgstr "浑江"
 
 msgid "Liaoning"
 msgstr "辽宁省"
@@ -103,11 +964,692 @@ msgstr "辽宁省"
 msgid "Liaoning|Shenyang"
 msgstr "沈阳"
 
+msgid "Liaoning|Hunnan"
+msgstr "浑南"
+
+msgid "Liaoning|Liaozhong"
+msgstr "辽中"
+
+msgid "Liaoning|Kangping"
+msgstr "康平"
+
+msgid "Liaoning|Faku"
+msgstr "法库"
+
+msgid "Liaoning|Xinmin"
+msgstr "新民"
+
+msgid "Liaoning|Heping"
+msgstr "和平"
+
+msgid "Liaoning|Shenhe"
+msgstr "沈河"
+
+msgid "Liaoning|Dadong"
+msgstr "大东"
+
+msgid "Liaoning|Huanggu"
+msgstr "皇姑"
+
+msgid "Liaoning|Tiexi"
+msgstr "铁西"
+
+msgid "Liaoning|Sujiatun"
+msgstr "苏家屯"
+
+msgid "Liaoning|Shenbei New Area"
+msgstr "沈北新区"
+
+msgid "Liaoning|Yuhong"
+msgstr "于洪"
+
+msgid "Liaoning|Dalian"
+msgstr "大连"
+
+msgid "Liaoning|Wafangdian"
+msgstr "瓦房店"
+
+msgid "Liaoning|Jinzhou"
+msgstr "金州"
+
+msgid "Liaoning|Pulandian"
+msgstr "普兰店"
+
+msgid "Liaoning|Lyushunkou"
+msgstr "旅顺"
+
+msgid "Liaoning|Changhai"
+msgstr "长海"
+
+msgid "Liaoning|Zhuanghe"
+msgstr "庄河"
+
+msgid "Liaoning|Zhongshan"
+msgstr "中山"
+
+msgid "Liaoning|Xigang"
+msgstr "西岗"
+
+msgid "Liaoning|Shahekou"
+msgstr "沙河口"
+
+msgid "Liaoning|Ganjingzi"
+msgstr "甘井子"
+
+msgid "Liaoning|Anshan"
+msgstr "鞍山"
+
+msgid "Liaoning|Tai'an"
+msgstr "台安"
+
+msgid "Liaoning|Xiuyan"
+msgstr "岫岩"
+
+msgid "Liaoning|Haicheng"
+msgstr "海城"
+
+msgid "Liaoning|Tiedong"
+msgstr "铁东"
+
+msgid "Liaoning|Tiexi"
+msgstr "铁西"
+
+msgid "Liaoning|Lishan"
+msgstr "立山"
+
+msgid "Liaoning|Qianshan"
+msgstr "千山"
+
+msgid "Liaoning|Fushun"
+msgstr "抚顺"
+
+msgid "Liaoning|Xinbin"
+msgstr "新宾"
+
+msgid "Liaoning|Qingyuan"
+msgstr "清原"
+
+msgid "Liaoning|Xinfu"
+msgstr "新抚"
+
+msgid "Liaoning|Dongzhou"
+msgstr "东洲"
+
+msgid "Liaoning|Wanghua"
+msgstr "望花"
+
+msgid "Liaoning|Shuncheng"
+msgstr "顺城"
+
+msgid "Liaoning|Fushun County"
+msgstr "抚顺县"
+
+msgid "Liaoning|Benxi"
+msgstr "本溪"
+
+msgid "Liaoning|Benxi County"
+msgstr "本溪县"
+
+msgid "Liaoning|Pingshan"
+msgstr "平山"
+
+msgid "Liaoning|Huanren"
+msgstr "桓仁"
+
+msgid "Liaoning|Xihu"
+msgstr "溪湖"
+
+msgid "Liaoning|Mingshan"
+msgstr "明山"
+
+msgid "Liaoning|Nanfen"
+msgstr "南芬"
+
+msgid "Liaoning|Dandong"
+msgstr "丹东"
+
+msgid "Liaoning|Fengcheng"
+msgstr "凤城"
+
+msgid "Liaoning|Kuandian"
+msgstr "宽甸"
+
+msgid "Liaoning|Donggang"
+msgstr "东港"
+
+msgid "Liaoning|Yuanbao"
+msgstr "元宝"
+
+msgid "Liaoning|Zhenxing"
+msgstr "振兴"
+
+msgid "Liaoning|Zhen'an"
+msgstr "振安"
+
+msgid "Liaoning|Jinzhou"
+msgstr "锦州"
+
+msgid "Liaoning|Linghai"
+msgstr "凌海"
+
+msgid "Liaoning|Guta"
+msgstr "古塔"
+
+msgid "Liaoning|Yi County"
+msgstr "义县"
+
+msgid "Liaoning|Heishan"
+msgstr "黑山"
+
+msgid "Liaoning|Beizhen"
+msgstr "北镇"
+
+msgid "Liaoning|Linghe"
+msgstr "凌河"
+
+msgid "Liaoning|Taihe"
+msgstr "太和"
+
+msgid "Liaoning|Yingkou"
+msgstr "营口"
+
+msgid "Liaoning|Dashiqiao"
+msgstr "大石桥"
+
+msgid "Liaoning|Gaizhou"
+msgstr "盖州"
+
+msgid "Liaoning|Zhanqian"
+msgstr "站前"
+
+msgid "Liaoning|Xishi"
+msgstr "西市"
+
+msgid "Liaoning|Bayuquan"
+msgstr "鲅鱼圈"
+
+msgid "Liaoning|Laobian"
+msgstr "老边"
+
+msgid "Liaoning|Fuxin"
+msgstr "阜新"
+
+msgid "Liaoning|Zhangwu"
+msgstr "彰武"
+
+msgid "Liaoning|Haizhou"
+msgstr "海州"
+
+msgid "Liaoning|Xinqiu"
+msgstr "新邱"
+
+msgid "Liaoning|Taiping"
+msgstr "太平"
+
+msgid "Liaoning|Qinghemen"
+msgstr "清河门"
+
+msgid "Liaoning|Xihe"
+msgstr "细河"
+
+msgid "Liaoning|Fuxin County"
+msgstr "阜新县"
+
+msgid "Liaoning|Liaoyang"
+msgstr "辽阳"
+
+msgid "Liaoning|Liaoyang"
+msgstr "辽阳县"
+
+msgid "Liaoning|Dengta"
+msgstr "灯塔"
+
+msgid "Liaoning|Gongchangling"
+msgstr "弓长岭"
+
+msgid "Liaoning|Baita"
+msgstr "白塔"
+
+msgid "Liaoning|Wensheng"
+msgstr "文圣"
+
+msgid "Liaoning|Hongwei"
+msgstr "宏伟"
+
+msgid "Liaoning|Taizihe"
+msgstr "太子河"
+
+msgid "Liaoning|Tieling"
+msgstr "铁岭"
+
+msgid "Liaoning|Kaiyuan"
+msgstr "开原"
+
+msgid "Liaoning|Changtu"
+msgstr "昌图"
+
+msgid "Liaoning|Xifeng"
+msgstr "西丰"
+
+msgid "Liaoning|Diaobingshan"
+msgstr "调兵山"
+
+msgid "Liaoning|Yinzhou"
+msgstr "银州"
+
+msgid "Liaoning|Qinghe"
+msgstr "清河"
+
+msgid "Liaoning|Tieling County"
+msgstr "铁岭县"
+
+msgid "Liaoning|Chaoyang"
+msgstr "朝阳"
+
+msgid "Liaoning|Shuangta"
+msgstr "双塔"
+
+msgid "Liaoning|Lingyuan"
+msgstr "凌源"
+
+msgid "Liaoning|Kazuo"
+msgstr "喀左"
+
+msgid "Liaoning|Beipiao"
+msgstr "北票"
+
+msgid "Liaoning|Longcheng"
+msgstr "龙城"
+
+msgid "Liaoning|Jianping"
+msgstr "建平县"
+
+msgid "Liaoning|Chaoyang County"
+msgstr "朝阳县"
+
+msgid "Liaoning|Panjin"
+msgstr "盘锦"
+
+msgid "Liaoning|Dawa"
+msgstr "大洼"
+
+msgid "Liaoning|Panshan"
+msgstr "盘山"
+
+msgid "Liaoning|Shuangtaizi"
+msgstr "双台子"
+
+msgid "Liaoning|Xinglongtai"
+msgstr "兴隆台"
+
+msgid "Liaoning|Huludao"
+msgstr "葫芦岛"
+
+msgid "Liaoning|Jianchang"
+msgstr "建昌"
+
+msgid "Liaoning|Suizhong"
+msgstr "绥中"
+
+msgid "Liaoning|Xingcheng"
+msgstr "兴城"
+
+msgid "Liaoning|Lianshan"
+msgstr "连山"
+
+msgid "Liaoning|Longgang"
+msgstr "龙港"
+
+msgid "Liaoning|Nanpiao"
+msgstr "南票"
+
 msgid "Inner Mongolia Autonomous Region"
 msgstr "内蒙古自治区"
 
 msgid "Inner Mongolia Autonomous Region|Hohhot"
 msgstr "呼和浩特"
+
+msgid "Inner Mongolia Autonomous Region|Tumed Left Banner"
+msgstr "土左旗"
+
+msgid "Inner Mongolia Autonomous Region|Togtoh"
+msgstr "托克托"
+
+msgid "Inner Mongolia Autonomous Region|Horinger"
+msgstr "和林"
+
+msgid "Inner Mongolia Autonomous Region|Qingshuihe"
+msgstr "清水河"
+
+msgid "Inner Mongolia Autonomous Region|SaiHan"
+msgstr "赛罕"
+
+msgid "Inner Mongolia Autonomous Region|Wuchuan"
+msgstr "武川"
+
+msgid "Inner Mongolia Autonomous Region|Xincheng"
+msgstr "新城"
+
+msgid "Inner Mongolia Autonomous Region|Huimin"
+msgstr "回民"
+
+msgid "Inner Mongolia Autonomous Region|Yuquan"
+msgstr "玉泉"
+
+msgid "Inner Mongolia Autonomous Region|Baotou"
+msgstr "包头"
+
+msgid "Inner Mongolia Autonomous Region|Bayan Obo Mining District"
+msgstr "白云鄂博"
+
+msgid "Inner Mongolia Autonomous Region|Tumd Right Banner"
+msgstr "土右旗"
+
+msgid "Inner Mongolia Autonomous Region|Guyang"
+msgstr "固阳"
+
+msgid "Inner Mongolia Autonomous Region|Darhan Muminggan United Banner"
+msgstr "达茂旗"
+
+msgid "Inner Mongolia Autonomous Region|Donghe"
+msgstr "东河"
+
+msgid "Inner Mongolia Autonomous Region|Hondlon"
+msgstr "昆都仑"
+
+msgid "Inner Mongolia Autonomous Region|Qingshan"
+msgstr "青山"
+
+msgid "Inner Mongolia Autonomous Region|Shiguai"
+msgstr "石拐"
+
+msgid "Inner Mongolia Autonomous Region|Jiuyuan"
+msgstr "九原"
+
+msgid "Inner Mongolia Autonomous Region|Wuhai"
+msgstr "乌海"
+
+msgid "Inner Mongolia Autonomous Region|Haibowan"
+msgstr "海勃湾"
+
+msgid "Inner Mongolia Autonomous Region|Hainan Prefecture"
+msgstr "海南"
+
+msgid "Inner Mongolia Autonomous Region|Ud"
+msgstr "乌达"
+
+msgid "Inner Mongolia Autonomous Region|Jining"
+msgstr "集宁"
+
+msgid "Inner Mongolia Autonomous Region|Zhuozi"
+msgstr "卓资"
+
+msgid "Inner Mongolia Autonomous Region|Huade"
+msgstr "化德"
+
+msgid "Inner Mongolia Autonomous Region|Shangdu"
+msgstr "商都"
+
+msgid "Inner Mongolia Autonomous Region|Ulanqab"
+msgstr "乌兰察布"
+
+msgid "Inner Mongolia Autonomous Region|Xinghe"
+msgstr "兴和"
+
+msgid "Inner Mongolia Autonomous Region|Liangcheng"
+msgstr "凉城"
+
+msgid "Inner Mongolia Autonomous Region|Chahar Right Front Banner"
+msgstr "察右前旗"
+
+msgid "Inner Mongolia Autonomous Region|Chahar Right Middle Banner"
+msgstr "察右中旗"
+
+msgid "Inner Mongolia Autonomous Region|Chahar Right Rear Banner"
+msgstr "察右后旗"
+
+msgid "Inner Mongolia Autonomous Region|Siziwang"
+msgstr "四子王旗"
+
+msgid "Inner Mongolia Autonomous Region|Fengzhen"
+msgstr "丰镇"
+
+msgid "Inner Mongolia Autonomous Region|Tongliao"
+msgstr "通辽"
+
+msgid "Inner Mongolia Autonomous Region|Horqin Left Middle Banner"
+msgstr "科左中旗"
+
+msgid "Inner Mongolia Autonomous Region|Horqin Left Rear Banner"
+msgstr "科左后旗"
+
+msgid "Inner Mongolia Autonomous Region|Kailu"
+msgstr "开鲁"
+
+msgid "Inner Mongolia Autonomous Region|Hure Banner"
+msgstr "库伦"
+
+msgid "Inner Mongolia Autonomous Region|Naiman Banner"
+msgstr "奈曼"
+
+msgid "Inner Mongolia Autonomous Region|Jarud Banner"
+msgstr "扎鲁特"
+
+msgid "Inner Mongolia Autonomous Region|Horqin"
+msgstr "科尔沁"
+
+msgid "Inner Mongolia Autonomous Region|Holingol"
+msgstr "霍林郭勒"
+
+msgid "Inner Mongolia Autonomous Region|Chifeng"
+msgstr "赤峰"
+
+msgid "Inner Mongolia Autonomous Region|Hongshan"
+msgstr "红山"
+
+msgid "Inner Mongolia Autonomous Region|Ar Horqin Banner"
+msgstr "阿鲁旗"
+
+msgid "Inner Mongolia Autonomous Region|Bairin Left Banner"
+msgstr "巴林左旗"
+
+msgid "Inner Mongolia Autonomous Region|Bairin Right Banner"
+msgstr "巴林右旗"
+
+msgid "Inner Mongolia Autonomous Region|Linxi"
+msgstr "林西"
+
+msgid "Inner Mongolia Autonomous Region|Hexigten Banner"
+msgstr "克什克腾"
+
+msgid "Inner Mongolia Autonomous Region|Ongniud Banner"
+msgstr "翁牛特"
+
+msgid "Inner Mongolia Autonomous Region|Harqin Banner"
+msgstr "喀喇沁"
+
+msgid "Inner Mongolia Autonomous Region|Ningcheng"
+msgstr "宁城"
+
+msgid "Inner Mongolia Autonomous Region|Aohan Banner"
+msgstr "敖汉"
+
+msgid "Inner Mongolia Autonomous Region|Yuanbaoshan"
+msgstr "元宝山"
+
+msgid "Inner Mongolia Autonomous Region|Songshan"
+msgstr "松山"
+
+msgid "Inner Mongolia Autonomous Region|Ordos"
+msgstr "鄂尔多斯"
+
+msgid "Inner Mongolia Autonomous Region|Dalad Banner"
+msgstr "达拉特"
+
+msgid "Inner Mongolia Autonomous Region|Jungar Banner"
+msgstr "准格尔"
+
+msgid "Inner Mongolia Autonomous Region|Otog Front Banner"
+msgstr "鄂前旗"
+
+msgid "Inner Mongolia Autonomous Region|Otog Banner"
+msgstr "鄂托克"
+
+msgid "Inner Mongolia Autonomous Region|Hanggin Banner"
+msgstr "杭锦旗"
+
+msgid "Inner Mongolia Autonomous Region|Uxin Banner"
+msgstr "乌审旗"
+
+msgid "Inner Mongolia Autonomous Region|Ejin Horo Banner"
+msgstr "伊金霍洛"
+
+msgid "Inner Mongolia Autonomous Region|Dongsheng"
+msgstr "东胜"
+
+msgid "Inner Mongolia Autonomous Region|Kangbashi"
+msgstr "康巴什"
+
+msgid "Inner Mongolia Autonomous Region|Linhe"
+msgstr "临河"
+
+msgid "Inner Mongolia Autonomous Region|Wuyuan"
+msgstr "五原"
+
+msgid "Inner Mongolia Autonomous Region|Dengkou"
+msgstr "磴口"
+
+msgid "Inner Mongolia Autonomous Region|Urad Front Banner"
+msgstr "乌前旗"
+
+msgid "Inner Mongolia Autonomous Region|Urad Middle Banner"
+msgstr "乌中旗"
+
+msgid "Inner Mongolia Autonomous Region|Urad Rear Banner"
+msgstr "乌后旗"
+
+msgid "Inner Mongolia Autonomous Region|Hanggin Rear Banner"
+msgstr "杭锦后旗"
+
+msgid "Inner Mongolia Autonomous Region|Bayannur"
+msgstr "巴彦淖尔"
+
+msgid "Inner Mongolia Autonomous Region|Xilinhot"
+msgstr "锡林浩特"
+
+msgid "Inner Mongolia Autonomous Region|Xilingol League"
+msgstr "锡林郭勒"
+
+msgid "Inner Mongolia Autonomous Region|Erenhot"
+msgstr "二连浩特"
+
+msgid "Inner Mongolia Autonomous Region|Abag Banner"
+msgstr "阿巴嘎"
+
+msgid "Inner Mongolia Autonomous Region|Sonid Left Banner"
+msgstr "苏左旗"
+
+msgid "Inner Mongolia Autonomous Region|Sonid Right Banner"
+msgstr "苏右旗"
+
+msgid "Inner Mongolia Autonomous Region|East Ujumqin Banner"
+msgstr "东乌旗"
+
+msgid "Inner Mongolia Autonomous Region|West Ujumqin Banner"
+msgstr "西乌旗"
+
+msgid "Inner Mongolia Autonomous Region|Taibus Banner"
+msgstr "太仆寺"
+
+msgid "Inner Mongolia Autonomous Region|Xianghuang Banner"
+msgstr "镶黄旗"
+
+msgid "Inner Mongolia Autonomous Region|Zhengxiangbai Banner"
+msgstr "正镶白旗"
+
+msgid "Inner Mongolia Autonomous Region|Zhenglan Banner"
+msgstr "正蓝旗"
+
+msgid "Inner Mongolia Autonomous Region|Duolun"
+msgstr "多伦"
+
+msgid "Inner Mongolia Autonomous Region|Hailar"
+msgstr "海拉尔"
+
+msgid "Inner Mongolia Autonomous Region|Arun Banner"
+msgstr "阿荣旗"
+
+msgid "Inner Mongolia Autonomous Region|Morin Dawa Daur"
+msgstr "莫力达瓦"
+
+msgid "Inner Mongolia Autonomous Region|Oroqen"
+msgstr "鄂伦春旗"
+
+msgid "Inner Mongolia Autonomous Region|Ewenki"
+msgstr "鄂温克旗"
+
+msgid "Inner Mongolia Autonomous Region|Chen Barag"
+msgstr "陈旗"
+
+msgid "Inner Mongolia Autonomous Region|New Barag Left Banner"
+msgstr "新左旗"
+
+msgid "Inner Mongolia Autonomous Region|New Barag Right Banner"
+msgstr "新右旗"
+
+msgid "Inner Mongolia Autonomous Region|Manzhouli"
+msgstr "满洲里"
+
+msgid "Inner Mongolia Autonomous Region|Yakeshi"
+msgstr "牙克石"
+
+msgid "Inner Mongolia Autonomous Region|Zhalantun"
+msgstr "扎兰屯"
+
+msgid "Inner Mongolia Autonomous Region|Hulunbuir"
+msgstr "呼伦贝尔"
+
+msgid "Inner Mongolia Autonomous Region|Ergun"
+msgstr "额尔古纳"
+
+msgid "Inner Mongolia Autonomous Region|Genhe"
+msgstr "根河"
+
+msgid "Inner Mongolia Autonomous Region|Zhalainuoer"
+msgstr "扎赉诺尔"
+
+msgid "Inner Mongolia Autonomous Region|Ulanhot"
+msgstr "乌兰浩特"
+
+msgid "Inner Mongolia Autonomous Region|Arxan"
+msgstr "阿尔山"
+
+msgid "Inner Mongolia Autonomous Region|Horqin Right Middle Banner"
+msgstr "科右中旗"
+
+msgid "Inner Mongolia Autonomous Region|Jalaid Banner"
+msgstr "扎赉特"
+
+msgid "Inner Mongolia Autonomous Region|Tuquan"
+msgstr "突泉"
+
+msgid "Inner Mongolia Autonomous Region|Hinggan League"
+msgstr "兴安盟"
+
+msgid "Inner Mongolia Autonomous Region|Horqin Right Front Banner"
+msgstr "科右前旗"
+
+msgid "Inner Mongolia Autonomous Region|Alxa Left Banner"
+msgstr "阿左旗"
+
+msgid "Inner Mongolia Autonomous Region|Alxa Right Banner"
+msgstr "阿右旗"
+
+msgid "Inner Mongolia Autonomous Region|Ejin Banner"
+msgstr "额济纳"
+
+msgid "Inner Mongolia Autonomous Region|Alxa League"
+msgstr "阿拉善盟"
 
 msgid "Hebei"
 msgstr "河北省"
@@ -115,11 +1657,926 @@ msgstr "河北省"
 msgid "Hebei|Shijiazhuang"
 msgstr "石家庄"
 
+msgid "Hebei|Jingxing"
+msgstr "井陉"
+
+msgid "Hebei|Zhengding"
+msgstr "正定"
+
+msgid "Hebei|Luancheng"
+msgstr "栾城"
+
+msgid "Hebei|Xingtang"
+msgstr "行唐"
+
+msgid "Hebei|Lingshou"
+msgstr "灵寿"
+
+msgid "Hebei|Gaoyi"
+msgstr "高邑"
+
+msgid "Hebei|Shenze"
+msgstr "深泽"
+
+msgid "Hebei|Zanhuang"
+msgstr "赞皇"
+
+msgid "Hebei|Wuji"
+msgstr "无极"
+
+msgid "Hebei|Pingshan"
+msgstr "平山"
+
+msgid "Hebei|Yuanshi"
+msgstr "元氏"
+
+msgid "Hebei|Zhao County"
+msgstr "赵县"
+
+msgid "Hebei|Xinji"
+msgstr "辛集"
+
+msgid "Hebei|Gaocheng"
+msgstr "藁城"
+
+msgid "Hebei|Jinzhou"
+msgstr "晋州"
+
+msgid "Hebei|Xinle"
+msgstr "新乐"
+
+msgid "Hebei|Luquan"
+msgstr "鹿泉"
+
+msgid "Hebei|Chang'an"
+msgstr "长安"
+
+msgid "Hebei|Qiaoxi"
+msgstr "桥西"
+
+msgid "Hebei|Xinhua"
+msgstr "新华"
+
+msgid "Hebei|Jingxing Mining District"
+msgstr "井陉矿区"
+
+msgid "Hebei|Yuhua"
+msgstr "裕华"
+
+msgid "Hebei|Baoding"
+msgstr "保定"
+
+msgid "Hebei|Mancheng"
+msgstr "满城"
+
+msgid "Hebei|Fuping"
+msgstr "阜平"
+
+msgid "Hebei|Xushui"
+msgstr "徐水"
+
+msgid "Hebei|Tang County"
+msgstr "唐县"
+
+msgid "Hebei|Gaoyang"
+msgstr "高阳"
+
+msgid "Hebei|Jingxiu"
+msgstr "竞秀"
+
+msgid "Hebei|Laiyuan"
+msgstr "涞源"
+
+msgid "Hebei|Wangdu"
+msgstr "望都"
+
+msgid "Hebei|Yi County"
+msgstr "易县"
+
+msgid "Hebei|Lianchi"
+msgstr "莲池"
+
+msgid "Hebei|Quyang"
+msgstr "曲阳"
+
+msgid "Hebei|Li County"
+msgstr "蠡县"
+
+msgid "Hebei|Shunping"
+msgstr "顺平"
+
+msgid "Hebei|Zhuozhou"
+msgstr "涿州"
+
+msgid "Hebei|Dingzhou"
+msgstr "定州"
+
+msgid "Hebei|Anguo"
+msgstr "安国"
+
+msgid "Hebei|Gaobeidian"
+msgstr "高碑店"
+
+msgid "Hebei|Laishui"
+msgstr "涞水"
+
+msgid "Hebei|Dingxing"
+msgstr "定兴"
+
+msgid "Hebei|Qingyuan"
+msgstr "清苑"
+
+msgid "Hebei|Boye"
+msgstr "博野"
+
+msgid "Hebei|Zhangjiakou"
+msgstr "张家口"
+
+msgid "Hebei|Xuanhua"
+msgstr "宣化"
+
+msgid "Hebei|Zhangbei"
+msgstr "张北"
+
+msgid "Hebei|Kangbao"
+msgstr "康保"
+
+msgid "Hebei|Guyuan"
+msgstr "沽源"
+
+msgid "Hebei|Shangyi"
+msgstr "尚义"
+
+msgid "Hebei|Yu County"
+msgstr "蔚县"
+
+msgid "Hebei|Yangyuan"
+msgstr "阳原"
+
+msgid "Hebei|Huaian"
+msgstr "怀安"
+
+msgid "Hebei|Wanquan"
+msgstr "万全"
+
+msgid "Hebei|Huailai"
+msgstr "怀来"
+
+msgid "Hebei|Zhuolu"
+msgstr "涿鹿"
+
+msgid "Hebei|Chicheng"
+msgstr "赤城"
+
+msgid "Hebei|Chongli"
+msgstr "崇礼"
+
+msgid "Hebei|Qiaodong"
+msgstr "桥东"
+
+msgid "Hebei|Qiaoxi"
+msgstr "桥西"
+
+msgid "Hebei|Xiahuayuan"
+msgstr "下花园"
+
+msgid "Hebei|Shuangqiao"
+msgstr "双桥"
+
+msgid "Hebei|Chengde"
+msgstr "承德"
+
+msgid "Hebei|Chengde"
+msgstr "承德县"
+
+msgid "Hebei|Xinglong"
+msgstr "兴隆"
+
+msgid "Hebei|Pingquan"
+msgstr "平泉"
+
+msgid "Hebei|Luanping"
+msgstr "滦平"
+
+msgid "Hebei|Longhua"
+msgstr "隆化"
+
+msgid "Hebei|Fengning"
+msgstr "丰宁"
+
+msgid "Hebei|Kuancheng"
+msgstr "宽城"
+
+msgid "Hebei|Weichang"
+msgstr "围场"
+
+msgid "Hebei|Shuangluan"
+msgstr "双滦"
+
+msgid "Hebei|Yingshouyingzi Mining District"
+msgstr "鹰手营子矿"
+
+msgid "Hebei|Tangshan"
+msgstr "唐山"
+
+msgid "Hebei|Fengnan"
+msgstr "丰南"
+
+msgid "Hebei|Fengrun"
+msgstr "丰润"
+
+msgid "Hebei|Luanzhou"
+msgstr "滦州"
+
+msgid "Hebei|Luannan"
+msgstr "滦南"
+
+msgid "Hebei|Laoting"
+msgstr "乐亭"
+
+msgid "Hebei|Qianxi"
+msgstr "迁西"
+
+msgid "Hebei|Yutian"
+msgstr "玉田"
+
+msgid "Hebei|Caofeidian"
+msgstr "曹妃甸"
+
+msgid "Hebei|Zunhua"
+msgstr "遵化"
+
+msgid "Hebei|Qian'an"
+msgstr "迁安"
+
+msgid "Hebei|Lunan"
+msgstr "路南"
+
+msgid "Hebei|Lubei"
+msgstr "路北"
+
+msgid "Hebei|Guye"
+msgstr "古冶"
+
+msgid "Hebei|Kaiping"
+msgstr "开平"
+
+msgid "Hebei|Langfang"
+msgstr "廊坊"
+
+msgid "Hebei|Gu'an"
+msgstr "固安"
+
+msgid "Hebei|Yongqing"
+msgstr "永清"
+
+msgid "Hebei|Xianghe"
+msgstr "香河"
+
+msgid "Hebei|Dacheng"
+msgstr "大城"
+
+msgid "Hebei|Wen'an"
+msgstr "文安"
+
+msgid "Hebei|Dachang"
+msgstr "大厂"
+
+msgid "Hebei|Bazhou"
+msgstr "霸州"
+
+msgid "Hebei|Sanhe"
+msgstr "三河"
+
+msgid "Hebei|Anci"
+msgstr "安次"
+
+msgid "Hebei|Guangyang"
+msgstr "广阳"
+
+msgid "Hebei|Cangzhou"
+msgstr "沧州"
+
+msgid "Hebei|Qing County"
+msgstr "青县"
+
+msgid "Hebei|Dongguang"
+msgstr "东光"
+
+msgid "Hebei|Haixing"
+msgstr "海兴"
+
+msgid "Hebei|Yanshan"
+msgstr "盐山"
+
+msgid "Hebei|Suning"
+msgstr "肃宁"
+
+msgid "Hebei|Nanpi"
+msgstr "南皮"
+
+msgid "Hebei|Wuqiao"
+msgstr "吴桥"
+
+msgid "Hebei|Xian County"
+msgstr "献县"
+
+msgid "Hebei|Mengcun"
+msgstr "孟村"
+
+msgid "Hebei|Botou"
+msgstr "泊头"
+
+msgid "Hebei|Renqiu"
+msgstr "任丘"
+
+msgid "Hebei|Huanghua"
+msgstr "黄骅"
+
+msgid "Hebei|Hejian"
+msgstr "河间"
+
+msgid "Hebei|Xinhua"
+msgstr "新华"
+
+msgid "Hebei|Cang County"
+msgstr "沧县"
+
+msgid "Hebei|Yunhe"
+msgstr "运河"
+
+msgid "Hebei|Hengshui"
+msgstr "衡水"
+
+msgid "Hebei|Zaoqiang"
+msgstr "枣强"
+
+msgid "Hebei|Wuyi"
+msgstr "武邑"
+
+msgid "Hebei|Wuqiang"
+msgstr "武强"
+
+msgid "Hebei|Raoyang"
+msgstr "饶阳"
+
+msgid "Hebei|Anping"
+msgstr "安平"
+
+msgid "Hebei|Gucheng"
+msgstr "故城"
+
+msgid "Hebei|Jing County"
+msgstr "景县"
+
+msgid "Hebei|Fucheng"
+msgstr "阜城"
+
+msgid "Hebei|Jizhou"
+msgstr "冀州"
+
+msgid "Hebei|Shenzhou"
+msgstr "深州"
+
+msgid "Hebei|Taocheng"
+msgstr "桃城"
+
+msgid "Hebei|Xingtai"
+msgstr "邢台"
+
+msgid "Hebei|Lincheng"
+msgstr "临城"
+
+msgid "Hebei|Xiangdu"
+msgstr "襄都"
+
+msgid "Hebei|Neiqiu"
+msgstr "内丘"
+
+msgid "Hebei|Baixiang"
+msgstr "柏乡"
+
+msgid "Hebei|Longyao"
+msgstr "隆尧"
+
+msgid "Hebei|Nanhe"
+msgstr "南和"
+
+msgid "Hebei|Ningjin"
+msgstr "宁晋"
+
+msgid "Hebei|Julu"
+msgstr "巨鹿"
+
+msgid "Hebei|Xinhe"
+msgstr "新河"
+
+msgid "Hebei|Guangzong"
+msgstr "广宗"
+
+msgid "Hebei|Pingxiang"
+msgstr "平乡"
+
+msgid "Hebei|Wei County"
+msgstr "威县"
+
+msgid "Hebei|Qinghe"
+msgstr "清河"
+
+msgid "Hebei|Linxi"
+msgstr "临西"
+
+msgid "Hebei|Nangong"
+msgstr "南宫"
+
+msgid "Hebei|Shahe"
+msgstr "沙河"
+
+msgid "Hebei|Renze"
+msgstr "任泽"
+
+msgid "Hebei|Xindu"
+msgstr "信都"
+
+msgid "Hebei|Handan"
+msgstr "邯郸"
+
+msgid "Hebei|Fengfeng Mining District"
+msgstr "峰峰"
+
+msgid "Hebei|Linzhang"
+msgstr "临漳"
+
+msgid "Hebei|Cheng'an"
+msgstr "成安"
+
+msgid "Hebei|Daming"
+msgstr "大名"
+
+msgid "Hebei|She County"
+msgstr "涉县"
+
+msgid "Hebei|Ci County"
+msgstr "磁县"
+
+msgid "Hebei|Feixiang"
+msgstr "肥乡"
+
+msgid "Hebei|Yongnian"
+msgstr "永年"
+
+msgid "Hebei|Qiu County"
+msgstr "邱县"
+
+msgid "Hebei|Jize"
+msgstr "鸡泽"
+
+msgid "Hebei|Guangping"
+msgstr "广平"
+
+msgid "Hebei|Guantao"
+msgstr "馆陶"
+
+msgid "Hebei|Wei County"
+msgstr "魏县"
+
+msgid "Hebei|Quzhou"
+msgstr "曲周"
+
+msgid "Hebei|Wu'an"
+msgstr "武安"
+
+msgid "Hebei|Hanshan"
+msgstr "邯山"
+
+msgid "Hebei|Congtai"
+msgstr "丛台"
+
+msgid "Hebei|Fuxing"
+msgstr "复兴"
+
+msgid "Hebei|Qinhuangdao"
+msgstr "秦皇岛"
+
+msgid "Hebei|Qinglong"
+msgstr "青龙"
+
+msgid "Hebei|Changli"
+msgstr "昌黎"
+
+msgid "Hebei|Funing"
+msgstr "抚宁"
+
+msgid "Hebei|Lulong"
+msgstr "卢龙"
+
+msgid "Hebei|Beidaihe"
+msgstr "北戴河"
+
+msgid "Hebei|Haigang"
+msgstr "海港"
+
+msgid "Hebei|Shanhaiguan"
+msgstr "山海关"
+
+msgid "Hebei|Xiong'an"
+msgstr "雄安新区"
+
+msgid "Hebei|Rongcheng"
+msgstr "容城"
+
+msgid "Hebei|Anxin"
+msgstr "安新"
+
+msgid "Hebei|Xiong County"
+msgstr "雄县"
+
 msgid "Shanxi"
 msgstr "山西省"
 
 msgid "Shanxi|Taiyuan"
 msgstr "太原"
+
+msgid "Shanxi|Qingxu"
+msgstr "清徐"
+
+msgid "Shanxi|Yangqu"
+msgstr "阳曲"
+
+msgid "Shanxi|Loufan"
+msgstr "娄烦"
+
+msgid "Shanxi|Gujiao"
+msgstr "古交"
+
+msgid "Shanxi|Jiancaoping"
+msgstr "尖草坪区"
+
+msgid "Shanxi|Xiaodian"
+msgstr "小店区"
+
+msgid "Shanxi|Yingze"
+msgstr "迎泽"
+
+msgid "Shanxi|Xinghualing"
+msgstr "杏花岭"
+
+msgid "Shanxi|Wanbolin"
+msgstr "万柏林"
+
+msgid "Shanxi|Jinyuan"
+msgstr "晋源"
+
+msgid "Shanxi|Datong"
+msgstr "大同"
+
+msgid "Shanxi|Yanggao"
+msgstr "阳高"
+
+msgid "Shanxi|Yunzhou"
+msgstr "云州"
+
+msgid "Shanxi|Tianzhen"
+msgstr "天镇"
+
+msgid "Shanxi|Guangling"
+msgstr "广灵"
+
+msgid "Shanxi|Lingqiu"
+msgstr "灵丘"
+
+msgid "Shanxi|Hunyuan"
+msgstr "浑源"
+
+msgid "Shanxi|Zuoyun"
+msgstr "左云"
+
+msgid "Shanxi|Yungang"
+msgstr "云冈"
+
+msgid "Shanxi|Xinrong"
+msgstr "新荣"
+
+msgid "Shanxi|Pingcheng"
+msgstr "平城"
+
+msgid "Shanxi|Yangquan"
+msgstr "阳泉"
+
+msgid "Shanxi|Yu County"
+msgstr "盂县"
+
+msgid "Shanxi|Pingding"
+msgstr "平定"
+
+msgid "Shanxi|Kuangqu"
+msgstr "矿区"
+
+msgid "Shanxi|Jiaoqu"
+msgstr "郊区"
+
+msgid "Shanxi|Chengqu"
+msgstr "城区"
+
+msgid "Shanxi|Jinzhong"
+msgstr "晋中"
+
+msgid "Shanxi|Yuci"
+msgstr "榆次"
+
+msgid "Shanxi|Yushe"
+msgstr "榆社"
+
+msgid "Shanxi|Zuoquan"
+msgstr "左权"
+
+msgid "Shanxi|Heshun"
+msgstr "和顺"
+
+msgid "Shanxi|Xiyang"
+msgstr "昔阳"
+
+msgid "Shanxi|Shouyang"
+msgstr "寿阳"
+
+msgid "Shanxi|Taigu"
+msgstr "太谷"
+
+msgid "Shanxi|Qi County"
+msgstr "祁县"
+
+msgid "Shanxi|Pingyao"
+msgstr "平遥"
+
+msgid "Shanxi|Lingshi"
+msgstr "灵石"
+
+msgid "Shanxi|Jiexiu"
+msgstr "介休"
+
+msgid "Shanxi|Changzhi"
+msgstr "长治"
+
+msgid "Shanxi|Licheng"
+msgstr "黎城"
+
+msgid "Shanxi|Tunliu"
+msgstr "屯留"
+
+msgid "Shanxi|Lucheng"
+msgstr "潞城"
+
+msgid "Shanxi|Xiangyuan"
+msgstr "襄垣"
+
+msgid "Shanxi|Pingshun"
+msgstr "平顺"
+
+msgid "Shanxi|Wuxiang"
+msgstr "武乡"
+
+msgid "Shanxi|Qin County"
+msgstr "沁县"
+
+msgid "Shanxi|Changzi"
+msgstr "长子"
+
+msgid "Shanxi|Qinyuan"
+msgstr "沁源"
+
+msgid "Shanxi|Huguan"
+msgstr "壶关"
+
+msgid "Shanxi|Luzhou"
+msgstr "潞州"
+
+msgid "Shanxi|Shangdang"
+msgstr "上党"
+
+msgid "Shanxi|Jincheng"
+msgstr "晋城"
+
+msgid "Shanxi|Qinshui"
+msgstr "沁水"
+
+msgid "Shanxi|Yangcheng"
+msgstr "阳城"
+
+msgid "Shanxi|Lingchuan"
+msgstr "陵川"
+
+msgid "Shanxi|Gaoping"
+msgstr "高平"
+
+msgid "Shanxi|Zezhou"
+msgstr "泽州"
+
+msgid "Shanxi|Chengqu"
+msgstr "城区"
+
+msgid "Shanxi|Linfen"
+msgstr "临汾"
+
+msgid "Shanxi|Quwo"
+msgstr "曲沃"
+
+msgid "Shanxi|Yonghe"
+msgstr "永和"
+
+msgid "Shanxi|Xi County"
+msgstr "隰县"
+
+msgid "Shanxi|Daning"
+msgstr "大宁"
+
+msgid "Shanxi|Ji County"
+msgstr "吉县"
+
+msgid "Shanxi|Xiangfen"
+msgstr "襄汾"
+
+msgid "Shanxi|Pu County"
+msgstr "蒲县"
+
+msgid "Shanxi|Fenxi"
+msgstr "汾西"
+
+msgid "Shanxi|Hongdong"
+msgstr "洪洞"
+
+msgid "Shanxi|Huozhou"
+msgstr "霍州"
+
+msgid "Shanxi|Xiangning"
+msgstr "乡宁"
+
+msgid "Shanxi|Yicheng"
+msgstr "翼城"
+
+msgid "Shanxi|Houma"
+msgstr "侯马"
+
+msgid "Shanxi|Fushan"
+msgstr "浮山"
+
+msgid "Shanxi|Anze"
+msgstr "安泽"
+
+msgid "Shanxi|Gu County"
+msgstr "古县"
+
+msgid "Shanxi|Yaodu"
+msgstr "尧都"
+
+msgid "Shanxi|Yuncheng"
+msgstr "运城"
+
+msgid "Shanxi|Linyi"
+msgstr "临猗"
+
+msgid "Shanxi|Jishan"
+msgstr "稷山"
+
+msgid "Shanxi|Wanrong"
+msgstr "万荣"
+
+msgid "Shanxi|Hejin"
+msgstr "河津"
+
+msgid "Shanxi|Xinjiang"
+msgstr "新绛"
+
+msgid "Shanxi|Jiang County"
+msgstr "绛县"
+
+msgid "Shanxi|Wenxi"
+msgstr "闻喜"
+
+msgid "Shanxi|Yuanqu"
+msgstr "垣曲"
+
+msgid "Shanxi|Yongji"
+msgstr "永济"
+
+msgid "Shanxi|Ruicheng"
+msgstr "芮城"
+
+msgid "Shanxi|Xia County"
+msgstr "夏县"
+
+msgid "Shanxi|Pinglu"
+msgstr "平陆"
+
+msgid "Shanxi|Yanhu"
+msgstr "盐湖"
+
+msgid "Shanxi|Shuozhou"
+msgstr "朔州"
+
+msgid "Shanxi|Pinglu"
+msgstr "平鲁"
+
+msgid "Shanxi|Shanyin"
+msgstr "山阴"
+
+msgid "Shanxi|Youyu"
+msgstr "右玉"
+
+msgid "Shanxi|Ying County"
+msgstr "应县"
+
+msgid "Shanxi|Huairen"
+msgstr "怀仁"
+
+msgid "Shanxi|Shuocheng"
+msgstr "朔城"
+
+msgid "Shanxi|Xinzhou"
+msgstr "忻州"
+
+msgid "Shanxi|Dingxiang"
+msgstr "定襄"
+
+msgid "Shanxi|Wutai County"
+msgstr "五台县"
+
+msgid "Shanxi|Hequ"
+msgstr "河曲"
+
+msgid "Shanxi|Pianguan"
+msgstr "偏关"
+
+msgid "Shanxi|Shenchi"
+msgstr "神池"
+
+msgid "Shanxi|Ningwu"
+msgstr "宁武"
+
+msgid "Shanxi|Dai County"
+msgstr "代县"
+
+msgid "Shanxi|Fanzhi"
+msgstr "繁峙"
+
+msgid "Shanxi|Baode"
+msgstr "保德"
+
+msgid "Shanxi|Jingle"
+msgstr "静乐"
+
+msgid "Shanxi|Kelan"
+msgstr "岢岚"
+
+msgid "Shanxi|Wuzhai"
+msgstr "五寨"
+
+msgid "Shanxi|Yuanping"
+msgstr "原平"
+
+msgid "Shanxi|Xinfu"
+msgstr "忻府"
+
+msgid "Shanxi|Lyuliang"
+msgstr "吕梁"
+
+msgid "Shanxi|Lishi"
+msgstr "离石"
+
+msgid "Shanxi|Lin County"
+msgstr "临县"
+
+msgid "Shanxi|Xing County"
+msgstr "兴县"
+
+msgid "Shanxi|Lan County"
+msgstr "岚县"
+
+msgid "Shanxi|Liulin"
+msgstr "柳林"
+
+msgid "Shanxi|Shilou"
+msgstr "石楼"
+
+msgid "Shanxi|Fangshan"
+msgstr "方山"
+
+msgid "Shanxi|Jiaokou"
+msgstr "交口"
+
+msgid "Shanxi|Zhongyang"
+msgstr "中阳"
+
+msgid "Shanxi|Xiaoyi"
+msgstr "孝义"
+
+msgid "Shanxi|Fenyang"
+msgstr "汾阳"
+
+msgid "Shanxi|Wenshui"
+msgstr "文水"
+
+msgid "Shanxi|Jiaocheng"
+msgstr "交城"
 
 msgid "Shaanxi"
 msgstr "陕西省"
@@ -127,11 +2584,812 @@ msgstr "陕西省"
 msgid "Shaanxi|Xi'an"
 msgstr "西安"
 
+msgid "Shaanxi|Chang'an"
+msgstr "长安"
+
+msgid "Shaanxi|Lintong"
+msgstr "临潼"
+
+msgid "Shaanxi|Lantian"
+msgstr "蓝田"
+
+msgid "Shaanxi|Zhouzhi"
+msgstr "周至"
+
+msgid "Shaanxi|Huyi"
+msgstr "鄠邑"
+
+msgid "Shaanxi|Gaoling"
+msgstr "高陵"
+
+msgid "Shaanxi|Xincheng"
+msgstr "新城"
+
+msgid "Shaanxi|Beilin"
+msgstr "碑林"
+
+msgid "Shaanxi|Lianhu"
+msgstr "莲湖"
+
+msgid "Shaanxi|Baqiao"
+msgstr "灞桥"
+
+msgid "Shaanxi|Weiyang"
+msgstr "未央"
+
+msgid "Shaanxi|Yanta"
+msgstr "雁塔"
+
+msgid "Shaanxi|Yanliang"
+msgstr "阎良"
+
+msgid "Shaanxi|Xianyang"
+msgstr "咸阳"
+
+msgid "Shaanxi|Sanyuan"
+msgstr "三原"
+
+msgid "Shaanxi|Liquan"
+msgstr "礼泉"
+
+msgid "Shaanxi|Yongshou"
+msgstr "永寿"
+
+msgid "Shaanxi|Chunhua"
+msgstr "淳化"
+
+msgid "Shaanxi|Jingyang"
+msgstr "泾阳"
+
+msgid "Shaanxi|Wugong"
+msgstr "武功"
+
+msgid "Shaanxi|Qian County"
+msgstr "乾县"
+
+msgid "Shaanxi|Binzhou"
+msgstr "彬州"
+
+msgid "Shaanxi|Changwu"
+msgstr "长武"
+
+msgid "Shaanxi|Xunyi"
+msgstr "旬邑"
+
+msgid "Shaanxi|Xingping"
+msgstr "兴平"
+
+msgid "Shaanxi|Qindu"
+msgstr "秦都"
+
+msgid "Shaanxi|Weicheng"
+msgstr "渭城"
+
+msgid "Shaanxi|Yan'an"
+msgstr "延安"
+
+msgid "Shaanxi|Yanchang"
+msgstr "延长"
+
+msgid "Shaanxi|Yanchuan"
+msgstr "延川"
+
+msgid "Shaanxi|Zichang"
+msgstr "子长"
+
+msgid "Shaanxi|Yichuan"
+msgstr "宜川"
+
+msgid "Shaanxi|Fu County"
+msgstr "富县"
+
+msgid "Shaanxi|Zhidan"
+msgstr "志丹"
+
+msgid "Shaanxi|Ansai"
+msgstr "安塞"
+
+msgid "Shaanxi|Ganquan"
+msgstr "甘泉"
+
+msgid "Shaanxi|Luochuan"
+msgstr "洛川"
+
+msgid "Shaanxi|Huangling"
+msgstr "黄陵"
+
+msgid "Shaanxi|Huanglong"
+msgstr "黄龙"
+
+msgid "Shaanxi|Wuqi"
+msgstr "吴起"
+
+msgid "Shaanxi|Pagoda"
+msgstr "宝塔"
+
+msgid "Shaanxi|Yulin"
+msgstr "榆林"
+
+msgid "Shaanxi|Fugu"
+msgstr "府谷"
+
+msgid "Shaanxi|Shenmu"
+msgstr "神木"
+
+msgid "Shaanxi|Jia County"
+msgstr "佳县"
+
+msgid "Shaanxi|Dingbian"
+msgstr "定边"
+
+msgid "Shaanxi|Jingbian"
+msgstr "靖边"
+
+msgid "Shaanxi|Hengshan"
+msgstr "横山"
+
+msgid "Shaanxi|Mizhi"
+msgstr "米脂"
+
+msgid "Shaanxi|Zizhou"
+msgstr "子洲"
+
+msgid "Shaanxi|Suide"
+msgstr "绥德"
+
+msgid "Shaanxi|Wubao"
+msgstr "吴堡"
+
+msgid "Shaanxi|Qingjian"
+msgstr "清涧"
+
+msgid "Shaanxi|Yuyang"
+msgstr "榆阳"
+
+msgid "Shaanxi|Weinan"
+msgstr "渭南"
+
+msgid "Shaanxi|Tongguan"
+msgstr "潼关"
+
+msgid "Shaanxi|Dali Prefecture"
+msgstr "大荔"
+
+msgid "Shaanxi|Baishui"
+msgstr "白水"
+
+msgid "Shaanxi|Fuping"
+msgstr "富平"
+
+msgid "Shaanxi|Pucheng"
+msgstr "蒲城"
+
+msgid "Shaanxi|Chengcheng"
+msgstr "澄城"
+
+msgid "Shaanxi|Heyang"
+msgstr "合阳"
+
+msgid "Shaanxi|Hancheng"
+msgstr "韩城"
+
+msgid "Shaanxi|Huayin"
+msgstr "华阴"
+
+msgid "Shaanxi|Linwei"
+msgstr "临渭"
+
+msgid "Shaanxi|Huazhou"
+msgstr "华州"
+
+msgid "Shaanxi|Shangluo"
+msgstr "商洛"
+
+msgid "Shaanxi|Luonan"
+msgstr "洛南"
+
+msgid "Shaanxi|Zhashui"
+msgstr "柞水"
+
+msgid "Shaanxi|Shangzhou"
+msgstr "商州"
+
+msgid "Shaanxi|Zhen'an"
+msgstr "镇安"
+
+msgid "Shaanxi|Danfeng"
+msgstr "丹凤"
+
+msgid "Shaanxi|Shangnan"
+msgstr "商南"
+
+msgid "Shaanxi|Shanyang"
+msgstr "山阳"
+
+msgid "Shaanxi|Ankang"
+msgstr "安康"
+
+msgid "Shaanxi|Ziyang"
+msgstr "紫阳"
+
+msgid "Shaanxi|Shiquan"
+msgstr "石泉"
+
+msgid "Shaanxi|Hanyin"
+msgstr "汉阴"
+
+msgid "Shaanxi|Xunyang"
+msgstr "旬阳"
+
+msgid "Shaanxi|Langao"
+msgstr "岚皋"
+
+msgid "Shaanxi|Pingli"
+msgstr "平利"
+
+msgid "Shaanxi|Baihe"
+msgstr "白河"
+
+msgid "Shaanxi|Zhenping"
+msgstr "镇坪"
+
+msgid "Shaanxi|Ningshan"
+msgstr "宁陕"
+
+msgid "Shaanxi|Hanbin"
+msgstr "汉滨"
+
+msgid "Shaanxi|Hanzhong"
+msgstr "汉中"
+
+msgid "Shaanxi|Lueyang"
+msgstr "略阳"
+
+msgid "Shaanxi|Mian County"
+msgstr "勉县"
+
+msgid "Shaanxi|Liuba"
+msgstr "留坝"
+
+msgid "Shaanxi|Yang County"
+msgstr "洋县"
+
+msgid "Shaanxi|Chenggu"
+msgstr "城固"
+
+msgid "Shaanxi|Xixiang"
+msgstr "西乡"
+
+msgid "Shaanxi|Foping"
+msgstr "佛坪"
+
+msgid "Shaanxi|Ningqiang"
+msgstr "宁强"
+
+msgid "Shaanxi|Nanzheng"
+msgstr "南郑"
+
+msgid "Shaanxi|Zhenba"
+msgstr "镇巴"
+
+msgid "Shaanxi|Hantai"
+msgstr "汉台"
+
+msgid "Shaanxi|Baoji"
+msgstr "宝鸡"
+
+msgid "Shaanxi|Weibin"
+msgstr "渭滨"
+
+msgid "Shaanxi|Qianyang"
+msgstr "千阳"
+
+msgid "Shaanxi|Linyou"
+msgstr "麟游"
+
+msgid "Shaanxi|Qishan"
+msgstr "岐山"
+
+msgid "Shaanxi|Fengxiang"
+msgstr "凤翔"
+
+msgid "Shaanxi|Fufeng"
+msgstr "扶风"
+
+msgid "Shaanxi|Mei County"
+msgstr "眉县"
+
+msgid "Shaanxi|Taibai"
+msgstr "太白"
+
+msgid "Shaanxi|Feng County"
+msgstr "凤县"
+
+msgid "Shaanxi|Long County"
+msgstr "陇县"
+
+msgid "Shaanxi|Chencang"
+msgstr "陈仓"
+
+msgid "Shaanxi|Jintai"
+msgstr "金台"
+
+msgid "Shaanxi|Tongchuan"
+msgstr "铜川"
+
+msgid "Shaanxi|Yijun"
+msgstr "宜君"
+
+msgid "Shaanxi|Yaozhou"
+msgstr "耀州"
+
+msgid "Shaanxi|Wangyi"
+msgstr "王益"
+
+msgid "Shaanxi|Yintai"
+msgstr "印台"
+
+msgid "Shaanxi|Yangling"
+msgstr "杨陵"
+
 msgid "Shandong"
 msgstr "山东省"
 
 msgid "Shandong|Jinan"
 msgstr "济南"
+
+msgid "Shandong|Changqing"
+msgstr "长清"
+
+msgid "Shandong|Shanghe"
+msgstr "商河"
+
+msgid "Shandong|Zhangqiu"
+msgstr "章丘"
+
+msgid "Shandong|Pingyin"
+msgstr "平阴"
+
+msgid "Shandong|Jiyang"
+msgstr "济阳"
+
+msgid "Shandong|Lixia"
+msgstr "历下"
+
+msgid "Shandong|Shizhong"
+msgstr "市中"
+
+msgid "Shandong|Huaiyin"
+msgstr "槐荫"
+
+msgid "Shandong|Tianqiao"
+msgstr "天桥"
+
+msgid "Shandong|Licheng"
+msgstr "历城"
+
+msgid "Shandong|Qingdao"
+msgstr "青岛"
+
+msgid "Shandong|Laoshan"
+msgstr "崂山"
+
+msgid "Shandong|Shinan"
+msgstr "市南"
+
+msgid "Shandong|Jimo"
+msgstr "即墨"
+
+msgid "Shandong|Jiaozhou"
+msgstr "胶州"
+
+msgid "Shandong|Huangdao"
+msgstr "黄岛"
+
+msgid "Shandong|Laixi"
+msgstr "莱西"
+
+msgid "Shandong|Pingdu"
+msgstr "平度"
+
+msgid "Shandong|Shibei"
+msgstr "市北"
+
+msgid "Shandong|Licang"
+msgstr "李沧"
+
+msgid "Shandong|Chengyang"
+msgstr "城阳"
+
+msgid "Shandong|Zibo"
+msgstr "淄博"
+
+msgid "Shandong|Zichuan"
+msgstr "淄川"
+
+msgid "Shandong|Boshan"
+msgstr "博山"
+
+msgid "Shandong|Gaoqing"
+msgstr "高青"
+
+msgid "Shandong|Zhoucun"
+msgstr "周村"
+
+msgid "Shandong|Yiyuan"
+msgstr "沂源"
+
+msgid "Shandong|Huantai"
+msgstr "桓台"
+
+msgid "Shandong|Linzi"
+msgstr "临淄"
+
+msgid "Shandong|Zhangdian"
+msgstr "张店"
+
+msgid "Shandong|Dezhou"
+msgstr "德州"
+
+msgid "Shandong|Wucheng"
+msgstr "武城"
+
+msgid "Shandong|Linyi"
+msgstr "临邑"
+
+msgid "Shandong|Qihe"
+msgstr "齐河"
+
+msgid "Shandong|Leling"
+msgstr "乐陵"
+
+msgid "Shandong|Qingyun"
+msgstr "庆云"
+
+msgid "Shandong|Pingyuan"
+msgstr "平原"
+
+msgid "Shandong|Ningjin"
+msgstr "宁津"
+
+msgid "Shandong|Xiajin"
+msgstr "夏津"
+
+msgid "Shandong|Yucheng"
+msgstr "禹城"
+
+msgid "Shandong|Decheng"
+msgstr "德城"
+
+msgid "Shandong|Lingcheng"
+msgstr "陵城"
+
+msgid "Shandong|Yantai"
+msgstr "烟台"
+
+msgid "Shandong|Laizhou"
+msgstr "莱州"
+
+msgid "Shandong|Penglai"
+msgstr "蓬莱"
+
+msgid "Shandong|Longkou"
+msgstr "龙口"
+
+msgid "Shandong|Zhaoyuan"
+msgstr "招远"
+
+msgid "Shandong|Qixia"
+msgstr "栖霞"
+
+msgid "Shandong|Fushan"
+msgstr "福山"
+
+msgid "Shandong|Muping"
+msgstr "牟平"
+
+msgid "Shandong|Laiyang"
+msgstr "莱阳"
+
+msgid "Shandong|Haiyang"
+msgstr "海阳"
+
+msgid "Shandong|Zhifu"
+msgstr "芝罘"
+
+msgid "Shandong|Laishan"
+msgstr "莱山"
+
+msgid "Shandong|Weifang"
+msgstr "潍坊"
+
+msgid "Shandong|Qingzhou"
+msgstr "青州"
+
+msgid "Shandong|Shouguang"
+msgstr "寿光"
+
+msgid "Shandong|Linqu"
+msgstr "临朐"
+
+msgid "Shandong|Changle"
+msgstr "昌乐"
+
+msgid "Shandong|Changyi"
+msgstr "昌邑"
+
+msgid "Shandong|Anqiu"
+msgstr "安丘"
+
+msgid "Shandong|Gaomi"
+msgstr "高密"
+
+msgid "Shandong|Zhucheng"
+msgstr "诸城"
+
+msgid "Shandong|Weicheng"
+msgstr "潍城"
+
+msgid "Shandong|Hanting"
+msgstr "寒亭"
+
+msgid "Shandong|Fangzi"
+msgstr "坊子"
+
+msgid "Shandong|Kuiwen"
+msgstr "奎文"
+
+msgid "Shandong|Jining"
+msgstr "济宁"
+
+msgid "Shandong|Jiaxiang"
+msgstr "嘉祥"
+
+msgid "Shandong|Weishan"
+msgstr "微山"
+
+msgid "Shandong|Yutai"
+msgstr "鱼台"
+
+msgid "Shandong|Yanzhou"
+msgstr "兖州"
+
+msgid "Shandong|Jinxiang"
+msgstr "金乡"
+
+msgid "Shandong|Wenshang"
+msgstr "汶上"
+
+msgid "Shandong|Sishui"
+msgstr "泗水"
+
+msgid "Shandong|Liangshan Prefecture"
+msgstr "梁山"
+
+msgid "Shandong|Qufu"
+msgstr "曲阜"
+
+msgid "Shandong|Zoucheng"
+msgstr "邹城"
+
+msgid "Shandong|Rencheng"
+msgstr "任城"
+
+msgid "Shandong|Tai'an"
+msgstr "泰安"
+
+msgid "Shandong|Xintai"
+msgstr "新泰"
+
+msgid "Shandong|Taishan"
+msgstr "泰山"
+
+msgid "Shandong|Feicheng"
+msgstr "肥城"
+
+msgid "Shandong|Dongping"
+msgstr "东平"
+
+msgid "Shandong|Ningyang"
+msgstr "宁阳"
+
+msgid "Shandong|Daiyue"
+msgstr "岱岳"
+
+msgid "Shandong|Linyi"
+msgstr "临沂"
+
+msgid "Shandong|Junan"
+msgstr "莒南"
+
+msgid "Shandong|Yinan"
+msgstr "沂南"
+
+msgid "Shandong|Lanling"
+msgstr "兰陵"
+
+msgid "Shandong|Linshu"
+msgstr "临沭"
+
+msgid "Shandong|Tancheng"
+msgstr "郯城"
+
+msgid "Shandong|Mengyin"
+msgstr "蒙阴"
+
+msgid "Shandong|Pingyi"
+msgstr "平邑"
+
+msgid "Shandong|Fei County"
+msgstr "费县"
+
+msgid "Shandong|Yishui"
+msgstr "沂水"
+
+msgid "Shandong|Lanshan"
+msgstr "兰山"
+
+msgid "Shandong|Luozhuang"
+msgstr "罗庄"
+
+msgid "Shandong|Hedong"
+msgstr "河东"
+
+msgid "Shandong|Heze"
+msgstr "菏泽"
+
+msgid "Shandong|Juancheng"
+msgstr "鄄城"
+
+msgid "Shandong|Yuncheng"
+msgstr "郓城"
+
+msgid "Shandong|Dongming"
+msgstr "东明"
+
+msgid "Shandong|Dingtao"
+msgstr "定陶"
+
+msgid "Shandong|Juye"
+msgstr "巨野"
+
+msgid "Shandong|Cao County"
+msgstr "曹县"
+
+msgid "Shandong|Chengwu"
+msgstr "成武"
+
+msgid "Shandong|Shan County"
+msgstr "单县"
+
+msgid "Shandong|Mudan"
+msgstr "牡丹"
+
+msgid "Shandong|Binzhou"
+msgstr "滨州"
+
+msgid "Shandong|Boxing"
+msgstr "博兴"
+
+msgid "Shandong|Wudi"
+msgstr "无棣"
+
+msgid "Shandong|Yangxin"
+msgstr "阳信"
+
+msgid "Shandong|Huimin"
+msgstr "惠民"
+
+msgid "Shandong|Zhanhua"
+msgstr "沾化"
+
+msgid "Shandong|Zouping"
+msgstr "邹平"
+
+msgid "Shandong|Bincheng"
+msgstr "滨城"
+
+msgid "Shandong|Dongying"
+msgstr "东营"
+
+msgid "Shandong|Hekou"
+msgstr "河口"
+
+msgid "Shandong|Kenli"
+msgstr "垦利"
+
+msgid "Shandong|Lijin"
+msgstr "利津"
+
+msgid "Shandong|Guangrao"
+msgstr "广饶"
+
+msgid "Shandong|Dongying District"
+msgstr "东营区"
+
+msgid "Shandong|Weihai"
+msgstr "威海"
+
+msgid "Shandong|Wendeng"
+msgstr "文登"
+
+msgid "Shandong|Rongcheng"
+msgstr "荣成"
+
+msgid "Shandong|Rushan"
+msgstr "乳山"
+
+msgid "Shandong|Huancui"
+msgstr "环翠"
+
+msgid "Shandong|Zaozhuang"
+msgstr "枣庄"
+
+msgid "Shandong|Xuecheng"
+msgstr "薛城"
+
+msgid "Shandong|Yicheng"
+msgstr "峄城"
+
+msgid "Shandong|Taierzhuang"
+msgstr "台儿庄"
+
+msgid "Shandong|Tengzhou"
+msgstr "滕州"
+
+msgid "Shandong|Shizhong"
+msgstr "市中"
+
+msgid "Shandong|Shanting"
+msgstr "山亭"
+
+msgid "Shandong|Rizhao"
+msgstr "日照"
+
+msgid "Shandong|Wulian"
+msgstr "五莲"
+
+msgid "Shandong|Ju County"
+msgstr "莒县"
+
+msgid "Shandong|Donggang"
+msgstr "东港"
+
+msgid "Shandong|Lanshan"
+msgstr "岚山"
+
+msgid "Shandong|Laiwu"
+msgstr "莱芜"
+
+msgid "Shandong|Gangcheng"
+msgstr "钢城"
+
+msgid "Shandong|Liaocheng"
+msgstr "聊城"
+
+msgid "Shandong|Guan County"
+msgstr "冠县"
+
+msgid "Shandong|Yanggu"
+msgstr "阳谷"
+
+msgid "Shandong|Gaotang"
+msgstr "高唐"
+
+msgid "Shandong|Chiping"
+msgstr "茌平"
+
+msgid "Shandong|Dong'e"
+msgstr "东阿"
+
+msgid "Shandong|Linqing"
+msgstr "临清"
+
+msgid "Shandong|Dongchangfu"
+msgstr "东昌府"
+
+msgid "Shandong|Xin County"
+msgstr "莘县"
 
 msgid "Xinjiang Uygur Autonomous Region"
 msgstr "新疆维吾尔自治区"
@@ -139,11 +3397,611 @@ msgstr "新疆维吾尔自治区"
 msgid "Xinjiang Uygur Autonomous Region|Urumqi"
 msgstr "乌鲁木齐"
 
+msgid "Xinjiang Uygur Autonomous Region|Tianshan"
+msgstr "天山"
+
+msgid "Xinjiang Uygur Autonomous Region|Saybag"
+msgstr "沙依巴克"
+
+msgid "Xinjiang Uygur Autonomous Region|Dabancheng"
+msgstr "达坂城"
+
+msgid "Xinjiang Uygur Autonomous Region|Xinshi"
+msgstr "新市"
+
+msgid "Xinjiang Uygur Autonomous Region|Shuimogou"
+msgstr "水磨沟"
+
+msgid "Xinjiang Uygur Autonomous Region|Toutunhe"
+msgstr "头屯河"
+
+msgid "Xinjiang Uygur Autonomous Region|Midong"
+msgstr "米东"
+
+msgid "Xinjiang Uygur Autonomous Region|Urumqi County"
+msgstr "乌鲁木齐县"
+
+msgid "Xinjiang Uygur Autonomous Region|Karamay"
+msgstr "克拉玛依"
+
+msgid "Xinjiang Uygur Autonomous Region|Orku"
+msgstr "乌尔禾"
+
+msgid "Xinjiang Uygur Autonomous Region|Baijiantan"
+msgstr "白碱滩"
+
+msgid "Xinjiang Uygur Autonomous Region|Dushanzi"
+msgstr "独山子"
+
+msgid "Xinjiang Uygur Autonomous Region|Karamay District"
+msgstr "克拉玛依区"
+
+msgid "Xinjiang Uygur Autonomous Region|Shihezi"
+msgstr "石河子"
+
+msgid "Xinjiang Uygur Autonomous Region|Changji Prefecture"
+msgstr "昌吉"
+
+msgid "Xinjiang Uygur Autonomous Region|Hutubi"
+msgstr "呼图壁"
+
+msgid "Xinjiang Uygur Autonomous Region|Fukang"
+msgstr "阜康"
+
+msgid "Xinjiang Uygur Autonomous Region|Jimsar"
+msgstr "吉木萨尔"
+
+msgid "Xinjiang Uygur Autonomous Region|Qitai"
+msgstr "奇台"
+
+msgid "Xinjiang Uygur Autonomous Region|Manas"
+msgstr "玛纳斯"
+
+msgid "Xinjiang Uygur Autonomous Region|Mori"
+msgstr "木垒"
+
+msgid "Xinjiang Uygur Autonomous Region|Changji City"
+msgstr "昌吉市"
+
+msgid "Xinjiang Uygur Autonomous Region|Turpan"
+msgstr "吐鲁番"
+
+msgid "Xinjiang Uygur Autonomous Region|Toksun"
+msgstr "托克逊"
+
+msgid "Xinjiang Uygur Autonomous Region|Gaochang"
+msgstr "高昌"
+
+msgid "Xinjiang Uygur Autonomous Region|Shanshan"
+msgstr "鄯善"
+
+msgid "Xinjiang Uygur Autonomous Region|Korla"
+msgstr "库尔勒"
+
+msgid "Xinjiang Uygur Autonomous Region|Luntai"
+msgstr "轮台"
+
+msgid "Xinjiang Uygur Autonomous Region|Yuli"
+msgstr "尉犁"
+
+msgid "Xinjiang Uygur Autonomous Region|Ruoqiang"
+msgstr "若羌"
+
+msgid "Xinjiang Uygur Autonomous Region|Qiemo"
+msgstr "且末"
+
+msgid "Xinjiang Uygur Autonomous Region|Hejing"
+msgstr "和静"
+
+msgid "Xinjiang Uygur Autonomous Region|Yanqi"
+msgstr "焉耆"
+
+msgid "Xinjiang Uygur Autonomous Region|Hoxud"
+msgstr "和硕"
+
+msgid "Xinjiang Uygur Autonomous Region|Bayingolin Prefecture"
+msgstr "巴音郭楞"
+
+msgid "Xinjiang Uygur Autonomous Region|Bohu"
+msgstr "博湖"
+
+msgid "Xinjiang Uygur Autonomous Region|Aral"
+msgstr "阿拉尔"
+
+msgid "Xinjiang Uygur Autonomous Region|Aksu Prefecture"
+msgstr "阿克苏"
+
+msgid "Xinjiang Uygur Autonomous Region|Wushi"
+msgstr "乌什"
+
+msgid "Xinjiang Uygur Autonomous Region|Onsu"
+msgstr "温宿"
+
+msgid "Xinjiang Uygur Autonomous Region|Baicheng"
+msgstr "拜城"
+
+msgid "Xinjiang Uygur Autonomous Region|Xinhe"
+msgstr "新和"
+
+msgid "Xinjiang Uygur Autonomous Region|Xayar"
+msgstr "沙雅"
+
+msgid "Xinjiang Uygur Autonomous Region|Kuqa"
+msgstr "库车"
+
+msgid "Xinjiang Uygur Autonomous Region|Kalpin"
+msgstr "柯坪"
+
+msgid "Xinjiang Uygur Autonomous Region|Awat"
+msgstr "阿瓦提"
+
+msgid "Xinjiang Uygur Autonomous Region|Aksu City"
+msgstr "阿克苏市"
+
+msgid "Xinjiang Uygur Autonomous Region|Kashgar Prefecture"
+msgstr "喀什地区"
+
+msgid "Xinjiang Uygur Autonomous Region|Yengisar"
+msgstr "英吉沙"
+
+msgid "Xinjiang Uygur Autonomous Region|Taxkorgan"
+msgstr "塔什库尔干"
+
+msgid "Xinjiang Uygur Autonomous Region|Makit"
+msgstr "麦盖提"
+
+msgid "Xinjiang Uygur Autonomous Region|Yarkant"
+msgstr "莎车"
+
+msgid "Xinjiang Uygur Autonomous Region|Kargilik"
+msgstr "叶城"
+
+msgid "Xinjiang Uygur Autonomous Region|Poskam"
+msgstr "泽普"
+
+msgid "Xinjiang Uygur Autonomous Region|Maralbexi"
+msgstr "巴楚"
+
+msgid "Xinjiang Uygur Autonomous Region|Yopurga"
+msgstr "岳普湖"
+
+msgid "Xinjiang Uygur Autonomous Region|Payzawat"
+msgstr "伽师"
+
+msgid "Xinjiang Uygur Autonomous Region|Shufu"
+msgstr "疏附"
+
+msgid "Xinjiang Uygur Autonomous Region|Shule"
+msgstr "疏勒"
+
+msgid "Xinjiang Uygur Autonomous Region|Kashgar City"
+msgstr "喀什市"
+
+msgid "Xinjiang Uygur Autonomous Region|Yining"
+msgstr "伊宁"
+
+msgid "Xinjiang Uygur Autonomous Region|Qapqal"
+msgstr "察布查尔"
+
+msgid "Xinjiang Uygur Autonomous Region|Nilka"
+msgstr "尼勒克"
+
+msgid "Xinjiang Uygur Autonomous Region|Yining County"
+msgstr "伊宁县"
+
+msgid "Xinjiang Uygur Autonomous Region|Gongliu"
+msgstr "巩留"
+
+msgid "Xinjiang Uygur Autonomous Region|Xinyuan"
+msgstr "新源"
+
+msgid "Xinjiang Uygur Autonomous Region|Zhaosu"
+msgstr "昭苏"
+
+msgid "Xinjiang Uygur Autonomous Region|Tekes"
+msgstr "特克斯"
+
+msgid "Xinjiang Uygur Autonomous Region|Huocheng"
+msgstr "霍城"
+
+msgid "Xinjiang Uygur Autonomous Region|Khorgas"
+msgstr "霍尔果斯"
+
+msgid "Xinjiang Uygur Autonomous Region|Kuytun"
+msgstr "奎屯"
+
+msgid "Xinjiang Uygur Autonomous Region|Ili Prefecture"
+msgstr "伊犁"
+
+msgid "Xinjiang Uygur Autonomous Region|Tacheng Prefecture"
+msgstr "塔城地区"
+
+msgid "Xinjiang Uygur Autonomous Region|Yumin"
+msgstr "裕民"
+
+msgid "Xinjiang Uygur Autonomous Region|Emin"
+msgstr "额敏"
+
+msgid "Xinjiang Uygur Autonomous Region|Hoboksar"
+msgstr "和布克赛尔"
+
+msgid "Xinjiang Uygur Autonomous Region|Toli"
+msgstr "托里"
+
+msgid "Xinjiang Uygur Autonomous Region|Usu"
+msgstr "乌苏"
+
+msgid "Xinjiang Uygur Autonomous Region|Shawan"
+msgstr "沙湾"
+
+msgid "Xinjiang Uygur Autonomous Region|Tacheng City"
+msgstr "塔城市"
+
+msgid "Xinjiang Uygur Autonomous Region|Hami"
+msgstr "哈密"
+
+msgid "Xinjiang Uygur Autonomous Region|Yizhou"
+msgstr "伊州"
+
+msgid "Xinjiang Uygur Autonomous Region|Barkol"
+msgstr "巴里坤"
+
+msgid "Xinjiang Uygur Autonomous Region|Yiwu"
+msgstr "伊吾"
+
+msgid "Xinjiang Uygur Autonomous Region|Hotan Prefecture"
+msgstr "和田地区"
+
+msgid "Xinjiang Uygur Autonomous Region|Pishan"
+msgstr "皮山"
+
+msgid "Xinjiang Uygur Autonomous Region|Qira"
+msgstr "策勒"
+
+msgid "Xinjiang Uygur Autonomous Region|Karakax"
+msgstr "墨玉"
+
+msgid "Xinjiang Uygur Autonomous Region|Lop"
+msgstr "洛浦"
+
+msgid "Xinjiang Uygur Autonomous Region|Minfeng"
+msgstr "民丰"
+
+msgid "Xinjiang Uygur Autonomous Region|Yutian"
+msgstr "于田"
+
+msgid "Xinjiang Uygur Autonomous Region|Hotan City"
+msgstr "和田市"
+
+msgid "Xinjiang Uygur Autonomous Region|Hotan County"
+msgstr "和田县"
+
+msgid "Xinjiang Uygur Autonomous Region|Altay Prefecture"
+msgstr "阿勒泰地区"
+
+msgid "Xinjiang Uygur Autonomous Region|Habahe"
+msgstr "哈巴河"
+
+msgid "Xinjiang Uygur Autonomous Region|Jeminay"
+msgstr "吉木乃"
+
+msgid "Xinjiang Uygur Autonomous Region|Burqin"
+msgstr "布尔津"
+
+msgid "Xinjiang Uygur Autonomous Region|Fuhai"
+msgstr "福海"
+
+msgid "Xinjiang Uygur Autonomous Region|Fuyun"
+msgstr "富蕴"
+
+msgid "Xinjiang Uygur Autonomous Region|Qinghe"
+msgstr "青河"
+
+msgid "Xinjiang Uygur Autonomous Region|Altay City"
+msgstr "阿勒泰市"
+
+msgid "Xinjiang Uygur Autonomous Region|Artux"
+msgstr "阿图什"
+
+msgid "Xinjiang Uygur Autonomous Region|Wuqia"
+msgstr "乌恰"
+
+msgid "Xinjiang Uygur Autonomous Region|Akto"
+msgstr "阿克陶"
+
+msgid "Xinjiang Uygur Autonomous Region|Akqi"
+msgstr "阿合奇"
+
+msgid "Xinjiang Uygur Autonomous Region|Kizilsu Prefecture"
+msgstr "克州"
+
+msgid "Xinjiang Uygur Autonomous Region|Bole"
+msgstr "博乐"
+
+msgid "Xinjiang Uygur Autonomous Region|Wenquan"
+msgstr "温泉"
+
+msgid "Xinjiang Uygur Autonomous Region|Jinghe"
+msgstr "精河"
+
+msgid "Xinjiang Uygur Autonomous Region|Bortala Prefecture"
+msgstr "博尔塔拉"
+
+msgid "Xinjiang Uygur Autonomous Region|Alashankou"
+msgstr "阿拉山口"
+
+msgid "Xinjiang Uygur Autonomous Region|Tumxuk"
+msgstr "图木舒克"
+
+msgid "Xinjiang Uygur Autonomous Region|Wujiaqu"
+msgstr "五家渠"
+
+msgid "Xinjiang Uygur Autonomous Region|Tiemenguan"
+msgstr "铁门关"
+
+msgid "Xinjiang Uygur Autonomous Region|Kunyu"
+msgstr "昆玉"
+
+msgid "Xinjiang Uygur Autonomous Region|Beitun"
+msgstr "北屯"
+
+msgid "Xinjiang Uygur Autonomous Region|Shuanghe"
+msgstr "双河"
+
+msgid "Xinjiang Uygur Autonomous Region|Kokdala"
+msgstr "可克达拉"
+
+msgid "Xinjiang Uygur Autonomous Region|Huyanghe"
+msgstr "胡杨河"
+
+msgid "Xinjiang Uygur Autonomous Region|Xinxing"
+msgstr "新星市"
+
 msgid "Tibet Autonomous Region"
 msgstr "西藏自治区"
 
 msgid "Tibet Autonomous Region|Lhasa"
 msgstr "拉萨"
+
+msgid "Tibet Autonomous Region|Damxung"
+msgstr "当雄"
+
+msgid "Tibet Autonomous Region|Nyêmo"
+msgstr "尼木"
+
+msgid "Tibet Autonomous Region|Lhünzhub"
+msgstr "林周"
+
+msgid "Tibet Autonomous Region|Doilungdêqên"
+msgstr "堆龙德庆"
+
+msgid "Tibet Autonomous Region|Qushui"
+msgstr "曲水"
+
+msgid "Tibet Autonomous Region|Dagzê"
+msgstr "达孜"
+
+msgid "Tibet Autonomous Region|Maizhokunggar"
+msgstr "墨竹工卡"
+
+msgid "Tibet Autonomous Region|Chengguan"
+msgstr "城关"
+
+msgid "Tibet Autonomous Region|Xigazê"
+msgstr "日喀则"
+
+msgid "Tibet Autonomous Region|Lhatse"
+msgstr "拉孜"
+
+msgid "Tibet Autonomous Region|Namling"
+msgstr "南木林"
+
+msgid "Tibet Autonomous Region|Nyalam"
+msgstr "聂拉木"
+
+msgid "Tibet Autonomous Region|Tingri"
+msgstr "定日"
+
+msgid "Tibet Autonomous Region|Gyangze"
+msgstr "江孜"
+
+msgid "Tibet Autonomous Region|Zhongba"
+msgstr "仲巴"
+
+msgid "Tibet Autonomous Region|Saga"
+msgstr "萨嘎"
+
+msgid "Tibet Autonomous Region|Gyirong"
+msgstr "吉隆"
+
+msgid "Tibet Autonomous Region|Ngamring"
+msgstr "昂仁"
+
+msgid "Tibet Autonomous Region|Dinggyê"
+msgstr "定结"
+
+msgid "Tibet Autonomous Region|Sa'gya"
+msgstr "萨迦"
+
+msgid "Tibet Autonomous Region|Xaitongmoin"
+msgstr "谢通门"
+
+msgid "Tibet Autonomous Region|Samzhubzê"
+msgstr "桑珠孜"
+
+msgid "Tibet Autonomous Region|Kamba"
+msgstr "岗巴"
+
+msgid "Tibet Autonomous Region|Bainang"
+msgstr "白朗"
+
+msgid "Tibet Autonomous Region|Yadong"
+msgstr "亚东"
+
+msgid "Tibet Autonomous Region|Kangmar"
+msgstr "康马"
+
+msgid "Tibet Autonomous Region|Rinbung"
+msgstr "仁布"
+
+msgid "Tibet Autonomous Region|Shannan"
+msgstr "山南"
+
+msgid "Tibet Autonomous Region|Gonggar"
+msgstr "贡嘎"
+
+msgid "Tibet Autonomous Region|Zhanang"
+msgstr "扎囊"
+
+msgid "Tibet Autonomous Region|Gyaca"
+msgstr "加查"
+
+msgid "Tibet Autonomous Region|Nagarzê"
+msgstr "浪卡子"
+
+msgid "Tibet Autonomous Region|Cona"
+msgstr "错那"
+
+msgid "Tibet Autonomous Region|Lhünzê"
+msgstr "隆子"
+
+msgid "Tibet Autonomous Region|Nêdong"
+msgstr "乃东"
+
+msgid "Tibet Autonomous Region|Sangri"
+msgstr "桑日"
+
+msgid "Tibet Autonomous Region|Lhozhag"
+msgstr "洛扎"
+
+msgid "Tibet Autonomous Region|Comai"
+msgstr "措美"
+
+msgid "Tibet Autonomous Region|Qonggyai"
+msgstr "琼结"
+
+msgid "Tibet Autonomous Region|Qusum"
+msgstr "曲松"
+
+msgid "Tibet Autonomous Region|Nyingchi"
+msgstr "林芝"
+
+msgid "Tibet Autonomous Region|Bomê"
+msgstr "波密"
+
+msgid "Tibet Autonomous Region|Mainling"
+msgstr "米林"
+
+msgid "Tibet Autonomous Region|Zayü"
+msgstr "察隅"
+
+msgid "Tibet Autonomous Region|Gongbo'gyamda"
+msgstr "工布江达"
+
+msgid "Tibet Autonomous Region|Nang County"
+msgstr "朗县"
+
+msgid "Tibet Autonomous Region|Mêdog"
+msgstr "墨脱"
+
+msgid "Tibet Autonomous Region|Bayi"
+msgstr "巴宜"
+
+msgid "Tibet Autonomous Region|Qamdo"
+msgstr "昌都"
+
+msgid "Tibet Autonomous Region|Dêngqên"
+msgstr "丁青"
+
+msgid "Tibet Autonomous Region|Banbar"
+msgstr "边坝"
+
+msgid "Tibet Autonomous Region|Lhorong"
+msgstr "洛隆"
+
+msgid "Tibet Autonomous Region|Zogang"
+msgstr "左贡"
+
+msgid "Tibet Autonomous Region|Markam"
+msgstr "芒康"
+
+msgid "Tibet Autonomous Region|Riwoqê"
+msgstr "类乌齐"
+
+msgid "Tibet Autonomous Region|Baxoi"
+msgstr "八宿"
+
+msgid "Tibet Autonomous Region|Jomda"
+msgstr "江达"
+
+msgid "Tibet Autonomous Region|Zhag'yab"
+msgstr "察雅"
+
+msgid "Tibet Autonomous Region|Gonjo"
+msgstr "贡觉"
+
+msgid "Tibet Autonomous Region|Karuo"
+msgstr "卡若"
+
+msgid "Tibet Autonomous Region|Nagqu"
+msgstr "那曲"
+
+msgid "Tibet Autonomous Region|Nyima"
+msgstr "尼玛"
+
+msgid "Tibet Autonomous Region|Lhari"
+msgstr "嘉黎"
+
+msgid "Tibet Autonomous Region|Baingoin"
+msgstr "班戈"
+
+msgid "Tibet Autonomous Region|Amdo"
+msgstr "安多"
+
+msgid "Tibet Autonomous Region|Sog County"
+msgstr "索县"
+
+msgid "Tibet Autonomous Region|Nyainrong"
+msgstr "聂荣"
+
+msgid "Tibet Autonomous Region|Baqên"
+msgstr "巴青"
+
+msgid "Tibet Autonomous Region|Biru"
+msgstr "比如"
+
+msgid "Tibet Autonomous Region|Shuanghu"
+msgstr "双湖"
+
+msgid "Tibet Autonomous Region|Xainza"
+msgstr "申扎"
+
+msgid "Tibet Autonomous Region|Seni"
+msgstr "色尼"
+
+msgid "Tibet Autonomous Region|Ngari Prefecture"
+msgstr "阿里地区"
+
+msgid "Tibet Autonomous Region|Gêrzê"
+msgstr "改则"
+
+msgid "Tibet Autonomous Region|Burang"
+msgstr "普兰"
+
+msgid "Tibet Autonomous Region|Zanda"
+msgstr "札达"
+
+msgid "Tibet Autonomous Region|Gar"
+msgstr "噶尔"
+
+msgid "Tibet Autonomous Region|Rutog"
+msgstr "日土"
+
+msgid "Tibet Autonomous Region|Gê'gyai"
+msgstr "革吉"
+
+msgid "Tibet Autonomous Region|Coqên"
+msgstr "措勤"
 
 msgid "Qinghai"
 msgstr "青海省"
@@ -151,11 +4009,464 @@ msgstr "青海省"
 msgid "Qinghai|Xining"
 msgstr "西宁"
 
+msgid "Qinghai|Datong"
+msgstr "大通"
+
+msgid "Qinghai|Huangyuan"
+msgstr "湟源"
+
+msgid "Qinghai|Huangzhong"
+msgstr "湟中"
+
+msgid "Qinghai|Chengdong"
+msgstr "城东"
+
+msgid "Qinghai|Chengzhong"
+msgstr "城中"
+
+msgid "Qinghai|Chengxi"
+msgstr "城西"
+
+msgid "Qinghai|Chengbei"
+msgstr "城北"
+
+msgid "Qinghai|Ping'an"
+msgstr "平安"
+
+msgid "Qinghai|Ledu"
+msgstr "乐都"
+
+msgid "Qinghai|Minhe"
+msgstr "民和"
+
+msgid "Qinghai|Huzhu"
+msgstr "互助"
+
+msgid "Qinghai|Hualong"
+msgstr "化隆"
+
+msgid "Qinghai|Xunhua"
+msgstr "循化"
+
+msgid "Qinghai|Haidong"
+msgstr "海东"
+
+msgid "Qinghai|Tongren"
+msgstr "同仁"
+
+msgid "Qinghai|Jainca"
+msgstr "尖扎"
+
+msgid "Qinghai|Zêkog"
+msgstr "泽库"
+
+msgid "Qinghai|Henan"
+msgstr "河南"
+
+msgid "Qinghai|Huangnan Prefecture"
+msgstr "黄南"
+
+msgid "Qinghai|Gonghe"
+msgstr "共和"
+
+msgid "Qinghai|Hainan Prefecture"
+msgstr "海南"
+
+msgid "Qinghai|Guide"
+msgstr "贵德"
+
+msgid "Qinghai|Xinghai"
+msgstr "兴海"
+
+msgid "Qinghai|Guinan"
+msgstr "贵南"
+
+msgid "Qinghai|Tongde"
+msgstr "同德"
+
+msgid "Qinghai|Maqên"
+msgstr "玛沁"
+
+msgid "Qinghai|Baima"
+msgstr "班玛"
+
+msgid "Qinghai|Gadê"
+msgstr "甘德"
+
+msgid "Qinghai|Darlag"
+msgstr "达日"
+
+msgid "Qinghai|Jigzhi"
+msgstr "久治"
+
+msgid "Qinghai|Madoi"
+msgstr "玛多"
+
+msgid "Qinghai|Golog Prefecture"
+msgstr "果洛"
+
+msgid "Qinghai|Yushu Prefecture"
+msgstr "玉树州"
+
+msgid "Qinghai|Chindu"
+msgstr "称多"
+
+msgid "Qinghai|Zhidoi"
+msgstr "治多"
+
+msgid "Qinghai|Zadoi"
+msgstr "杂多"
+
+msgid "Qinghai|Nangqên"
+msgstr "囊谦"
+
+msgid "Qinghai|Qumarlêb"
+msgstr "曲麻莱"
+
+msgid "Qinghai|Yushu City"
+msgstr "玉树市"
+
+msgid "Qinghai|Delingha"
+msgstr "德令哈"
+
+msgid "Qinghai|Haixi Prefecture"
+msgstr "海西"
+
+msgid "Qinghai|Tianjun"
+msgstr "天峻"
+
+msgid "Qinghai|Ulan"
+msgstr "乌兰"
+
+msgid "Qinghai|Mangnai"
+msgstr "茫崖"
+
+msgid "Qinghai|Da Qaidam"
+msgstr "大柴旦"
+
+msgid "Qinghai|Golmud"
+msgstr "格尔木"
+
+msgid "Qinghai|Dulan"
+msgstr "都兰"
+
+msgid "Qinghai|Haiyan"
+msgstr "海晏"
+
+msgid "Qinghai|Menyuan"
+msgstr "门源"
+
+msgid "Qinghai|Qilian"
+msgstr "祁连"
+
+msgid "Qinghai|Haibei Prefecture"
+msgstr "海北"
+
+msgid "Qinghai|Gangca"
+msgstr "刚察"
+
 msgid "Gansu"
 msgstr "甘肃省"
 
 msgid "Gansu|Lanzhou"
 msgstr "兰州"
+
+msgid "Gansu|Gaolan"
+msgstr "皋兰"
+
+msgid "Gansu|Yongdeng"
+msgstr "永登"
+
+msgid "Gansu|Yuzhong"
+msgstr "榆中"
+
+msgid "Gansu|Chengguan"
+msgstr "城关"
+
+msgid "Gansu|Qilihe"
+msgstr "七里河"
+
+msgid "Gansu|Xigu"
+msgstr "西固"
+
+msgid "Gansu|Anning"
+msgstr "安宁"
+
+msgid "Gansu|Honggu"
+msgstr "红古"
+
+msgid "Gansu|Dingxi"
+msgstr "定西"
+
+msgid "Gansu|Tongwei"
+msgstr "通渭"
+
+msgid "Gansu|Longxi"
+msgstr "陇西"
+
+msgid "Gansu|Weiyuan"
+msgstr "渭源"
+
+msgid "Gansu|Lintao"
+msgstr "临洮"
+
+msgid "Gansu|Zhang County"
+msgstr "漳县"
+
+msgid "Gansu|Min County"
+msgstr "岷县"
+
+msgid "Gansu|Anding"
+msgstr "安定"
+
+msgid "Gansu|Pingliang"
+msgstr "平凉"
+
+msgid "Gansu|Jingchuan"
+msgstr "泾川"
+
+msgid "Gansu|Lingtai"
+msgstr "灵台"
+
+msgid "Gansu|Chongxin"
+msgstr "崇信"
+
+msgid "Gansu|Huating"
+msgstr "华亭"
+
+msgid "Gansu|Zhuanglang"
+msgstr "庄浪"
+
+msgid "Gansu|Jingning"
+msgstr "静宁"
+
+msgid "Gansu|Kongtong"
+msgstr "崆峒"
+
+msgid "Gansu|Qingyang"
+msgstr "庆阳"
+
+msgid "Gansu|Xifeng"
+msgstr "西峰"
+
+msgid "Gansu|Huan County"
+msgstr "环县"
+
+msgid "Gansu|Huachi"
+msgstr "华池"
+
+msgid "Gansu|Heshui"
+msgstr "合水"
+
+msgid "Gansu|Zhengning"
+msgstr "正宁"
+
+msgid "Gansu|Ning County"
+msgstr "宁县"
+
+msgid "Gansu|Zhenyuan"
+msgstr "镇原"
+
+msgid "Gansu|Qingcheng"
+msgstr "庆城"
+
+msgid "Gansu|Wuwei"
+msgstr "武威"
+
+msgid "Gansu|Minqin"
+msgstr "民勤"
+
+msgid "Gansu|Gulang"
+msgstr "古浪"
+
+msgid "Gansu|Liangzhou"
+msgstr "凉州"
+
+msgid "Gansu|Tianzhu"
+msgstr "天祝"
+
+msgid "Gansu|Jinchang"
+msgstr "金昌"
+
+msgid "Gansu|Yongchang"
+msgstr "永昌"
+
+msgid "Gansu|Jinchuan"
+msgstr "金川"
+
+msgid "Gansu|Zhangye"
+msgstr "张掖"
+
+msgid "Gansu|Sunan"
+msgstr "肃南"
+
+msgid "Gansu|Minle"
+msgstr "民乐"
+
+msgid "Gansu|Linze"
+msgstr "临泽"
+
+msgid "Gansu|Gaotai"
+msgstr "高台"
+
+msgid "Gansu|Shandan"
+msgstr "山丹"
+
+msgid "Gansu|Ganzhou"
+msgstr "甘州"
+
+msgid "Gansu|Jiuquan"
+msgstr "酒泉"
+
+msgid "Gansu|Suzhou"
+msgstr "肃州"
+
+msgid "Gansu|Jinta"
+msgstr "金塔"
+
+msgid "Gansu|Aksay"
+msgstr "阿克塞"
+
+msgid "Gansu|Guazhou"
+msgstr "瓜州"
+
+msgid "Gansu|Subei"
+msgstr "肃北"
+
+msgid "Gansu|Yumen"
+msgstr "玉门"
+
+msgid "Gansu|Dunhuang"
+msgstr "敦煌"
+
+msgid "Gansu|Tianshui"
+msgstr "天水"
+
+msgid "Gansu|Qinzhou"
+msgstr "秦州"
+
+msgid "Gansu|Qingshui"
+msgstr "清水"
+
+msgid "Gansu|Qin'an"
+msgstr "秦安"
+
+msgid "Gansu|Gangu"
+msgstr "甘谷"
+
+msgid "Gansu|Wushan"
+msgstr "武山"
+
+msgid "Gansu|Zhangjiachuan"
+msgstr "张家川"
+
+msgid "Gansu|Maiji"
+msgstr "麦积"
+
+msgid "Gansu|Wudu"
+msgstr "武都"
+
+msgid "Gansu|Cheng County"
+msgstr "成县"
+
+msgid "Gansu|Wen County"
+msgstr "文县"
+
+msgid "Gansu|Dangchang"
+msgstr "宕昌"
+
+msgid "Gansu|Kang County"
+msgstr "康县"
+
+msgid "Gansu|Xihe"
+msgstr "西和"
+
+msgid "Gansu|Li County"
+msgstr "礼县"
+
+msgid "Gansu|Hui County"
+msgstr "徽县"
+
+msgid "Gansu|Liangdang"
+msgstr "两当"
+
+msgid "Gansu|Longnan"
+msgstr "陇南"
+
+msgid "Gansu|Linxia Prefecture"
+msgstr "临夏"
+
+msgid "Gansu|Kangle"
+msgstr "康乐"
+
+msgid "Gansu|Yongjing"
+msgstr "永靖"
+
+msgid "Gansu|Guanghe"
+msgstr "广河"
+
+msgid "Gansu|Hezheng"
+msgstr "和政"
+
+msgid "Gansu|Dongxiang"
+msgstr "东乡"
+
+msgid "Gansu|Jishishan"
+msgstr "积石山"
+
+msgid "Gansu|Linxia City"
+msgstr "临夏市"
+
+msgid "Gansu|Linxia County"
+msgstr "临夏县"
+
+msgid "Gansu|Hezuo"
+msgstr "合作"
+
+msgid "Gansu|Lintan"
+msgstr "临潭"
+
+msgid "Gansu|Jone"
+msgstr "卓尼"
+
+msgid "Gansu|Zhouqu"
+msgstr "舟曲"
+
+msgid "Gansu|Tewo"
+msgstr "迭部"
+
+msgid "Gansu|Maqu"
+msgstr "玛曲"
+
+msgid "Gansu|Luqu"
+msgstr "碌曲"
+
+msgid "Gansu|Xiahe"
+msgstr "夏河"
+
+msgid "Gansu|Gannan Prefecture"
+msgstr "甘南"
+
+msgid "Gansu|Baiyin"
+msgstr "白银"
+
+msgid "Gansu|Jingyuan"
+msgstr "靖远"
+
+msgid "Gansu|Huining"
+msgstr "会宁"
+
+msgid "Gansu|Pingchuan"
+msgstr "平川"
+
+msgid "Gansu|Jingtai"
+msgstr "景泰"
+
+msgid "Gansu|Baiyin District"
+msgstr "白银区"
+
+msgid "Gansu|Jiayuguan"
+msgstr "嘉峪关"
 
 msgid "Ningxia Hui Autonomous Region"
 msgstr "宁夏回族自治区"
@@ -163,11 +4474,608 @@ msgstr "宁夏回族自治区"
 msgid "Ningxia Hui Autonomous Region|Yinchuan"
 msgstr "银川"
 
+msgid "Ningxia Hui Autonomous Region|Yongning"
+msgstr "永宁"
+
+msgid "Ningxia Hui Autonomous Region|Lingwu"
+msgstr "灵武"
+
+msgid "Ningxia Hui Autonomous Region|Helan"
+msgstr "贺兰"
+
+msgid "Ningxia Hui Autonomous Region|Xingqing"
+msgstr "兴庆"
+
+msgid "Ningxia Hui Autonomous Region|Xixia"
+msgstr "西夏"
+
+msgid "Ningxia Hui Autonomous Region|Jinfeng"
+msgstr "金凤"
+
+msgid "Ningxia Hui Autonomous Region|Shizuishan"
+msgstr "石嘴山"
+
+msgid "Ningxia Hui Autonomous Region|Huinong"
+msgstr "惠农"
+
+msgid "Ningxia Hui Autonomous Region|Pingluo"
+msgstr "平罗"
+
+msgid "Ningxia Hui Autonomous Region|Dawukou"
+msgstr "大武口"
+
+msgid "Ningxia Hui Autonomous Region|Wuzhong"
+msgstr "吴忠"
+
+msgid "Ningxia Hui Autonomous Region|Tongxin"
+msgstr "同心"
+
+msgid "Ningxia Hui Autonomous Region|Yanchi"
+msgstr "盐池"
+
+msgid "Ningxia Hui Autonomous Region|Litong"
+msgstr "利通"
+
+msgid "Ningxia Hui Autonomous Region|Hongsipu"
+msgstr "红寺堡"
+
+msgid "Ningxia Hui Autonomous Region|Qingtongxia"
+msgstr "青铜峡"
+
+msgid "Ningxia Hui Autonomous Region|Guyuan"
+msgstr "固原"
+
+msgid "Ningxia Hui Autonomous Region|Xiji"
+msgstr "西吉"
+
+msgid "Ningxia Hui Autonomous Region|Longde"
+msgstr "隆德"
+
+msgid "Ningxia Hui Autonomous Region|Jingyuan"
+msgstr "泾源"
+
+msgid "Ningxia Hui Autonomous Region|Wonju"
+msgstr "原州"
+
+msgid "Ningxia Hui Autonomous Region|Pengyang"
+msgstr "彭阳"
+
+msgid "Ningxia Hui Autonomous Region|Zhongwei"
+msgstr "中卫"
+
+msgid "Ningxia Hui Autonomous Region|Zhongning"
+msgstr "中宁"
+
+msgid "Ningxia Hui Autonomous Region|Shapotou"
+msgstr "沙坡头"
+
+msgid "Ningxia Hui Autonomous Region|Haiyuan"
+msgstr "海原"
+
 msgid "Henan"
 msgstr "河南省"
 
 msgid "Henan|Zhengzhou"
 msgstr "郑州"
+
+msgid "Henan|Gongyi"
+msgstr "巩义"
+
+msgid "Henan|Xingyang"
+msgstr "荥阳"
+
+msgid "Henan|Dengfeng"
+msgstr "登封"
+
+msgid "Henan|Xinmi"
+msgstr "新密"
+
+msgid "Henan|Xinzheng"
+msgstr "新郑"
+
+msgid "Henan|Zhongmu"
+msgstr "中牟"
+
+msgid "Henan|Shangjie"
+msgstr "上街"
+
+msgid "Henan|Central Plains"
+msgstr "中原"
+
+msgid "Henan|Erqi"
+msgstr "二七"
+
+msgid "Henan|Guancheng"
+msgstr "管城"
+
+msgid "Henan|Jinshui"
+msgstr "金水"
+
+msgid "Henan|Huiji"
+msgstr "惠济"
+
+msgid "Henan|Anyang"
+msgstr "安阳"
+
+msgid "Henan|Tangyin"
+msgstr "汤阴"
+
+msgid "Henan|Hua County"
+msgstr "滑县"
+
+msgid "Henan|Neihuang"
+msgstr "内黄"
+
+msgid "Henan|Linzhou"
+msgstr "林州"
+
+msgid "Henan|Wenfeng"
+msgstr "文峰"
+
+msgid "Henan|Beiguan"
+msgstr "北关"
+
+msgid "Henan|Yindu"
+msgstr "殷都"
+
+msgid "Henan|Long'an"
+msgstr "龙安"
+
+msgid "Henan|Anyang County"
+msgstr "安阳县"
+
+msgid "Henan|Xinxiang"
+msgstr "新乡"
+
+msgid "Henan|Huojia"
+msgstr "获嘉"
+
+msgid "Henan|Yuanyang"
+msgstr "原阳"
+
+msgid "Henan|Huixian"
+msgstr "辉县"
+
+msgid "Henan|Weihui"
+msgstr "卫辉"
+
+msgid "Henan|Yanjin"
+msgstr "延津"
+
+msgid "Henan|Fengqiu"
+msgstr "封丘"
+
+msgid "Henan|Changyuan"
+msgstr "长垣"
+
+msgid "Henan|Hongqi"
+msgstr "红旗"
+
+msgid "Henan|Weibin"
+msgstr "卫滨"
+
+msgid "Henan|Fengquan"
+msgstr "凤泉"
+
+msgid "Henan|Muye"
+msgstr "牧野"
+
+msgid "Henan|Xinxiang County"
+msgstr "新乡县"
+
+msgid "Henan|Xuchang"
+msgstr "许昌"
+
+msgid "Henan|Yanling"
+msgstr "鄢陵"
+
+msgid "Henan|Xiangcheng"
+msgstr "襄城"
+
+msgid "Henan|Changge"
+msgstr "长葛"
+
+msgid "Henan|Yuzhou"
+msgstr "禹州"
+
+msgid "Henan|Weidu"
+msgstr "魏都"
+
+msgid "Henan|Jian'an"
+msgstr "建安"
+
+msgid "Henan|Pingdingshan"
+msgstr "平顶山"
+
+msgid "Henan|Jia County"
+msgstr "郏县"
+
+msgid "Henan|Baofeng"
+msgstr "宝丰"
+
+msgid "Henan|Ruzhou"
+msgstr "汝州"
+
+msgid "Henan|Ye County"
+msgstr "叶县"
+
+msgid "Henan|Wugang"
+msgstr "舞钢"
+
+msgid "Henan|Lushan"
+msgstr "鲁山"
+
+msgid "Henan|Shilong"
+msgstr "石龙"
+
+msgid "Henan|Xinhua"
+msgstr "新华"
+
+msgid "Henan|Weidong"
+msgstr "卫东"
+
+msgid "Henan|Zhanhe"
+msgstr "湛河"
+
+msgid "Henan|Xinyang"
+msgstr "信阳"
+
+msgid "Henan|Xi County"
+msgstr "息县"
+
+msgid "Henan|Luoshan"
+msgstr "罗山"
+
+msgid "Henan|Guangshan"
+msgstr "光山"
+
+msgid "Henan|Xin County"
+msgstr "新县"
+
+msgid "Henan|Huaibin"
+msgstr "淮滨"
+
+msgid "Henan|Huangchuan"
+msgstr "潢川"
+
+msgid "Henan|Gushi"
+msgstr "固始"
+
+msgid "Henan|Shangcheng"
+msgstr "商城"
+
+msgid "Henan|Shihe"
+msgstr "浉河"
+
+msgid "Henan|Pingqiao"
+msgstr "平桥"
+
+msgid "Henan|Nanyang"
+msgstr "南阳"
+
+msgid "Henan|Nanzhao"
+msgstr "南召"
+
+msgid "Henan|Fangcheng"
+msgstr "方城"
+
+msgid "Henan|Sheqi"
+msgstr "社旗"
+
+msgid "Henan|Xixia"
+msgstr "西峡"
+
+msgid "Henan|Neixiang"
+msgstr "内乡"
+
+msgid "Henan|Zhenping"
+msgstr "镇平"
+
+msgid "Henan|Xichuan"
+msgstr "淅川"
+
+msgid "Henan|Xinye"
+msgstr "新野"
+
+msgid "Henan|Tanghe"
+msgstr "唐河"
+
+msgid "Henan|Dengzhou"
+msgstr "邓州"
+
+msgid "Henan|Tongbai"
+msgstr "桐柏"
+
+msgid "Henan|Wancheng"
+msgstr "宛城"
+
+msgid "Henan|Wolong"
+msgstr "卧龙"
+
+msgid "Henan|Kaifeng"
+msgstr "开封"
+
+msgid "Henan|Qi County"
+msgstr "杞县"
+
+msgid "Henan|Weishi"
+msgstr "尉氏"
+
+msgid "Henan|Tongxu"
+msgstr "通许"
+
+msgid "Henan|Lankao"
+msgstr "兰考"
+
+msgid "Henan|Longting"
+msgstr "龙亭"
+
+msgid "Henan|Shunhe"
+msgstr "顺河"
+
+msgid "Henan|Gulou"
+msgstr "鼓楼"
+
+msgid "Henan|Yuwangtai"
+msgstr "禹王台"
+
+msgid "Henan|Xiangfu"
+msgstr "祥符"
+
+msgid "Henan|Luoyang"
+msgstr "洛阳"
+
+msgid "Henan|Xin'an"
+msgstr "新安"
+
+msgid "Henan|Yiyang"
+msgstr "宜阳"
+
+msgid "Henan|Luoning"
+msgstr "洛宁"
+
+msgid "Henan|Yichuan"
+msgstr "伊川"
+
+msgid "Henan|Song County"
+msgstr "嵩县"
+
+msgid "Henan|Yanshi"
+msgstr "偃师"
+
+msgid "Henan|Luanchuan"
+msgstr "栾川"
+
+msgid "Henan|Ruyang"
+msgstr "汝阳"
+
+msgid "Henan|Mengjin"
+msgstr "孟津"
+
+msgid "Henan|Laocheng"
+msgstr "老城"
+
+msgid "Henan|Xigong"
+msgstr "西工"
+
+msgid "Henan|Chanhe Hui"
+msgstr "瀍河"
+
+msgid "Henan|Jianxi"
+msgstr "涧西"
+
+msgid "Henan|Luolong"
+msgstr "洛龙"
+
+msgid "Henan|Shangqiu"
+msgstr "商丘"
+
+msgid "Henan|Liangyuan"
+msgstr "梁园"
+
+msgid "Henan|Sui County"
+msgstr "睢县"
+
+msgid "Henan|Minquan"
+msgstr "民权"
+
+msgid "Henan|Yucheng"
+msgstr "虞城"
+
+msgid "Henan|Zhecheng"
+msgstr "柘城"
+
+msgid "Henan|Ningling"
+msgstr "宁陵"
+
+msgid "Henan|Xiayi"
+msgstr "夏邑"
+
+msgid "Henan|Yongcheng"
+msgstr "永城"
+
+msgid "Henan|Suiyang"
+msgstr "睢阳"
+
+msgid "Henan|Jiaozuo"
+msgstr "焦作"
+
+msgid "Henan|Xiuwu"
+msgstr "修武"
+
+msgid "Henan|Wuzhi"
+msgstr "武陟"
+
+msgid "Henan|Qinyang"
+msgstr "沁阳"
+
+msgid "Henan|Jiefang"
+msgstr "解放"
+
+msgid "Henan|Bo'ai"
+msgstr "博爱"
+
+msgid "Henan|Wen County"
+msgstr "温县"
+
+msgid "Henan|Mengzhou"
+msgstr "孟州"
+
+msgid "Henan|Zhongzhan"
+msgstr "中站"
+
+msgid "Henan|Macun"
+msgstr "马村"
+
+msgid "Henan|Shanyang"
+msgstr "山阳"
+
+msgid "Henan|Hebi"
+msgstr "鹤壁"
+
+msgid "Henan|Jun County"
+msgstr "浚县"
+
+msgid "Henan|Qi County"
+msgstr "淇县"
+
+msgid "Henan|Heshan"
+msgstr "鹤山"
+
+msgid "Henan|Shancheng"
+msgstr "山城"
+
+msgid "Henan|Qibin"
+msgstr "淇滨"
+
+msgid "Henan|Puyang"
+msgstr "濮阳"
+
+msgid "Henan|Taiqian"
+msgstr "台前"
+
+msgid "Henan|Nanle"
+msgstr "南乐"
+
+msgid "Henan|Qingfeng"
+msgstr "清丰"
+
+msgid "Henan|Fan County"
+msgstr "范县"
+
+msgid "Henan|Hualong"
+msgstr "华龙"
+
+msgid "Henan|Puyang County"
+msgstr "濮阳县"
+
+msgid "Henan|Zhoukou"
+msgstr "周口"
+
+msgid "Henan|Fugou"
+msgstr "扶沟"
+
+msgid "Henan|Taikang"
+msgstr "太康"
+
+msgid "Henan|Huaiyang"
+msgstr "淮阳"
+
+msgid "Henan|Xihua"
+msgstr "西华"
+
+msgid "Henan|Shangshui"
+msgstr "商水"
+
+msgid "Henan|Xiangcheng"
+msgstr "项城"
+
+msgid "Henan|Dancheng"
+msgstr "郸城"
+
+msgid "Henan|Luyi"
+msgstr "鹿邑"
+
+msgid "Henan|Shenqiu"
+msgstr "沈丘"
+
+msgid "Henan|Chuanhui"
+msgstr "川汇"
+
+msgid "Henan|Luohe"
+msgstr "漯河"
+
+msgid "Henan|Linying"
+msgstr "临颍"
+
+msgid "Henan|Wuyang"
+msgstr "舞阳"
+
+msgid "Henan|Yuanhui"
+msgstr "源汇"
+
+msgid "Henan|Licheng"
+msgstr "郾城"
+
+msgid "Henan|Zhaoling"
+msgstr "召陵"
+
+msgid "Henan|Zhumadian"
+msgstr "驻马店"
+
+msgid "Henan|Xiping"
+msgstr "西平"
+
+msgid "Henan|Suiping"
+msgstr "遂平"
+
+msgid "Henan|Shangcai"
+msgstr "上蔡"
+
+msgid "Henan|Runan"
+msgstr "汝南"
+
+msgid "Henan|Biyang"
+msgstr "泌阳"
+
+msgid "Henan|Pingyu"
+msgstr "平舆"
+
+msgid "Henan|Xincai"
+msgstr "新蔡"
+
+msgid "Henan|Queshan"
+msgstr "确山"
+
+msgid "Henan|Zhengyang"
+msgstr "正阳"
+
+msgid "Henan|Yicheng"
+msgstr "驿城"
+
+msgid "Henan|Sanmenxia"
+msgstr "三门峡"
+
+msgid "Henan|Lingbao"
+msgstr "灵宝"
+
+msgid "Henan|Mianchi"
+msgstr "渑池"
+
+msgid "Henan|Lushi"
+msgstr "卢氏"
+
+msgid "Henan|Yima"
+msgstr "义马"
+
+msgid "Henan|Hubin"
+msgstr "湖滨"
+
+msgid "Henan|Shanzhou"
+msgstr "陕州"
+
+msgid "Henan|Jiyuan"
+msgstr "济源"
 
 msgid "Jiangsu"
 msgstr "江苏省"
@@ -175,11 +5083,677 @@ msgstr "江苏省"
 msgid "Jiangsu|Nanjing"
 msgstr "南京"
 
+msgid "Jiangsu|Lishui"
+msgstr "溧水"
+
+msgid "Jiangsu|Gaochun"
+msgstr "高淳"
+
+msgid "Jiangsu|Jiangning"
+msgstr "江宁"
+
+msgid "Jiangsu|Liuhe"
+msgstr "六合"
+
+msgid "Jiangsu|Pukou"
+msgstr "浦口"
+
+msgid "Jiangsu|Xuanwu"
+msgstr "玄武"
+
+msgid "Jiangsu|Qinhuai"
+msgstr "秦淮"
+
+msgid "Jiangsu|Jianye"
+msgstr "建邺"
+
+msgid "Jiangsu|Gulou"
+msgstr "鼓楼"
+
+msgid "Jiangsu|Qixia"
+msgstr "栖霞"
+
+msgid "Jiangsu|Yuhuatai"
+msgstr "雨花台"
+
+msgid "Jiangsu|Wuxi"
+msgstr "无锡"
+
+msgid "Jiangsu|Jiangyin"
+msgstr "江阴"
+
+msgid "Jiangsu|Yixing"
+msgstr "宜兴"
+
+msgid "Jiangsu|Xishan"
+msgstr "锡山"
+
+msgid "Jiangsu|Huishan"
+msgstr "惠山"
+
+msgid "Jiangsu|Lake"
+msgstr "滨湖"
+
+msgid "Jiangsu|Liangxi"
+msgstr "梁溪"
+
+msgid "Jiangsu|Xinwu"
+msgstr "新吴"
+
+msgid "Jiangsu|Zhenjiang"
+msgstr "镇江"
+
+msgid "Jiangsu|Danyang"
+msgstr "丹阳"
+
+msgid "Jiangsu|Yangzhong"
+msgstr "扬中"
+
+msgid "Jiangsu|Jurong"
+msgstr "句容"
+
+msgid "Jiangsu|Dantu"
+msgstr "丹徒"
+
+msgid "Jiangsu|Jingkou"
+msgstr "京口"
+
+msgid "Jiangsu|Runzhou"
+msgstr "润州"
+
+msgid "Jiangsu|Suzhou"
+msgstr "苏州"
+
+msgid "Jiangsu|Changshu"
+msgstr "常熟"
+
+msgid "Jiangsu|Zhangjiagang"
+msgstr "张家港"
+
+msgid "Jiangsu|Kunshan"
+msgstr "昆山"
+
+msgid "Jiangsu|Wuzhong"
+msgstr "吴中"
+
+msgid "Jiangsu|Huqiu"
+msgstr "虎丘"
+
+msgid "Jiangsu|Wujiang"
+msgstr "吴江"
+
+msgid "Jiangsu|Taicang"
+msgstr "太仓"
+
+msgid "Jiangsu|Xiangcheng"
+msgstr "相城"
+
+msgid "Jiangsu|Gusu"
+msgstr "姑苏"
+
+msgid "Jiangsu|Nantong"
+msgstr "南通"
+
+msgid "Jiangsu|Haian"
+msgstr "海安"
+
+msgid "Jiangsu|Rugao"
+msgstr "如皋"
+
+msgid "Jiangsu|Rudong"
+msgstr "如东"
+
+msgid "Jiangsu|Chongchuan"
+msgstr "崇川"
+
+msgid "Jiangsu|Qidong"
+msgstr "启东"
+
+msgid "Jiangsu|Haimen"
+msgstr "海门"
+
+msgid "Jiangsu|Tongzhou"
+msgstr "通州"
+
+msgid "Jiangsu|Yangzhou"
+msgstr "扬州"
+
+msgid "Jiangsu|Baoying"
+msgstr "宝应"
+
+msgid "Jiangsu|Yizheng"
+msgstr "仪征"
+
+msgid "Jiangsu|Gaoyou"
+msgstr "高邮"
+
+msgid "Jiangsu|Jiangdu"
+msgstr "江都"
+
+msgid "Jiangsu|Hanjiang"
+msgstr "邗江"
+
+msgid "Jiangsu|Guangling"
+msgstr "广陵"
+
+msgid "Jiangsu|Yancheng"
+msgstr "盐城"
+
+msgid "Jiangsu|Xiangshui"
+msgstr "响水"
+
+msgid "Jiangsu|Binhai"
+msgstr "滨海"
+
+msgid "Jiangsu|Funing"
+msgstr "阜宁"
+
+msgid "Jiangsu|Sheyang"
+msgstr "射阳"
+
+msgid "Jiangsu|Jianhu"
+msgstr "建湖"
+
+msgid "Jiangsu|Dongtai"
+msgstr "东台"
+
+msgid "Jiangsu|Dafeng"
+msgstr "大丰"
+
+msgid "Jiangsu|Yandu"
+msgstr "盐都"
+
+msgid "Jiangsu|Tinghu"
+msgstr "亭湖"
+
+msgid "Jiangsu|Xuzhou"
+msgstr "徐州"
+
+msgid "Jiangsu|Tongshan"
+msgstr "铜山"
+
+msgid "Jiangsu|Feng County"
+msgstr "丰县"
+
+msgid "Jiangsu|Pei County"
+msgstr "沛县"
+
+msgid "Jiangsu|Pizhou"
+msgstr "邳州"
+
+msgid "Jiangsu|Suining"
+msgstr "睢宁"
+
+msgid "Jiangsu|Xinyi"
+msgstr "新沂"
+
+msgid "Jiangsu|Gulou"
+msgstr "鼓楼"
+
+msgid "Jiangsu|Yunlong"
+msgstr "云龙"
+
+msgid "Jiangsu|Jiawang"
+msgstr "贾汪"
+
+msgid "Jiangsu|Quanshan"
+msgstr "泉山"
+
+msgid "Jiangsu|Huaian"
+msgstr "淮安"
+
+msgid "Jiangsu|Jinhu"
+msgstr "金湖"
+
+msgid "Jiangsu|Xuyi"
+msgstr "盱眙"
+
+msgid "Jiangsu|Hongze"
+msgstr "洪泽"
+
+msgid "Jiangsu|Lianshui"
+msgstr "涟水"
+
+msgid "Jiangsu|Huaiyin"
+msgstr "淮阴区"
+
+msgid "Jiangsu|Qingjiang Pu"
+msgstr "清江浦"
+
+msgid "Jiangsu|Huaian"
+msgstr "淮安区"
+
+msgid "Jiangsu|Lianyungang"
+msgstr "连云港"
+
+msgid "Jiangsu|Donghai"
+msgstr "东海"
+
+msgid "Jiangsu|Ganyu"
+msgstr "赣榆"
+
+msgid "Jiangsu|Guanyun"
+msgstr "灌云"
+
+msgid "Jiangsu|Guannan"
+msgstr "灌南"
+
+msgid "Jiangsu|Haizhou"
+msgstr "海州"
+
+msgid "Jiangsu|Lianyun"
+msgstr "连云"
+
+msgid "Jiangsu|Changzhou"
+msgstr "常州"
+
+msgid "Jiangsu|Liyang"
+msgstr "溧阳"
+
+msgid "Jiangsu|Jintan"
+msgstr "金坛"
+
+msgid "Jiangsu|Wujin"
+msgstr "武进"
+
+msgid "Jiangsu|Tianning"
+msgstr "天宁"
+
+msgid "Jiangsu|Bell Tower"
+msgstr "钟楼"
+
+msgid "Jiangsu|Xinbei"
+msgstr "新北"
+
+msgid "Jiangsu|Taizhou"
+msgstr "泰州"
+
+msgid "Jiangsu|Xinghua"
+msgstr "兴化"
+
+msgid "Jiangsu|Taixing"
+msgstr "泰兴"
+
+msgid "Jiangsu|Jiangyan"
+msgstr "姜堰"
+
+msgid "Jiangsu|Jingjiang"
+msgstr "靖江"
+
+msgid "Jiangsu|Hailing"
+msgstr "海陵"
+
+msgid "Jiangsu|Gaogang"
+msgstr "高港"
+
+msgid "Jiangsu|Suqian"
+msgstr "宿迁"
+
+msgid "Jiangsu|Shuyang"
+msgstr "沭阳"
+
+msgid "Jiangsu|Siyang"
+msgstr "泗阳"
+
+msgid "Jiangsu|Sihong"
+msgstr "泗洪"
+
+msgid "Jiangsu|Suyu"
+msgstr "宿豫"
+
+msgid "Jiangsu|Sucheng"
+msgstr "宿城"
+
 msgid "Hubei"
 msgstr "湖北省"
 
 msgid "Hubei|Wuhan"
 msgstr "武汉"
+
+msgid "Hubei|Caidian"
+msgstr "蔡甸"
+
+msgid "Hubei|Huangpi"
+msgstr "黄陂"
+
+msgid "Hubei|Xinzhou"
+msgstr "新洲"
+
+msgid "Hubei|Jiangxia"
+msgstr "江夏"
+
+msgid "Hubei|Dongxihu"
+msgstr "东西湖"
+
+msgid "Hubei|Jiang'an"
+msgstr "江岸"
+
+msgid "Hubei|Jianghan"
+msgstr "江汉"
+
+msgid "Hubei|Qiaokou"
+msgstr "硚口"
+
+msgid "Hubei|Hanyang"
+msgstr "汉阳"
+
+msgid "Hubei|Wuchang"
+msgstr "武昌"
+
+msgid "Hubei|Qingshan"
+msgstr "青山"
+
+msgid "Hubei|Hongshan"
+msgstr "洪山"
+
+msgid "Hubei|Hannan"
+msgstr "汉南"
+
+msgid "Hubei|Xiangyang"
+msgstr "襄阳"
+
+msgid "Hubei|Xiangzhou"
+msgstr "襄州"
+
+msgid "Hubei|Baokang"
+msgstr "保康"
+
+msgid "Hubei|Nanzhang"
+msgstr "南漳"
+
+msgid "Hubei|Yicheng"
+msgstr "宜城"
+
+msgid "Hubei|Laohekou"
+msgstr "老河口"
+
+msgid "Hubei|Gucheng"
+msgstr "谷城"
+
+msgid "Hubei|Zaoyang"
+msgstr "枣阳"
+
+msgid "Hubei|Xiangcheng"
+msgstr "襄城"
+
+msgid "Hubei|Fancheng"
+msgstr "樊城"
+
+msgid "Hubei|Ezhou"
+msgstr "鄂州"
+
+msgid "Hubei|Liangzi Lake"
+msgstr "梁子湖"
+
+msgid "Hubei|Huarong"
+msgstr "华容"
+
+msgid "Hubei|Echeng"
+msgstr "鄂城"
+
+msgid "Hubei|Xiaogan"
+msgstr "孝感"
+
+msgid "Hubei|Anlu"
+msgstr "安陆"
+
+msgid "Hubei|Yunmeng"
+msgstr "云梦"
+
+msgid "Hubei|Dawu"
+msgstr "大悟"
+
+msgid "Hubei|Yingcheng"
+msgstr "应城"
+
+msgid "Hubei|Hanchuan"
+msgstr "汉川"
+
+msgid "Hubei|Xiaochang"
+msgstr "孝昌"
+
+msgid "Hubei|Xiaonan"
+msgstr "孝南"
+
+msgid "Hubei|Huanggang"
+msgstr "黄冈"
+
+msgid "Hubei|Hong'an"
+msgstr "红安"
+
+msgid "Hubei|Macheng"
+msgstr "麻城"
+
+msgid "Hubei|Luotian"
+msgstr "罗田"
+
+msgid "Hubei|Yingshan"
+msgstr "英山"
+
+msgid "Hubei|Xishui"
+msgstr "浠水"
+
+msgid "Hubei|Qichun"
+msgstr "蕲春"
+
+msgid "Hubei|Huangmei"
+msgstr "黄梅"
+
+msgid "Hubei|Wuxue"
+msgstr "武穴"
+
+msgid "Hubei|Tuanfeng"
+msgstr "团风"
+
+msgid "Hubei|Huangzhou"
+msgstr "黄州"
+
+msgid "Hubei|Huangshi"
+msgstr "黄石"
+
+msgid "Hubei|Daye"
+msgstr "大冶"
+
+msgid "Hubei|Yangxin"
+msgstr "阳新"
+
+msgid "Hubei|Tieshan"
+msgstr "铁山"
+
+msgid "Hubei|Xialu"
+msgstr "下陆"
+
+msgid "Hubei|Xisaishan"
+msgstr "西塞山"
+
+msgid "Hubei|Huangshi Port"
+msgstr "黄石港"
+
+msgid "Hubei|Xianning"
+msgstr "咸宁"
+
+msgid "Hubei|Chibi"
+msgstr "赤壁"
+
+msgid "Hubei|Jiayu"
+msgstr "嘉鱼"
+
+msgid "Hubei|Chongyang"
+msgstr "崇阳"
+
+msgid "Hubei|Tongcheng"
+msgstr "通城"
+
+msgid "Hubei|Tongshan"
+msgstr "通山"
+
+msgid "Hubei|Xian'an"
+msgstr "咸安"
+
+msgid "Hubei|Jingzhou"
+msgstr "荆州"
+
+msgid "Hubei|Jiangling"
+msgstr "江陵"
+
+msgid "Hubei|Gong'an"
+msgstr "公安"
+
+msgid "Hubei|Shishou"
+msgstr "石首"
+
+msgid "Hubei|Jianli"
+msgstr "监利"
+
+msgid "Hubei|Honghu"
+msgstr "洪湖"
+
+msgid "Hubei|Songzi"
+msgstr "松滋"
+
+msgid "Hubei|Shashi"
+msgstr "沙市"
+
+msgid "Hubei|Jingzhou County"
+msgstr "荆州区"
+
+msgid "Hubei|Yichang"
+msgstr "宜昌"
+
+msgid "Hubei|Yuan'an"
+msgstr "远安"
+
+msgid "Hubei|Zigui"
+msgstr "秭归"
+
+msgid "Hubei|Xingshan"
+msgstr "兴山"
+
+msgid "Hubei|Xiling"
+msgstr "西陵"
+
+msgid "Hubei|Wufeng"
+msgstr "五峰"
+
+msgid "Hubei|Dangyang"
+msgstr "当阳"
+
+msgid "Hubei|Changyang"
+msgstr "长阳"
+
+msgid "Hubei|Yidu"
+msgstr "宜都"
+
+msgid "Hubei|Zhijiang"
+msgstr "枝江"
+
+msgid "Hubei|Yiling"
+msgstr "夷陵"
+
+msgid "Hubei|Wujiagang"
+msgstr "伍家岗"
+
+msgid "Hubei|Dianjun"
+msgstr "点军"
+
+msgid "Hubei|Xiaoting"
+msgstr "猇亭"
+
+msgid "Hubei|Enshi Prefecture"
+msgstr "恩施州"
+
+msgid "Hubei|Lichuan"
+msgstr "利川"
+
+msgid "Hubei|Jianshi"
+msgstr "建始"
+
+msgid "Hubei|Xianfeng"
+msgstr "咸丰"
+
+msgid "Hubei|Xuan'en"
+msgstr "宣恩"
+
+msgid "Hubei|Hefeng"
+msgstr "鹤峰"
+
+msgid "Hubei|Laifeng"
+msgstr "来凤"
+
+msgid "Hubei|Badong"
+msgstr "巴东"
+
+msgid "Hubei|Enshi City"
+msgstr "恩施市"
+
+msgid "Hubei|Shiyan"
+msgstr "十堰"
+
+msgid "Hubei|Zhuxi"
+msgstr "竹溪"
+
+msgid "Hubei|Yunxi"
+msgstr "郧西"
+
+msgid "Hubei|Yunyang"
+msgstr "郧阳"
+
+msgid "Hubei|Zhushan"
+msgstr "竹山"
+
+msgid "Hubei|Fang County"
+msgstr "房县"
+
+msgid "Hubei|Danjiangkou"
+msgstr "丹江口"
+
+msgid "Hubei|Maojian"
+msgstr "茅箭"
+
+msgid "Hubei|Zhangwan"
+msgstr "张湾"
+
+msgid "Hubei|Shennongjia Forest Area"
+msgstr "神农架"
+
+msgid "Hubei|Suizhou"
+msgstr "随州"
+
+msgid "Hubei|Guangshui"
+msgstr "广水"
+
+msgid "Hubei|Zengdu"
+msgstr "曾都"
+
+msgid "Hubei|Sui County"
+msgstr "随县"
+
+msgid "Hubei|Jingmen"
+msgstr "荆门"
+
+msgid "Hubei|Zhongxiang"
+msgstr "钟祥"
+
+msgid "Hubei|Jingshan"
+msgstr "京山"
+
+msgid "Hubei|Duodao"
+msgstr "掇刀"
+
+msgid "Hubei|Shayang"
+msgstr "沙洋"
+
+msgid "Hubei|Dongbao"
+msgstr "东宝"
+
+msgid "Hubei|Tianmen"
+msgstr "天门"
+
+msgid "Hubei|Xiantao"
+msgstr "仙桃"
+
+msgid "Hubei|Qianjiang"
+msgstr "潜江"
 
 msgid "Zhejiang"
 msgstr "浙江省"
@@ -187,11 +5761,668 @@ msgstr "浙江省"
 msgid "Zhejiang|Hangzhou"
 msgstr "杭州"
 
+msgid "Zhejiang|Xiaoshan"
+msgstr "萧山"
+
+msgid "Zhejiang|Tonglu"
+msgstr "桐庐"
+
+msgid "Zhejiang|Chun'an"
+msgstr "淳安"
+
+msgid "Zhejiang|Jiande"
+msgstr "建德"
+
+msgid "Zhejiang|Yuhang"
+msgstr "余杭"
+
+msgid "Zhejiang|Lin'an"
+msgstr "临安"
+
+msgid "Zhejiang|Fuyang"
+msgstr "富阳"
+
+msgid "Zhejiang|Shangcheng"
+msgstr "上城"
+
+msgid "Zhejiang|Qiantang"
+msgstr "钱塘"
+
+msgid "Zhejiang|Gongshu"
+msgstr "拱墅"
+
+msgid "Zhejiang|Xihu"
+msgstr "西湖"
+
+msgid "Zhejiang|Binjiang"
+msgstr "滨江"
+
+msgid "Zhejiang|Linping"
+msgstr "临平"
+
+msgid "Zhejiang|Huzhou"
+msgstr "湖州"
+
+msgid "Zhejiang|Changxing"
+msgstr "长兴"
+
+msgid "Zhejiang|Anji"
+msgstr "安吉"
+
+msgid "Zhejiang|Deqing"
+msgstr "德清"
+
+msgid "Zhejiang|Wuxing"
+msgstr "吴兴"
+
+msgid "Zhejiang|Nanxun"
+msgstr "南浔"
+
+msgid "Zhejiang|Jiaxing"
+msgstr "嘉兴"
+
+msgid "Zhejiang|Jiashan"
+msgstr "嘉善"
+
+msgid "Zhejiang|Haining"
+msgstr "海宁"
+
+msgid "Zhejiang|Tongxiang"
+msgstr "桐乡"
+
+msgid "Zhejiang|Pinghu"
+msgstr "平湖"
+
+msgid "Zhejiang|Haiyan"
+msgstr "海盐"
+
+msgid "Zhejiang|Nanhu"
+msgstr "南湖"
+
+msgid "Zhejiang|Xiuzhou"
+msgstr "秀洲"
+
+msgid "Zhejiang|Ningbo"
+msgstr "宁波"
+
+msgid "Zhejiang|Haishu"
+msgstr "海曙"
+
+msgid "Zhejiang|Cixi"
+msgstr "慈溪"
+
+msgid "Zhejiang|Yuyao"
+msgstr "余姚"
+
+msgid "Zhejiang|Fenghua"
+msgstr "奉化"
+
+msgid "Zhejiang|Xiangshan"
+msgstr "象山"
+
+msgid "Zhejiang|Ninghai"
+msgstr "宁海"
+
+msgid "Zhejiang|Jiangbei"
+msgstr "江北"
+
+msgid "Zhejiang|Beilun"
+msgstr "北仑"
+
+msgid "Zhejiang|Yinzhou"
+msgstr "鄞州"
+
+msgid "Zhejiang|Zhenhai"
+msgstr "镇海"
+
+msgid "Zhejiang|Yuecheng"
+msgstr "越城"
+
+msgid "Zhejiang|Zhuji"
+msgstr "诸暨"
+
+msgid "Zhejiang|Shangyu"
+msgstr "上虞"
+
+msgid "Zhejiang|Xinchang"
+msgstr "新昌"
+
+msgid "Zhejiang|Shengzhou"
+msgstr "嵊州"
+
+msgid "Zhejiang|Keqiao"
+msgstr "柯桥"
+
+msgid "Zhejiang|Shaoxing"
+msgstr "绍兴"
+
+msgid "Zhejiang|Taizhou"
+msgstr "台州"
+
+msgid "Zhejiang|Yuhuan"
+msgstr "玉环"
+
+msgid "Zhejiang|Sanmen"
+msgstr "三门"
+
+msgid "Zhejiang|Tiantai"
+msgstr "天台"
+
+msgid "Zhejiang|Xianju"
+msgstr "仙居"
+
+msgid "Zhejiang|Wenling"
+msgstr "温岭"
+
+msgid "Zhejiang|Linhai"
+msgstr "临海"
+
+msgid "Zhejiang|Jiaojiang"
+msgstr "椒江"
+
+msgid "Zhejiang|Huangyan"
+msgstr "黄岩"
+
+msgid "Zhejiang|Luqiao"
+msgstr "路桥"
+
+msgid "Zhejiang|Wenzhou"
+msgstr "温州"
+
+msgid "Zhejiang|Taishun"
+msgstr "泰顺"
+
+msgid "Zhejiang|Wencheng"
+msgstr "文成"
+
+msgid "Zhejiang|Pingyang"
+msgstr "平阳"
+
+msgid "Zhejiang|Rui'an"
+msgstr "瑞安"
+
+msgid "Zhejiang|Dongtou"
+msgstr "洞头"
+
+msgid "Zhejiang|Yueqing"
+msgstr "乐清"
+
+msgid "Zhejiang|Yongjia"
+msgstr "永嘉"
+
+msgid "Zhejiang|Cangnan"
+msgstr "苍南"
+
+msgid "Zhejiang|Lucheng"
+msgstr "鹿城"
+
+msgid "Zhejiang|Longwan"
+msgstr "龙湾"
+
+msgid "Zhejiang|Ouhai"
+msgstr "瓯海"
+
+msgid "Zhejiang|Longgang"
+msgstr "龙港"
+
+msgid "Zhejiang|Lishui"
+msgstr "丽水"
+
+msgid "Zhejiang|Suichang"
+msgstr "遂昌"
+
+msgid "Zhejiang|Longquan"
+msgstr "龙泉"
+
+msgid "Zhejiang|Jinyun"
+msgstr "缙云"
+
+msgid "Zhejiang|Qingtian"
+msgstr "青田"
+
+msgid "Zhejiang|Yunhe"
+msgstr "云和"
+
+msgid "Zhejiang|Qingyuan"
+msgstr "庆元"
+
+msgid "Zhejiang|Songyang"
+msgstr "松阳"
+
+msgid "Zhejiang|Jingning"
+msgstr "景宁"
+
+msgid "Zhejiang|Liandu"
+msgstr "莲都"
+
+msgid "Zhejiang|Jinhua"
+msgstr "金华"
+
+msgid "Zhejiang|Pujiang"
+msgstr "浦江"
+
+msgid "Zhejiang|Lanxi"
+msgstr "兰溪"
+
+msgid "Zhejiang|Yiwu"
+msgstr "义乌"
+
+msgid "Zhejiang|Dongyang"
+msgstr "东阳"
+
+msgid "Zhejiang|Wuyi"
+msgstr "武义"
+
+msgid "Zhejiang|Yongkang"
+msgstr "永康"
+
+msgid "Zhejiang|Pan'an"
+msgstr "磐安"
+
+msgid "Zhejiang|Wucheng"
+msgstr "婺城"
+
+msgid "Zhejiang|Jindong"
+msgstr "金东"
+
+msgid "Zhejiang|Quzhou"
+msgstr "衢州"
+
+msgid "Zhejiang|Changshan"
+msgstr "常山"
+
+msgid "Zhejiang|Kaihua"
+msgstr "开化"
+
+msgid "Zhejiang|Longyou"
+msgstr "龙游"
+
+msgid "Zhejiang|Jiangshan"
+msgstr "江山"
+
+msgid "Zhejiang|Qujiang"
+msgstr "衢江"
+
+msgid "Zhejiang|Kecheng"
+msgstr "柯城"
+
+msgid "Zhejiang|Zhoushan"
+msgstr "舟山"
+
+msgid "Zhejiang|Shengsi"
+msgstr "嵊泗"
+
+msgid "Zhejiang|Daishan"
+msgstr "岱山"
+
+msgid "Zhejiang|Putuo"
+msgstr "普陀"
+
+msgid "Zhejiang|Dinghai"
+msgstr "定海"
+
 msgid "Anhui"
 msgstr "安徽省"
 
 msgid "Anhui|Hefei"
 msgstr "合肥"
+
+msgid "Anhui|Changfeng"
+msgstr "长丰"
+
+msgid "Anhui|Feidong"
+msgstr "肥东"
+
+msgid "Anhui|Feixi"
+msgstr "肥西"
+
+msgid "Anhui|Chaohu"
+msgstr "巢湖"
+
+msgid "Anhui|Lujiang"
+msgstr "庐江"
+
+msgid "Anhui|Yaohai"
+msgstr "瑶海"
+
+msgid "Anhui|Luyang"
+msgstr "庐阳"
+
+msgid "Anhui|Shushan"
+msgstr "蜀山"
+
+msgid "Anhui|Baohe"
+msgstr "包河"
+
+msgid "Anhui|Bengbu"
+msgstr "蚌埠"
+
+msgid "Anhui|Huaiyuan"
+msgstr "怀远"
+
+msgid "Anhui|Guzhen"
+msgstr "固镇"
+
+msgid "Anhui|Wuhe"
+msgstr "五河"
+
+msgid "Anhui|Longzihu"
+msgstr "龙子湖"
+
+msgid "Anhui|Bangshan"
+msgstr "蚌山"
+
+msgid "Anhui|Yuhui"
+msgstr "禹会"
+
+msgid "Anhui|Huaishang"
+msgstr "淮上"
+
+msgid "Anhui|Wuhu"
+msgstr "芜湖"
+
+msgid "Anhui|Fanchang"
+msgstr "繁昌"
+
+msgid "Anhui|Wanzhi"
+msgstr "湾沚"
+
+msgid "Anhui|Nanling"
+msgstr "南陵"
+
+msgid "Anhui|Wuwei"
+msgstr "无为"
+
+msgid "Anhui|Jinghu"
+msgstr "镜湖"
+
+msgid "Anhui|Yijiang"
+msgstr "弋江"
+
+msgid "Anhui|Jiujiang"
+msgstr "鸠江"
+
+msgid "Anhui|Huainan"
+msgstr "淮南"
+
+msgid "Anhui|Fengtai"
+msgstr "凤台"
+
+msgid "Anhui|Panji"
+msgstr "潘集"
+
+msgid "Anhui|Datong"
+msgstr "大通"
+
+msgid "Anhui|Tianjia'an"
+msgstr "田家庵"
+
+msgid "Anhui|Xiejiaji"
+msgstr "谢家集"
+
+msgid "Anhui|Bagongshan"
+msgstr "八公山"
+
+msgid "Anhui|Shou County"
+msgstr "寿县"
+
+msgid "Anhui|Ma'anshan"
+msgstr "马鞍山"
+
+msgid "Anhui|Dangtu"
+msgstr "当涂"
+
+msgid "Anhui|Hanshan"
+msgstr "含山"
+
+msgid "Anhui|He County"
+msgstr "和县"
+
+msgid "Anhui|Huashan"
+msgstr "花山"
+
+msgid "Anhui|Yushan"
+msgstr "雨山"
+
+msgid "Anhui|Bowang"
+msgstr "博望"
+
+msgid "Anhui|Anqing"
+msgstr "安庆"
+
+msgid "Anhui|Taihu"
+msgstr "太湖"
+
+msgid "Anhui|Qianshan"
+msgstr "潜山"
+
+msgid "Anhui|Huaining"
+msgstr "怀宁"
+
+msgid "Anhui|Susong"
+msgstr "宿松"
+
+msgid "Anhui|Wangjiang"
+msgstr "望江"
+
+msgid "Anhui|Yuexi"
+msgstr "岳西"
+
+msgid "Anhui|Tongcheng"
+msgstr "桐城"
+
+msgid "Anhui|Yingjiang"
+msgstr "迎江"
+
+msgid "Anhui|Daguan"
+msgstr "大观"
+
+msgid "Anhui|Yixiu"
+msgstr "宜秀"
+
+msgid "Anhui|Suzhou"
+msgstr "宿州"
+
+msgid "Anhui|Dangshan"
+msgstr "砀山"
+
+msgid "Anhui|Lingbi"
+msgstr "灵璧"
+
+msgid "Anhui|Si County"
+msgstr "泗县"
+
+msgid "Anhui|Xiao County"
+msgstr "萧县"
+
+msgid "Anhui|Yongqiao"
+msgstr "埇桥"
+
+msgid "Anhui|Fuyang"
+msgstr "阜阳"
+
+msgid "Anhui|Funan"
+msgstr "阜南"
+
+msgid "Anhui|Yingshang"
+msgstr "颍上"
+
+msgid "Anhui|Linquan"
+msgstr "临泉"
+
+msgid "Anhui|Jieshou"
+msgstr "界首"
+
+msgid "Anhui|Taihe"
+msgstr "太和"
+
+msgid "Anhui|Yingzhou"
+msgstr "颍州"
+
+msgid "Anhui|Yingdong"
+msgstr "颍东"
+
+msgid "Anhui|Yingquan"
+msgstr "颍泉"
+
+msgid "Anhui|Bozhou"
+msgstr "亳州"
+
+msgid "Anhui|Guoyang"
+msgstr "涡阳"
+
+msgid "Anhui|Lixin"
+msgstr "利辛"
+
+msgid "Anhui|Mengcheng"
+msgstr "蒙城"
+
+msgid "Anhui|Qiaocheng"
+msgstr "谯城"
+
+msgid "Anhui|Huangshan"
+msgstr "黄山"
+
+msgid "Anhui|Huangshan"
+msgstr "黄山区"
+
+msgid "Anhui|Tunxi"
+msgstr "屯溪"
+
+msgid "Anhui|Qimen"
+msgstr "祁门"
+
+msgid "Anhui|Yi County"
+msgstr "黟县"
+
+msgid "Anhui|She County"
+msgstr "歙县"
+
+msgid "Anhui|Xiuning"
+msgstr "休宁"
+
+msgid "Anhui|Huizhou"
+msgstr "徽州"
+
+msgid "Anhui|Chuzhou"
+msgstr "滁州"
+
+msgid "Anhui|Fengyang"
+msgstr "凤阳"
+
+msgid "Anhui|Mingguang"
+msgstr "明光"
+
+msgid "Anhui|Dingyuan"
+msgstr "定远"
+
+msgid "Anhui|Quanjiao"
+msgstr "全椒"
+
+msgid "Anhui|Lai'an"
+msgstr "来安"
+
+msgid "Anhui|Tianchang"
+msgstr "天长"
+
+msgid "Anhui|Langya"
+msgstr "琅琊"
+
+msgid "Anhui|Nanqiao"
+msgstr "南谯"
+
+msgid "Anhui|Huaibei"
+msgstr "淮北"
+
+msgid "Anhui|Suixi"
+msgstr "濉溪"
+
+msgid "Anhui|Duji"
+msgstr "杜集"
+
+msgid "Anhui|Xiangshan"
+msgstr "相山"
+
+msgid "Anhui|Lieshan"
+msgstr "烈山"
+
+msgid "Anhui|Tongling"
+msgstr "铜陵"
+
+msgid "Anhui|Tongguan"
+msgstr "铜官"
+
+msgid "Anhui|Yi'an"
+msgstr "义安"
+
+msgid "Anhui|Jiaoqu"
+msgstr "郊区"
+
+msgid "Anhui|Zongyang"
+msgstr "枞阳"
+
+msgid "Anhui|Xuancheng"
+msgstr "宣城"
+
+msgid "Anhui|Jing County"
+msgstr "泾县"
+
+msgid "Anhui|Jingde"
+msgstr "旌德"
+
+msgid "Anhui|Ningguo"
+msgstr "宁国"
+
+msgid "Anhui|Jixi"
+msgstr "绩溪"
+
+msgid "Anhui|Guangde"
+msgstr "广德"
+
+msgid "Anhui|Langxi"
+msgstr "郎溪"
+
+msgid "Anhui|Xuanzhou"
+msgstr "宣州"
+
+msgid "Anhui|Lu'an"
+msgstr "六安"
+
+msgid "Anhui|Huoqiu"
+msgstr "霍邱"
+
+msgid "Anhui|Jin'an"
+msgstr "金安"
+
+msgid "Anhui|Jinzhai"
+msgstr "金寨"
+
+msgid "Anhui|Huoshan"
+msgstr "霍山"
+
+msgid "Anhui|Shucheng"
+msgstr "舒城"
+
+msgid "Anhui|Yu'an"
+msgstr "裕安"
+
+msgid "Anhui|Yeji"
+msgstr "叶集"
+
+msgid "Anhui|Chizhou"
+msgstr "池州"
+
+msgid "Anhui|Dongzhi"
+msgstr "东至"
+
+msgid "Anhui|Qingyang"
+msgstr "青阳"
+
+msgid "Anhui|Shitai"
+msgstr "石台"
+
+msgid "Anhui|Guichi"
+msgstr "贵池"
 
 msgid "Fujian"
 msgstr "福建省"
@@ -199,11 +6430,620 @@ msgstr "福建省"
 msgid "Fujian|Fuzhou"
 msgstr "福州"
 
+msgid "Fujian|Minqing"
+msgstr "闽清"
+
+msgid "Fujian|Minhou"
+msgstr "闽侯"
+
+msgid "Fujian|Luoyuan"
+msgstr "罗源"
+
+msgid "Fujian|Lianjiang"
+msgstr "连江"
+
+msgid "Fujian|Gulou"
+msgstr "鼓楼"
+
+msgid "Fujian|Yongtai"
+msgstr "永泰"
+
+msgid "Fujian|Pingtan"
+msgstr "平潭"
+
+msgid "Fujian|Taijiang"
+msgstr "台江"
+
+msgid "Fujian|Changle"
+msgstr "长乐"
+
+msgid "Fujian|Fuqing"
+msgstr "福清"
+
+msgid "Fujian|Cangshan"
+msgstr "仓山"
+
+msgid "Fujian|Mawei"
+msgstr "马尾"
+
+msgid "Fujian|Jin'an"
+msgstr "晋安"
+
+msgid "Fujian|Xiamen"
+msgstr "厦门"
+
+msgid "Fujian|Tongan"
+msgstr "同安"
+
+msgid "Fujian|Siming"
+msgstr "思明"
+
+msgid "Fujian|Haicang"
+msgstr "海沧"
+
+msgid "Fujian|Huli"
+msgstr "湖里"
+
+msgid "Fujian|Jimei"
+msgstr "集美"
+
+msgid "Fujian|Xiang'an"
+msgstr "翔安"
+
+msgid "Fujian|Ningde"
+msgstr "宁德"
+
+msgid "Fujian|Gutian"
+msgstr "古田"
+
+msgid "Fujian|Xiapu"
+msgstr "霞浦"
+
+msgid "Fujian|Shouning"
+msgstr "寿宁"
+
+msgid "Fujian|Zhouning"
+msgstr "周宁"
+
+msgid "Fujian|Fu'an"
+msgstr "福安"
+
+msgid "Fujian|Zherong"
+msgstr "柘荣"
+
+msgid "Fujian|Fuding"
+msgstr "福鼎"
+
+msgid "Fujian|Pingnan"
+msgstr "屏南"
+
+msgid "Fujian|Jiaocheng"
+msgstr "蕉城"
+
+msgid "Fujian|Putian"
+msgstr "莆田"
+
+msgid "Fujian|Xianyou"
+msgstr "仙游"
+
+msgid "Fujian|Hanjiang"
+msgstr "涵江"
+
+msgid "Fujian|Xiuyu"
+msgstr "秀屿"
+
+msgid "Fujian|Licheng"
+msgstr "荔城"
+
+msgid "Fujian|Chengxiang"
+msgstr "城厢"
+
+msgid "Fujian|Quanzhou"
+msgstr "泉州"
+
+msgid "Fujian|Anxi"
+msgstr "安溪"
+
+msgid "Fujian|Kinmen"
+msgstr "金门"
+
+msgid "Fujian|Yongchun"
+msgstr "永春"
+
+msgid "Fujian|Dehua"
+msgstr "德化"
+
+msgid "Fujian|Nan'an"
+msgstr "南安"
+
+msgid "Fujian|Hui'an"
+msgstr "惠安"
+
+msgid "Fujian|Jinjiang"
+msgstr "晋江"
+
+msgid "Fujian|Shishi"
+msgstr "石狮"
+
+msgid "Fujian|Licheng"
+msgstr "鲤城"
+
+msgid "Fujian|Fengze"
+msgstr "丰泽"
+
+msgid "Fujian|Luojiang"
+msgstr "洛江"
+
+msgid "Fujian|Quangang"
+msgstr "泉港"
+
+msgid "Fujian|Zhangzhou"
+msgstr "漳州"
+
+msgid "Fujian|Changtai"
+msgstr "长泰"
+
+msgid "Fujian|Nanjing"
+msgstr "南靖"
+
+msgid "Fujian|Pinghe"
+msgstr "平和"
+
+msgid "Fujian|Longhai"
+msgstr "龙海"
+
+msgid "Fujian|Zhangpu"
+msgstr "漳浦"
+
+msgid "Fujian|Zhao'an"
+msgstr "诏安"
+
+msgid "Fujian|Dongshan"
+msgstr "东山"
+
+msgid "Fujian|Yunxiao"
+msgstr "云霄"
+
+msgid "Fujian|Hua'an"
+msgstr "华安"
+
+msgid "Fujian|Xiangcheng"
+msgstr "芗城"
+
+msgid "Fujian|Longwen"
+msgstr "龙文"
+
+msgid "Fujian|Longyan"
+msgstr "龙岩"
+
+msgid "Fujian|Changting"
+msgstr "长汀"
+
+msgid "Fujian|Liancheng"
+msgstr "连城"
+
+msgid "Fujian|Wuping"
+msgstr "武平"
+
+msgid "Fujian|Shanghang"
+msgstr "上杭"
+
+msgid "Fujian|Yongding"
+msgstr "永定"
+
+msgid "Fujian|Zhangping"
+msgstr "漳平"
+
+msgid "Fujian|Xinluo"
+msgstr "新罗"
+
+msgid "Fujian|Sanming"
+msgstr "三明"
+
+msgid "Fujian|Ninghua"
+msgstr "宁化"
+
+msgid "Fujian|Qingliu"
+msgstr "清流"
+
+msgid "Fujian|Taining"
+msgstr "泰宁"
+
+msgid "Fujian|Jiangle"
+msgstr "将乐"
+
+msgid "Fujian|Jianning"
+msgstr "建宁"
+
+msgid "Fujian|Mingxi"
+msgstr "明溪"
+
+msgid "Fujian|Shaxia"
+msgstr "沙县"
+
+msgid "Fujian|Youxi"
+msgstr "尤溪"
+
+msgid "Fujian|Yongan"
+msgstr "永安"
+
+msgid "Fujian|Datian"
+msgstr "大田"
+
+msgid "Fujian|Melie district"
+msgstr "梅列"
+
+msgid "Fujian|Sanyuan"
+msgstr "三元"
+
+msgid "Fujian|Nanping"
+msgstr "南平"
+
+msgid "Fujian|Shunchang"
+msgstr "顺昌"
+
+msgid "Fujian|Guangze"
+msgstr "光泽"
+
+msgid "Fujian|Shaowu"
+msgstr "邵武"
+
+msgid "Fujian|Wuyishan"
+msgstr "武夷山"
+
+msgid "Fujian|Pucheng"
+msgstr "浦城"
+
+msgid "Fujian|Jianyang"
+msgstr "建阳"
+
+msgid "Fujian|Songxi"
+msgstr "松溪"
+
+msgid "Fujian|Zhenghe"
+msgstr "政和"
+
+msgid "Fujian|Jian'ou"
+msgstr "建瓯"
+
+msgid "Fujian|Yanping"
+msgstr "延平"
+
 msgid "Jiangxi"
 msgstr "江西省"
 
 msgid "Jiangxi|Nanchang"
 msgstr "南昌"
+
+msgid "Jiangxi|Xinjian"
+msgstr "新建"
+
+msgid "Jiangxi|Nanchang County"
+msgstr "南昌县"
+
+msgid "Jiangxi|Anyi"
+msgstr "安义"
+
+msgid "Jiangxi|Jinxian"
+msgstr "进贤"
+
+msgid "Jiangxi|Donghu"
+msgstr "东湖"
+
+msgid "Jiangxi|Xihu"
+msgstr "西湖"
+
+msgid "Jiangxi|Qingyunpu"
+msgstr "青云谱"
+
+msgid "Jiangxi|Honggutan"
+msgstr "红谷滩"
+
+msgid "Jiangxi|Qingshanhu"
+msgstr "青山湖"
+
+msgid "Jiangxi|Jiujiang"
+msgstr "九江"
+
+msgid "Jiangxi|Ruichang"
+msgstr "瑞昌"
+
+msgid "Jiangxi|Lushan"
+msgstr "庐山"
+
+msgid "Jiangxi|Wuning"
+msgstr "武宁"
+
+msgid "Jiangxi|De'an"
+msgstr "德安"
+
+msgid "Jiangxi|Yongxiu"
+msgstr "永修"
+
+msgid "Jiangxi|Hukou"
+msgstr "湖口"
+
+msgid "Jiangxi|Pengze"
+msgstr "彭泽"
+
+msgid "Jiangxi|Duchang"
+msgstr "都昌"
+
+msgid "Jiangxi|Xunyang"
+msgstr "浔阳"
+
+msgid "Jiangxi|Xiushui"
+msgstr "修水"
+
+msgid "Jiangxi|Gongqing"
+msgstr "共青城"
+
+msgid "Jiangxi|Lianxi"
+msgstr "濂溪"
+
+msgid "Jiangxi|Chaisang"
+msgstr "柴桑"
+
+msgid "Jiangxi|Shangrao"
+msgstr "上饶"
+
+msgid "Jiangxi|Poyang"
+msgstr "鄱阳"
+
+msgid "Jiangxi|Wuyuan"
+msgstr "婺源"
+
+msgid "Jiangxi|Shinshu"
+msgstr "信州"
+
+msgid "Jiangxi|Yugan"
+msgstr "余干"
+
+msgid "Jiangxi|Wannian"
+msgstr "万年"
+
+msgid "Jiangxi|Dexing"
+msgstr "德兴"
+
+msgid "Jiangxi|Guangxin"
+msgstr "广信"
+
+msgid "Jiangxi|Yiyang"
+msgstr "弋阳"
+
+msgid "Jiangxi|Hengfeng"
+msgstr "横峰"
+
+msgid "Jiangxi|Qianshan"
+msgstr "铅山"
+
+msgid "Jiangxi|Yushan"
+msgstr "玉山"
+
+msgid "Jiangxi|Guangfeng"
+msgstr "广丰"
+
+msgid "Jiangxi|Fuzhou"
+msgstr "抚州"
+
+msgid "Jiangxi|Guangchang"
+msgstr "广昌"
+
+msgid "Jiangxi|Le'an"
+msgstr "乐安"
+
+msgid "Jiangxi|Chongren"
+msgstr "崇仁"
+
+msgid "Jiangxi|Jinxi"
+msgstr "金溪"
+
+msgid "Jiangxi|Zixi"
+msgstr "资溪"
+
+msgid "Jiangxi|Yihuang"
+msgstr "宜黄"
+
+msgid "Jiangxi|Nancheng"
+msgstr "南城"
+
+msgid "Jiangxi|Nanfeng"
+msgstr "南丰"
+
+msgid "Jiangxi|Lichuan"
+msgstr "黎川"
+
+msgid "Jiangxi|Dongxiang"
+msgstr "东乡"
+
+msgid "Jiangxi|Linchuan"
+msgstr "临川"
+
+msgid "Jiangxi|Yichun"
+msgstr "宜春"
+
+msgid "Jiangxi|Tonggu"
+msgstr "铜鼓"
+
+msgid "Jiangxi|Yifeng"
+msgstr "宜丰"
+
+msgid "Jiangxi|Wanzai"
+msgstr "万载"
+
+msgid "Jiangxi|Shanggao"
+msgstr "上高"
+
+msgid "Jiangxi|Jing'an"
+msgstr "靖安"
+
+msgid "Jiangxi|Fengxin"
+msgstr "奉新"
+
+msgid "Jiangxi|Gaoan"
+msgstr "高安"
+
+msgid "Jiangxi|Zhangshu"
+msgstr "樟树"
+
+msgid "Jiangxi|Fengcheng"
+msgstr "丰城"
+
+msgid "Jiangxi|Yuanzhou"
+msgstr "袁州"
+
+msgid "Jiangxi|Ji'an"
+msgstr "吉安"
+
+msgid "Jiangxi|Ji'an County"
+msgstr "吉安县"
+
+msgid "Jiangxi|Jishui"
+msgstr "吉水"
+
+msgid "Jiangxi|Xingan"
+msgstr "新干"
+
+msgid "Jiangxi|Xiajiang"
+msgstr "峡江"
+
+msgid "Jiangxi|Yongfeng"
+msgstr "永丰"
+
+msgid "Jiangxi|Yongxin"
+msgstr "永新"
+
+msgid "Jiangxi|Jinggangshan"
+msgstr "井冈山"
+
+msgid "Jiangxi|Wan'an"
+msgstr "万安"
+
+msgid "Jiangxi|Suichuan"
+msgstr "遂川"
+
+msgid "Jiangxi|Taihe"
+msgstr "泰和"
+
+msgid "Jiangxi|Anfu"
+msgstr "安福"
+
+msgid "Jiangxi|Jizhou"
+msgstr "吉州"
+
+msgid "Jiangxi|Qingyuan"
+msgstr "青原"
+
+msgid "Jiangxi|Ganzhou"
+msgstr "赣州"
+
+msgid "Jiangxi|Chongyi"
+msgstr "崇义"
+
+msgid "Jiangxi|Shangyou"
+msgstr "上犹"
+
+msgid "Jiangxi|Nankang"
+msgstr "南康"
+
+msgid "Jiangxi|Dayu"
+msgstr "大余"
+
+msgid "Jiangxi|Xinfeng"
+msgstr "信丰"
+
+msgid "Jiangxi|Ningdu"
+msgstr "宁都"
+
+msgid "Jiangxi|Shicheng"
+msgstr "石城"
+
+msgid "Jiangxi|Ruijin"
+msgstr "瑞金"
+
+msgid "Jiangxi|Yudu"
+msgstr "于都"
+
+msgid "Jiangxi|Huichang"
+msgstr "会昌"
+
+msgid "Jiangxi|Anyuan"
+msgstr "安远"
+
+msgid "Jiangxi|Quannan"
+msgstr "全南"
+
+msgid "Jiangxi|Longnan"
+msgstr "龙南"
+
+msgid "Jiangxi|Dingnan"
+msgstr "定南"
+
+msgid "Jiangxi|Xunwu"
+msgstr "寻乌"
+
+msgid "Jiangxi|Xingguo"
+msgstr "兴国"
+
+msgid "Jiangxi|Ganxian"
+msgstr "赣县"
+
+msgid "Jiangxi|Zhanggong"
+msgstr "章贡"
+
+msgid "Jiangxi|Jingdezhen"
+msgstr "景德镇"
+
+msgid "Jiangxi|Leping"
+msgstr "乐平"
+
+msgid "Jiangxi|Fuliang"
+msgstr "浮梁"
+
+msgid "Jiangxi|Changjiang"
+msgstr "昌江"
+
+msgid "Jiangxi|Zhushan"
+msgstr "珠山"
+
+msgid "Jiangxi|Pingxiang"
+msgstr "萍乡"
+
+msgid "Jiangxi|Lianhua"
+msgstr "莲花"
+
+msgid "Jiangxi|Shangli"
+msgstr "上栗"
+
+msgid "Jiangxi|Anyuan"
+msgstr "安源"
+
+msgid "Jiangxi|Luxi"
+msgstr "芦溪"
+
+msgid "Jiangxi|Xiangdong"
+msgstr "湘东"
+
+msgid "Jiangxi|Xinyu"
+msgstr "新余"
+
+msgid "Jiangxi|Fenyi"
+msgstr "分宜"
+
+msgid "Jiangxi|Yushui"
+msgstr "渝水"
+
+msgid "Jiangxi|Yingtan"
+msgstr "鹰潭"
+
+msgid "Jiangxi|Yujiang"
+msgstr "余江"
+
+msgid "Jiangxi|Guixi"
+msgstr "贵溪"
+
+msgid "Jiangxi|Yuehu"
+msgstr "月湖"
 
 msgid "Hunan"
 msgstr "湖南省"
@@ -211,11 +7051,704 @@ msgstr "湖南省"
 msgid "Hunan|Changsha"
 msgstr "长沙"
 
+msgid "Hunan|Ningxiang"
+msgstr "宁乡"
+
+msgid "Hunan|Liuyang"
+msgstr "浏阳"
+
+msgid "Hunan|Wangcheng"
+msgstr "望城"
+
+msgid "Hunan|Changsha County"
+msgstr "长沙县"
+
+msgid "Hunan|Furong"
+msgstr "芙蓉"
+
+msgid "Hunan|Tianxin"
+msgstr "天心"
+
+msgid "Hunan|Yuelu"
+msgstr "岳麓"
+
+msgid "Hunan|Kaifu"
+msgstr "开福"
+
+msgid "Hunan|Yuhua"
+msgstr "雨花"
+
+msgid "Hunan|Xiangtan"
+msgstr "湘潭"
+
+msgid "Hunan|Shaoshan"
+msgstr "韶山"
+
+msgid "Hunan|Xiangxiang"
+msgstr "湘乡"
+
+msgid "Hunan|Yuhu"
+msgstr "雨湖"
+
+msgid "Hunan|Yuetang"
+msgstr "岳塘"
+
+msgid "Hunan|Xiangtan County"
+msgstr "湘潭县"
+
+msgid "Hunan|Zhuzhou"
+msgstr "株洲"
+
+msgid "Hunan|You County"
+msgstr "攸县"
+
+msgid "Hunan|Liling"
+msgstr "醴陵"
+
+msgid "Hunan|Hetang"
+msgstr "荷塘"
+
+msgid "Hunan|Chaling"
+msgstr "茶陵"
+
+msgid "Hunan|Yanling"
+msgstr "炎陵"
+
+msgid "Hunan|Lusong"
+msgstr "芦淞"
+
+msgid "Hunan|Shifeng"
+msgstr "石峰"
+
+msgid "Hunan|Tianyuan"
+msgstr "天元"
+
+msgid "Hunan|Lukou"
+msgstr "渌口"
+
+msgid "Hunan|Hengyang"
+msgstr "衡阳"
+
+msgid "Hunan|Hengshan"
+msgstr "衡山"
+
+msgid "Hunan|Hengdong"
+msgstr "衡东"
+
+msgid "Hunan|Qidong"
+msgstr "祁东"
+
+msgid "Hunan|Hengyang County"
+msgstr "衡阳县"
+
+msgid "Hunan|Changning"
+msgstr "常宁"
+
+msgid "Hunan|Hengnan"
+msgstr "衡南"
+
+msgid "Hunan|Leiyang"
+msgstr "耒阳"
+
+msgid "Hunan|Nanyue"
+msgstr "南岳"
+
+msgid "Hunan|Zhuhui"
+msgstr "珠晖"
+
+msgid "Hunan|Yanfeng"
+msgstr "雁峰"
+
+msgid "Hunan|Shigu"
+msgstr "石鼓"
+
+msgid "Hunan|Zhengxiang"
+msgstr "蒸湘"
+
+msgid "Hunan|Chenzhou"
+msgstr "郴州"
+
+msgid "Hunan|Guiyang"
+msgstr "桂阳"
+
+msgid "Hunan|Jiahe"
+msgstr "嘉禾"
+
+msgid "Hunan|Yizhang"
+msgstr "宜章"
+
+msgid "Hunan|Linwu"
+msgstr "临武"
+
+msgid "Hunan|Beihu"
+msgstr "北湖"
+
+msgid "Hunan|Zixing"
+msgstr "资兴"
+
+msgid "Hunan|Rucheng"
+msgstr "汝城"
+
+msgid "Hunan|Anren"
+msgstr "安仁"
+
+msgid "Hunan|Yongxing"
+msgstr "永兴"
+
+msgid "Hunan|Guidong"
+msgstr "桂东"
+
+msgid "Hunan|Suxian"
+msgstr "苏仙"
+
+msgid "Hunan|Changde"
+msgstr "常德"
+
+msgid "Hunan|Anxiang"
+msgstr "安乡"
+
+msgid "Hunan|Taoyuan"
+msgstr "桃源"
+
+msgid "Hunan|Hanshou"
+msgstr "汉寿"
+
+msgid "Hunan|Li County"
+msgstr "澧县"
+
+msgid "Hunan|Linli"
+msgstr "临澧"
+
+msgid "Hunan|Shimen"
+msgstr "石门"
+
+msgid "Hunan|Jinshi City"
+msgstr "津市"
+
+msgid "Hunan|Wuling"
+msgstr "武陵"
+
+msgid "Hunan|Dingcheng"
+msgstr "鼎城"
+
+msgid "Hunan|Yiyang"
+msgstr "益阳"
+
+msgid "Hunan|Heshan"
+msgstr "赫山区"
+
+msgid "Hunan|Nan County"
+msgstr "南县"
+
+msgid "Hunan|Taojiang"
+msgstr "桃江"
+
+msgid "Hunan|Anhua"
+msgstr "安化"
+
+msgid "Hunan|Yuanjiang"
+msgstr "沅江"
+
+msgid "Hunan|Ziyang"
+msgstr "资阳"
+
+msgid "Hunan|Loudi"
+msgstr "娄底"
+
+msgid "Hunan|Shuangfeng"
+msgstr "双峰"
+
+msgid "Hunan|Lengshuijiang"
+msgstr "冷水江"
+
+msgid "Hunan|Louxing"
+msgstr "娄星"
+
+msgid "Hunan|Xinhua"
+msgstr "新化"
+
+msgid "Hunan|Lianyuan"
+msgstr "涟源"
+
+msgid "Hunan|Shaoyang"
+msgstr "邵阳"
+
+msgid "Hunan|Longhui"
+msgstr "隆回"
+
+msgid "Hunan|Dongkou"
+msgstr "洞口"
+
+msgid "Hunan|Xinshao"
+msgstr "新邵"
+
+msgid "Hunan|Shaodong"
+msgstr "邵东"
+
+msgid "Hunan|Suining"
+msgstr "绥宁"
+
+msgid "Hunan|Xinning"
+msgstr "新宁"
+
+msgid "Hunan|Wugang"
+msgstr "武冈"
+
+msgid "Hunan|Chengbu"
+msgstr "城步"
+
+msgid "Hunan|Shaoyang County"
+msgstr "邵阳县"
+
+msgid "Hunan|Shuangqing"
+msgstr "双清"
+
+msgid "Hunan|Daxiang"
+msgstr "大祥"
+
+msgid "Hunan|Beita"
+msgstr "北塔"
+
+msgid "Hunan|Yueyang"
+msgstr "岳阳"
+
+msgid "Hunan|Huarong"
+msgstr "华容"
+
+msgid "Hunan|Xiangyin"
+msgstr "湘阴"
+
+msgid "Hunan|Miluo"
+msgstr "汨罗"
+
+msgid "Hunan|Pingjiang"
+msgstr "平江"
+
+msgid "Hunan|Linxiang"
+msgstr "临湘"
+
+msgid "Hunan|Yueyanglou"
+msgstr "岳阳楼区"
+
+msgid "Hunan|Yunxi"
+msgstr "云溪"
+
+msgid "Hunan|Junshan"
+msgstr "君山"
+
+msgid "Hunan|Yueyang County"
+msgstr "岳阳县"
+
+msgid "Hunan|Zhangjiajie"
+msgstr "张家界"
+
+msgid "Hunan|Sangzhi"
+msgstr "桑植"
+
+msgid "Hunan|Cili"
+msgstr "慈利"
+
+msgid "Hunan|Wulingyuan"
+msgstr "武陵源"
+
+msgid "Hunan|Yongding"
+msgstr "永定"
+
+msgid "Hunan|Huaihua"
+msgstr "怀化"
+
+msgid "Hunan|Hecheng"
+msgstr "鹤城"
+
+msgid "Hunan|Yuanling"
+msgstr "沅陵"
+
+msgid "Hunan|Chenxi"
+msgstr "辰溪"
+
+msgid "Hunan|Jingzhou"
+msgstr "靖州"
+
+msgid "Hunan|Huitong"
+msgstr "会同"
+
+msgid "Hunan|Tongdao"
+msgstr "通道"
+
+msgid "Hunan|Mayang"
+msgstr "麻阳"
+
+msgid "Hunan|Xinhuang"
+msgstr "新晃"
+
+msgid "Hunan|Zhijiang"
+msgstr "芷江"
+
+msgid "Hunan|Xupu"
+msgstr "溆浦"
+
+msgid "Hunan|Zhongfang"
+msgstr "中方"
+
+msgid "Hunan|Hongjiang"
+msgstr "洪江"
+
+msgid "Hunan|Yongzhou"
+msgstr "永州"
+
+msgid "Hunan|Qiyang"
+msgstr "祁阳"
+
+msgid "Hunan|Dong'an"
+msgstr "东安"
+
+msgid "Hunan|Shuangpai"
+msgstr "双牌"
+
+msgid "Hunan|Dao County"
+msgstr "道县"
+
+msgid "Hunan|Ningyuan"
+msgstr "宁远"
+
+msgid "Hunan|Jiangyong"
+msgstr "江永"
+
+msgid "Hunan|Lanshan"
+msgstr "蓝山"
+
+msgid "Hunan|Xintian"
+msgstr "新田"
+
+msgid "Hunan|Jianghua"
+msgstr "江华"
+
+msgid "Hunan|Lengshuitan"
+msgstr "冷水滩"
+
+msgid "Hunan|Lingling"
+msgstr "零陵"
+
+msgid "Hunan|Jishou"
+msgstr "吉首"
+
+msgid "Hunan|Baojing"
+msgstr "保靖"
+
+msgid "Hunan|Yongshun"
+msgstr "永顺"
+
+msgid "Hunan|Guzhang"
+msgstr "古丈"
+
+msgid "Hunan|Fenghuang"
+msgstr "凤凰"
+
+msgid "Hunan|Luxi"
+msgstr "泸溪"
+
+msgid "Hunan|Longshan"
+msgstr "龙山"
+
+msgid "Hunan|Huayuan"
+msgstr "花垣"
+
+msgid "Hunan|Xiangxi Prefecture"
+msgstr "湘西"
+
 msgid "Guizhou"
 msgstr "贵州省"
 
 msgid "Guizhou|Guiyang"
 msgstr "贵阳"
+
+msgid "Guizhou|Baiyun"
+msgstr "白云"
+
+msgid "Guizhou|Huaxi"
+msgstr "花溪"
+
+msgid "Guizhou|Wudang"
+msgstr "乌当"
+
+msgid "Guizhou|Xifeng"
+msgstr "息烽"
+
+msgid "Guizhou|Kaiyang"
+msgstr "开阳"
+
+msgid "Guizhou|Xiuwen"
+msgstr "修文"
+
+msgid "Guizhou|Qingzhen"
+msgstr "清镇"
+
+msgid "Guizhou|Yunyan"
+msgstr "云岩"
+
+msgid "Guizhou|Nanming"
+msgstr "南明"
+
+msgid "Guizhou|Guanshan Lake"
+msgstr "观山湖"
+
+msgid "Guizhou|Zunyi"
+msgstr "遵义"
+
+msgid "Guizhou|Renhuai"
+msgstr "仁怀"
+
+msgid "Guizhou|Suiyang"
+msgstr "绥阳"
+
+msgid "Guizhou|Meitan"
+msgstr "湄潭"
+
+msgid "Guizhou|Fenggang"
+msgstr "凤冈"
+
+msgid "Guizhou|Tongzi"
+msgstr "桐梓"
+
+msgid "Guizhou|Chishui"
+msgstr "赤水"
+
+msgid "Guizhou|Xishui"
+msgstr "习水"
+
+msgid "Guizhou|Daozhen"
+msgstr "道真"
+
+msgid "Guizhou|Zheng'an"
+msgstr "正安"
+
+msgid "Guizhou|Wuchuan"
+msgstr "务川"
+
+msgid "Guizhou|Yuqing"
+msgstr "余庆"
+
+msgid "Guizhou|Huichuan"
+msgstr "汇川"
+
+msgid "Guizhou|Honghuagang"
+msgstr "红花岗"
+
+msgid "Guizhou|Banzhou"
+msgstr "播州"
+
+msgid "Guizhou|Anshun"
+msgstr "安顺"
+
+msgid "Guizhou|Puding"
+msgstr "普定"
+
+msgid "Guizhou|Zhenning"
+msgstr "镇宁"
+
+msgid "Guizhou|Pingba"
+msgstr "平坝"
+
+msgid "Guizhou|Ziyun"
+msgstr "紫云"
+
+msgid "Guizhou|Guanling"
+msgstr "关岭"
+
+msgid "Guizhou|Xixiu"
+msgstr "西秀"
+
+msgid "Guizhou|Duyun"
+msgstr "都匀"
+
+msgid "Guizhou|Guiding"
+msgstr "贵定"
+
+msgid "Guizhou|Weng'an"
+msgstr "瓮安"
+
+msgid "Guizhou|Changshun"
+msgstr "长顺"
+
+msgid "Guizhou|Fuquan"
+msgstr "福泉"
+
+msgid "Guizhou|Huishui"
+msgstr "惠水"
+
+msgid "Guizhou|Longli"
+msgstr "龙里"
+
+msgid "Guizhou|Luodian"
+msgstr "罗甸"
+
+msgid "Guizhou|Pingtang"
+msgstr "平塘"
+
+msgid "Guizhou|Dushan"
+msgstr "独山"
+
+msgid "Guizhou|Sandu"
+msgstr "三都"
+
+msgid "Guizhou|Libo"
+msgstr "荔波"
+
+msgid "Guizhou|Qiannan Prefecture"
+msgstr "黔南"
+
+msgid "Guizhou|Kaili"
+msgstr "凯里"
+
+msgid "Guizhou|Cengong"
+msgstr "岑巩"
+
+msgid "Guizhou|Shibing"
+msgstr "施秉"
+
+msgid "Guizhou|Zhenyuan"
+msgstr "镇远"
+
+msgid "Guizhou|Huangping"
+msgstr "黄平"
+
+msgid "Guizhou|Qiandongnan Prefecture"
+msgstr "黔东南"
+
+msgid "Guizhou|Majiang"
+msgstr "麻江"
+
+msgid "Guizhou|Danzhai"
+msgstr "丹寨"
+
+msgid "Guizhou|Sansui"
+msgstr "三穗"
+
+msgid "Guizhou|Taijiang"
+msgstr "台江"
+
+msgid "Guizhou|Jianhe"
+msgstr "剑河"
+
+msgid "Guizhou|Leishan"
+msgstr "雷山"
+
+msgid "Guizhou|Liping"
+msgstr "黎平"
+
+msgid "Guizhou|Tianzhu"
+msgstr "天柱"
+
+msgid "Guizhou|Jinping"
+msgstr "锦屏"
+
+msgid "Guizhou|Rongjiang"
+msgstr "榕江"
+
+msgid "Guizhou|Congjiang"
+msgstr "从江"
+
+msgid "Guizhou|Tongren"
+msgstr "铜仁"
+
+msgid "Guizhou|Jiangkou"
+msgstr "江口"
+
+msgid "Guizhou|Yuping"
+msgstr "玉屏"
+
+msgid "Guizhou|Wanshan"
+msgstr "万山"
+
+msgid "Guizhou|Sinan"
+msgstr "思南"
+
+msgid "Guizhou|Bijiang"
+msgstr "碧江"
+
+msgid "Guizhou|Yinjiang"
+msgstr "印江"
+
+msgid "Guizhou|Shiqian"
+msgstr "石阡"
+
+msgid "Guizhou|Yanhe"
+msgstr "沿河"
+
+msgid "Guizhou|Dejiang"
+msgstr "德江"
+
+msgid "Guizhou|Songtao"
+msgstr "松桃"
+
+msgid "Guizhou|Bijie"
+msgstr "毕节"
+
+msgid "Guizhou|Hezhang"
+msgstr "赫章"
+
+msgid "Guizhou|Jinsha"
+msgstr "金沙"
+
+msgid "Guizhou|Weining"
+msgstr "威宁"
+
+msgid "Guizhou|Dafang"
+msgstr "大方"
+
+msgid "Guizhou|Nayong"
+msgstr "纳雍"
+
+msgid "Guizhou|Zhijin"
+msgstr "织金"
+
+msgid "Guizhou|Qianxi"
+msgstr "黔西"
+
+msgid "Guizhou|Qixingguan"
+msgstr "七星关"
+
+msgid "Guizhou|Shuicheng"
+msgstr "水城"
+
+msgid "Guizhou|Liuzhi"
+msgstr "六枝"
+
+msgid "Guizhou|Liupanshui"
+msgstr "六盘水"
+
+msgid "Guizhou|Panzhou"
+msgstr "盘州"
+
+msgid "Guizhou|Zhongshan"
+msgstr "钟山"
+
+msgid "Guizhou|Xingyi"
+msgstr "兴义"
+
+msgid "Guizhou|Qinglong"
+msgstr "晴隆"
+
+msgid "Guizhou|Xingren"
+msgstr "兴仁"
+
+msgid "Guizhou|Zhenfeng"
+msgstr "贞丰"
+
+msgid "Guizhou|Wangmo"
+msgstr "望谟"
+
+msgid "Guizhou|Qianxinan Prefecture"
+msgstr "黔西南"
+
+msgid "Guizhou|Anlong"
+msgstr "安龙"
+
+msgid "Guizhou|Ceheng"
+msgstr "册亨"
+
+msgid "Guizhou|Pu'an"
+msgstr "普安"
 
 msgid "Sichuan"
 msgstr "四川省"
@@ -223,14 +7756,1046 @@ msgstr "四川省"
 msgid "Sichuan|Chengdu"
 msgstr "成都"
 
+msgid "Sichuan|Longquanyi"
+msgstr "龙泉驿"
+
+msgid "Sichuan|Xindu"
+msgstr "新都"
+
+msgid "Sichuan|Wenjiang"
+msgstr "温江"
+
+msgid "Sichuan|Jintang"
+msgstr "金堂"
+
+msgid "Sichuan|Shuangliu"
+msgstr "双流"
+
+msgid "Sichuan|Pidu"
+msgstr "郫都"
+
+msgid "Sichuan|Dayi"
+msgstr "大邑"
+
+msgid "Sichuan|Pujiang"
+msgstr "蒲江"
+
+msgid "Sichuan|Xinjin"
+msgstr "新津"
+
+msgid "Sichuan|Dujiangyan"
+msgstr "都江堰"
+
+msgid "Sichuan|Pengzhou"
+msgstr "彭州"
+
+msgid "Sichuan|Qionglai"
+msgstr "邛崃"
+
+msgid "Sichuan|Chongzhou"
+msgstr "崇州"
+
+msgid "Sichuan|Qingbaijiang"
+msgstr "青白江"
+
+msgid "Sichuan|Jinjiang"
+msgstr "锦江"
+
+msgid "Sichuan|Qingyang"
+msgstr "青羊"
+
+msgid "Sichuan|Jinniu"
+msgstr "金牛"
+
+msgid "Sichuan|Wuhou"
+msgstr "武侯"
+
+msgid "Sichuan|Chenghua"
+msgstr "成华"
+
+msgid "Sichuan|Jianyang"
+msgstr "简阳"
+
+msgid "Sichuan|Panzhihua"
+msgstr "攀枝花"
+
+msgid "Sichuan|Renhe"
+msgstr "仁和"
+
+msgid "Sichuan|Miyi"
+msgstr "米易"
+
+msgid "Sichuan|Yanbian Prefecture"
+msgstr "盐边"
+
+msgid "Sichuan|Dongqu"
+msgstr "东区"
+
+msgid "Sichuan|Xiqu"
+msgstr "西区"
+
+msgid "Sichuan|Zigong"
+msgstr "自贡"
+
+msgid "Sichuan|Fushun"
+msgstr "富顺"
+
+msgid "Sichuan|Rong County"
+msgstr "荣县"
+
+msgid "Sichuan|Ziliujing"
+msgstr "自流井"
+
+msgid "Sichuan|Gongjing"
+msgstr "贡井"
+
+msgid "Sichuan|Daan"
+msgstr "大安"
+
+msgid "Sichuan|Yantan"
+msgstr "沿滩"
+
+msgid "Sichuan|Mianyang"
+msgstr "绵阳"
+
+msgid "Sichuan|Santai"
+msgstr "三台"
+
+msgid "Sichuan|Yanting"
+msgstr "盐亭"
+
+msgid "Sichuan|Zitong"
+msgstr "梓潼"
+
+msgid "Sichuan|Beichuan"
+msgstr "北川"
+
+msgid "Sichuan|Pingwu"
+msgstr "平武"
+
+msgid "Sichuan|Jiangyou"
+msgstr "江油"
+
+msgid "Sichuan|Fucheng"
+msgstr "涪城"
+
+msgid "Sichuan|Youxian"
+msgstr "游仙"
+
+msgid "Sichuan|Anzhou"
+msgstr "安州"
+
+msgid "Sichuan|Nanchong"
+msgstr "南充"
+
+msgid "Sichuan|Nanbu"
+msgstr "南部"
+
+msgid "Sichuan|Yingshan"
+msgstr "营山"
+
+msgid "Sichuan|Peng'an"
+msgstr "蓬安"
+
+msgid "Sichuan|Yilong"
+msgstr "仪陇"
+
+msgid "Sichuan|Xichong"
+msgstr "西充"
+
+msgid "Sichuan|Langzhong"
+msgstr "阆中"
+
+msgid "Sichuan|Shunqing"
+msgstr "顺庆"
+
+msgid "Sichuan|Gaoping"
+msgstr "高坪"
+
+msgid "Sichuan|Jialing"
+msgstr "嘉陵"
+
+msgid "Sichuan|Dazhou"
+msgstr "达州"
+
+msgid "Sichuan|Xuanhan"
+msgstr "宣汉"
+
+msgid "Sichuan|Kaijiang"
+msgstr "开江"
+
+msgid "Sichuan|Dazhu"
+msgstr "大竹"
+
+msgid "Sichuan|Qu County"
+msgstr "渠县"
+
+msgid "Sichuan|Wanyuan"
+msgstr "万源"
+
+msgid "Sichuan|Tongchuan"
+msgstr "通川"
+
+msgid "Sichuan|Dachuan"
+msgstr "达川"
+
+msgid "Sichuan|Suining"
+msgstr "遂宁"
+
+msgid "Sichuan|Pengxi"
+msgstr "蓬溪"
+
+msgid "Sichuan|Shehong"
+msgstr "射洪"
+
+msgid "Sichuan|Chuanshan"
+msgstr "船山"
+
+msgid "Sichuan|Anju"
+msgstr "安居"
+
+msgid "Sichuan|Daying"
+msgstr "大英"
+
+msgid "Sichuan|Guang'an"
+msgstr "广安"
+
+msgid "Sichuan|Yuechi"
+msgstr "岳池"
+
+msgid "Sichuan|Wusheng"
+msgstr "武胜"
+
+msgid "Sichuan|Linshui"
+msgstr "邻水"
+
+msgid "Sichuan|Huaying"
+msgstr "华蓥"
+
+msgid "Sichuan|Qianfeng"
+msgstr "前锋"
+
+msgid "Sichuan|Guang'an County"
+msgstr "广安区"
+
+msgid "Sichuan|Bazhong"
+msgstr "巴中"
+
+msgid "Sichuan|Tongjiang"
+msgstr "通江"
+
+msgid "Sichuan|Nanjiang"
+msgstr "南江"
+
+msgid "Sichuan|Pingchang"
+msgstr "平昌"
+
+msgid "Sichuan|Bazhou"
+msgstr "巴州"
+
+msgid "Sichuan|Enyang"
+msgstr "恩阳"
+
+msgid "Sichuan|Luzhou"
+msgstr "泸州"
+
+msgid "Sichuan|Jiangyang"
+msgstr "江阳"
+
+msgid "Sichuan|Lu County"
+msgstr "泸县"
+
+msgid "Sichuan|Hejiang"
+msgstr "合江"
+
+msgid "Sichuan|Xuyong"
+msgstr "叙永"
+
+msgid "Sichuan|Gulin"
+msgstr "古蔺"
+
+msgid "Sichuan|Naxi"
+msgstr "纳溪"
+
+msgid "Sichuan|Longmatan"
+msgstr "龙马潭"
+
+msgid "Sichuan|Yibin"
+msgstr "宜宾"
+
+msgid "Sichuan|Cuiping"
+msgstr "翠屏"
+
+msgid "Sichuan|Xuzhou"
+msgstr "叙州区"
+
+msgid "Sichuan|Nanxi"
+msgstr "南溪"
+
+msgid "Sichuan|Jiang'an"
+msgstr "江安"
+
+msgid "Sichuan|Changning"
+msgstr "长宁"
+
+msgid "Sichuan|Gao County"
+msgstr "高县"
+
+msgid "Sichuan|Gong County"
+msgstr "珙县"
+
+msgid "Sichuan|Junlian"
+msgstr "筠连"
+
+msgid "Sichuan|Xingwen"
+msgstr "兴文"
+
+msgid "Sichuan|Pingshan"
+msgstr "屏山"
+
+msgid "Sichuan|Neijiang"
+msgstr "内江"
+
+msgid "Sichuan|Dongxing"
+msgstr "东兴"
+
+msgid "Sichuan|Weiyuan"
+msgstr "威远"
+
+msgid "Sichuan|Zizhong"
+msgstr "资中"
+
+msgid "Sichuan|Longchang"
+msgstr "隆昌"
+
+msgid "Sichuan|Shizhong"
+msgstr "市中"
+
+msgid "Sichuan|Ziyang"
+msgstr "资阳"
+
+msgid "Sichuan|Anyue"
+msgstr "安岳"
+
+msgid "Sichuan|Lezhi"
+msgstr "乐至"
+
+msgid "Sichuan|Yanjiang"
+msgstr "雁江"
+
+msgid "Sichuan|Leshan"
+msgstr "乐山"
+
+msgid "Sichuan|Qianwei"
+msgstr "犍为"
+
+msgid "Sichuan|Jingyan"
+msgstr "井研"
+
+msgid "Sichuan|Jiajiang"
+msgstr "夹江"
+
+msgid "Sichuan|Muchuan"
+msgstr "沐川"
+
+msgid "Sichuan|Ebian"
+msgstr "峨边"
+
+msgid "Sichuan|Mabian"
+msgstr "马边"
+
+msgid "Sichuan|Shizhong"
+msgstr "市中"
+
+msgid "Sichuan|Shawan"
+msgstr "沙湾"
+
+msgid "Sichuan|Wutongqiao"
+msgstr "五通桥"
+
+msgid "Sichuan|Jinkouhe"
+msgstr "金口河"
+
+msgid "Sichuan|Emeishan City"
+msgstr "峨眉山市"
+
+msgid "Sichuan|Meishan"
+msgstr "眉山"
+
+msgid "Sichuan|Renshou"
+msgstr "仁寿"
+
+msgid "Sichuan|Pengshan"
+msgstr "彭山"
+
+msgid "Sichuan|Hongya"
+msgstr "洪雅"
+
+msgid "Sichuan|Danling"
+msgstr "丹棱"
+
+msgid "Sichuan|Qingshen"
+msgstr "青神"
+
+msgid "Sichuan|Dongpo"
+msgstr "东坡"
+
+msgid "Sichuan|Liangshan Prefecture"
+msgstr "凉山"
+
+msgid "Sichuan|Muli"
+msgstr "木里"
+
+msgid "Sichuan|Yanyuan"
+msgstr "盐源"
+
+msgid "Sichuan|Dechang"
+msgstr "德昌"
+
+msgid "Sichuan|Huili"
+msgstr "会理"
+
+msgid "Sichuan|Huidong"
+msgstr "会东"
+
+msgid "Sichuan|Ningnan"
+msgstr "宁南"
+
+msgid "Sichuan|Puge"
+msgstr "普格"
+
+msgid "Sichuan|Xichang"
+msgstr "西昌"
+
+msgid "Sichuan|Jinyang"
+msgstr "金阳"
+
+msgid "Sichuan|Zhaojue"
+msgstr "昭觉"
+
+msgid "Sichuan|Xide"
+msgstr "喜德"
+
+msgid "Sichuan|Mianning"
+msgstr "冕宁"
+
+msgid "Sichuan|Yuexi"
+msgstr "越西"
+
+msgid "Sichuan|Ganluo"
+msgstr "甘洛"
+
+msgid "Sichuan|Leibo"
+msgstr "雷波"
+
+msgid "Sichuan|Meigu"
+msgstr "美姑"
+
+msgid "Sichuan|Butuo"
+msgstr "布拖"
+
+msgid "Sichuan|Ya'an"
+msgstr "雅安"
+
+msgid "Sichuan|Mingshan"
+msgstr "名山"
+
+msgid "Sichuan|Yingjing"
+msgstr "荥经"
+
+msgid "Sichuan|Hanyuan"
+msgstr "汉源"
+
+msgid "Sichuan|Shimian"
+msgstr "石棉"
+
+msgid "Sichuan|Tianquan"
+msgstr "天全"
+
+msgid "Sichuan|Lushan"
+msgstr "芦山"
+
+msgid "Sichuan|Baoxing"
+msgstr "宝兴"
+
+msgid "Sichuan|Yucheng"
+msgstr "雨城"
+
+msgid "Sichuan|Garze Prefecture"
+msgstr "甘孜"
+
+msgid "Sichuan|Kangding"
+msgstr "康定"
+
+msgid "Sichuan|Luding"
+msgstr "泸定"
+
+msgid "Sichuan|Danba"
+msgstr "丹巴"
+
+msgid "Sichuan|Jiulong"
+msgstr "九龙"
+
+msgid "Sichuan|Yajiang"
+msgstr "雅江"
+
+msgid "Sichuan|Daofu"
+msgstr "道孚"
+
+msgid "Sichuan|Luhuo"
+msgstr "炉霍"
+
+msgid "Sichuan|Xinlong"
+msgstr "新龙"
+
+msgid "Sichuan|Dege"
+msgstr "德格"
+
+msgid "Sichuan|Baiyu"
+msgstr "白玉"
+
+msgid "Sichuan|Shiqu"
+msgstr "石渠"
+
+msgid "Sichuan|Seda"
+msgstr "色达"
+
+msgid "Sichuan|Litang"
+msgstr "理塘"
+
+msgid "Sichuan|Batang"
+msgstr "巴塘"
+
+msgid "Sichuan|Xiangcheng"
+msgstr "乡城"
+
+msgid "Sichuan|Daocheng"
+msgstr "稻城"
+
+msgid "Sichuan|Derong"
+msgstr "得荣"
+
+msgid "Sichuan|Ganze County"
+msgstr "甘孜县"
+
+msgid "Sichuan|Aba Prefecture"
+msgstr "阿坝"
+
+msgid "Sichuan|Wenchuan"
+msgstr "汶川"
+
+msgid "Sichuan|Li County"
+msgstr "理县"
+
+msgid "Sichuan|Mao County"
+msgstr "茂县"
+
+msgid "Sichuan|Songpan"
+msgstr "松潘"
+
+msgid "Sichuan|Jiuzhaigou"
+msgstr "九寨沟"
+
+msgid "Sichuan|Jinchuan"
+msgstr "金川"
+
+msgid "Sichuan|Xiaojin"
+msgstr "小金"
+
+msgid "Sichuan|Heishui"
+msgstr "黑水"
+
+msgid "Sichuan|Barkam"
+msgstr "马尔康"
+
+msgid "Sichuan|Zamtang"
+msgstr "壤塘"
+
+msgid "Sichuan|Zoige"
+msgstr "若尔盖"
+
+msgid "Sichuan|Hongyuan"
+msgstr "红原"
+
+msgid "Sichuan|Aba County"
+msgstr "阿坝县"
+
+msgid "Sichuan|Deyang"
+msgstr "德阳"
+
+msgid "Sichuan|Zhongjiang"
+msgstr "中江"
+
+msgid "Sichuan|Guanghan"
+msgstr "广汉"
+
+msgid "Sichuan|Shifang"
+msgstr "什邡"
+
+msgid "Sichuan|Mianzhu"
+msgstr "绵竹"
+
+msgid "Sichuan|Luojiang"
+msgstr "罗江"
+
+msgid "Sichuan|Jingyang"
+msgstr "旌阳"
+
+msgid "Sichuan|Guangyuan"
+msgstr "广元"
+
+msgid "Sichuan|Wangcang"
+msgstr "旺苍"
+
+msgid "Sichuan|Qingchuan"
+msgstr "青川"
+
+msgid "Sichuan|Jiange"
+msgstr "剑阁"
+
+msgid "Sichuan|Cangxi"
+msgstr "苍溪"
+
+msgid "Sichuan|Lizhou"
+msgstr "利州"
+
+msgid "Sichuan|Zhaohua"
+msgstr "昭化"
+
+msgid "Sichuan|Chaotian"
+msgstr "朝天"
+
 msgid "Guangdong"
 msgstr "广东省"
 
 msgid "Guangdong|Guangzhou"
 msgstr "广州"
 
+msgid "Guangdong|Panyu"
+msgstr "番禺"
+
+msgid "Guangdong|Conghua"
+msgstr "从化"
+
+msgid "Guangdong|Zengcheng"
+msgstr "增城"
+
+msgid "Guangdong|Huadu"
+msgstr "花都"
+
+msgid "Guangdong|Liwan"
+msgstr "荔湾"
+
+msgid "Guangdong|Yuexiu"
+msgstr "越秀"
+
+msgid "Guangdong|Haizhu"
+msgstr "海珠"
+
+msgid "Guangdong|Tianhe"
+msgstr "天河"
+
+msgid "Guangdong|Baiyun"
+msgstr "白云"
+
+msgid "Guangdong|Huangpu"
+msgstr "黄埔"
+
+msgid "Guangdong|Nansha"
+msgstr "南沙"
+
+msgid "Guangdong|Shaoguan"
+msgstr "韶关"
+
+msgid "Guangdong|Ruyuan"
+msgstr "乳源"
+
+msgid "Guangdong|Shixing"
+msgstr "始兴"
+
+msgid "Guangdong|Wengyuan"
+msgstr "翁源"
+
+msgid "Guangdong|Lechang"
+msgstr "乐昌"
+
+msgid "Guangdong|Renhua"
+msgstr "仁化"
+
+msgid "Guangdong|Nanxiong"
+msgstr "南雄"
+
+msgid "Guangdong|Xinfeng"
+msgstr "新丰"
+
+msgid "Guangdong|Qujiang"
+msgstr "曲江"
+
+msgid "Guangdong|Zhenjiang"
+msgstr "浈江"
+
+msgid "Guangdong|Wujiang"
+msgstr "武江"
+
+msgid "Guangdong|Huizhou"
+msgstr "惠州"
+
+msgid "Guangdong|Boluo"
+msgstr "博罗"
+
+msgid "Guangdong|Huiyang"
+msgstr "惠阳"
+
+msgid "Guangdong|Huidong"
+msgstr "惠东"
+
+msgid "Guangdong|Longmen"
+msgstr "龙门"
+
+msgid "Guangdong|Huicheng"
+msgstr "惠城"
+
+msgid "Guangdong|Meizhou"
+msgstr "梅州"
+
+msgid "Guangdong|Xingning"
+msgstr "兴宁"
+
+msgid "Guangdong|Jiaoling"
+msgstr "蕉岭"
+
+msgid "Guangdong|Dapu"
+msgstr "大埔"
+
+msgid "Guangdong|Meijiang"
+msgstr "梅江"
+
+msgid "Guangdong|Fengshun"
+msgstr "丰顺"
+
+msgid "Guangdong|Pingyuan"
+msgstr "平远"
+
+msgid "Guangdong|Wuhua"
+msgstr "五华"
+
+msgid "Guangdong|Meixian"
+msgstr "梅县"
+
+msgid "Guangdong|Shantou"
+msgstr "汕头"
+
+msgid "Guangdong|Chaoyang"
+msgstr "潮阳"
+
+msgid "Guangdong|Chenghai"
+msgstr "澄海"
+
+msgid "Guangdong|Nan'ao"
+msgstr "南澳"
+
+msgid "Guangdong|Longhu"
+msgstr "龙湖"
+
+msgid "Guangdong|Jinping"
+msgstr "金平"
+
+msgid "Guangdong|Haojiang"
+msgstr "濠江"
+
+msgid "Guangdong|Chaonan"
+msgstr "潮南"
+
 msgid "Guangdong|Shenzhen"
 msgstr "深圳"
+
+msgid "Guangdong|Luohu"
+msgstr "罗湖"
+
+msgid "Guangdong|Futian"
+msgstr "福田"
+
+msgid "Guangdong|Nanshan"
+msgstr "南山"
+
+msgid "Guangdong|Bao'an"
+msgstr "宝安"
+
+msgid "Guangdong|Longgang"
+msgstr "龙岗"
+
+msgid "Guangdong|Yantian"
+msgstr "盐田"
+
+msgid "Guangdong|Longhua"
+msgstr "龙华"
+
+msgid "Guangdong|Pingshan"
+msgstr "坪山"
+
+msgid "Guangdong|Guangming"
+msgstr "光明"
+
+msgid "Guangdong|Zhuhai"
+msgstr "珠海"
+
+msgid "Guangdong|Doumen"
+msgstr "斗门"
+
+msgid "Guangdong|Jinwan"
+msgstr "金湾"
+
+msgid "Guangdong|Xiangzhou"
+msgstr "香洲"
+
+msgid "Guangdong|Foshan"
+msgstr "佛山"
+
+msgid "Guangdong|Shunde"
+msgstr "顺德"
+
+msgid "Guangdong|Sanshui"
+msgstr "三水"
+
+msgid "Guangdong|Nanhai"
+msgstr "南海"
+
+msgid "Guangdong|Gaoming"
+msgstr "高明"
+
+msgid "Guangdong|Chancheng"
+msgstr "禅城"
+
+msgid "Guangdong|Zhaoqing"
+msgstr "肇庆"
+
+msgid "Guangdong|Guangning"
+msgstr "广宁"
+
+msgid "Guangdong|Sihui"
+msgstr "四会"
+
+msgid "Guangdong|Duanzhou"
+msgstr "端州"
+
+msgid "Guangdong|Deqing"
+msgstr "德庆"
+
+msgid "Guangdong|Huaiji"
+msgstr "怀集"
+
+msgid "Guangdong|Fengkai"
+msgstr "封开"
+
+msgid "Guangdong|Gaoyao"
+msgstr "高要"
+
+msgid "Guangdong|Dinghu"
+msgstr "鼎湖"
+
+msgid "Guangdong|Zhanjiang"
+msgstr "湛江"
+
+msgid "Guangdong|Wuchuan"
+msgstr "吴川"
+
+msgid "Guangdong|Leizhou"
+msgstr "雷州"
+
+msgid "Guangdong|Xuwen"
+msgstr "徐闻"
+
+msgid "Guangdong|Lianjiang"
+msgstr "廉江"
+
+msgid "Guangdong|Chikan"
+msgstr "赤坎"
+
+msgid "Guangdong|Suixi"
+msgstr "遂溪"
+
+msgid "Guangdong|Potou"
+msgstr "坡头"
+
+msgid "Guangdong|Xiashan"
+msgstr "霞山"
+
+msgid "Guangdong|Mazhang"
+msgstr "麻章"
+
+msgid "Guangdong|Jiangmen"
+msgstr "江门"
+
+msgid "Guangdong|Kaiping"
+msgstr "开平"
+
+msgid "Guangdong|Xinhui"
+msgstr "新会"
+
+msgid "Guangdong|Enping"
+msgstr "恩平"
+
+msgid "Guangdong|Taishan"
+msgstr "台山"
+
+msgid "Guangdong|Pengjiang"
+msgstr "蓬江"
+
+msgid "Guangdong|Heshan"
+msgstr "鹤山"
+
+msgid "Guangdong|Jianghai"
+msgstr "江海"
+
+msgid "Guangdong|Heyuan"
+msgstr "河源"
+
+msgid "Guangdong|Zijin"
+msgstr "紫金"
+
+msgid "Guangdong|Lianping"
+msgstr "连平"
+
+msgid "Guangdong|Heping"
+msgstr "和平"
+
+msgid "Guangdong|Longchuan"
+msgstr "龙川"
+
+msgid "Guangdong|Dongyuan"
+msgstr "东源"
+
+msgid "Guangdong|Yuancheng"
+msgstr "源城"
+
+msgid "Guangdong|Qingyuan"
+msgstr "清远"
+
+msgid "Guangdong|Liannan"
+msgstr "连南"
+
+msgid "Guangdong|Lianzhou"
+msgstr "连州"
+
+msgid "Guangdong|Lianshan"
+msgstr "连山"
+
+msgid "Guangdong|Yangshan"
+msgstr "阳山"
+
+msgid "Guangdong|Fogang"
+msgstr "佛冈"
+
+msgid "Guangdong|Yingde"
+msgstr "英德"
+
+msgid "Guangdong|Qingxin"
+msgstr "清新"
+
+msgid "Guangdong|Qingcheng"
+msgstr "清城"
+
+msgid "Guangdong|Yunfu"
+msgstr "云浮"
+
+msgid "Guangdong|Luoding"
+msgstr "罗定"
+
+msgid "Guangdong|Xinxing"
+msgstr "新兴"
+
+msgid "Guangdong|Yunan"
+msgstr "郁南"
+
+msgid "Guangdong|Yuncheng"
+msgstr "云城"
+
+msgid "Guangdong|Yun'an"
+msgstr "云安"
+
+msgid "Guangdong|Chaozhou"
+msgstr "潮州"
+
+msgid "Guangdong|Raoping"
+msgstr "饶平"
+
+msgid "Guangdong|Chao'an"
+msgstr "潮安"
+
+msgid "Guangdong|Xiangqiao"
+msgstr "湘桥"
+
+msgid "Guangdong|Dongguan"
+msgstr "东莞"
+
+msgid "Guangdong|Zhongshan"
+msgstr "中山"
+
+msgid "Guangdong|Yangjiang"
+msgstr "阳江"
+
+msgid "Guangdong|Yangchun"
+msgstr "阳春"
+
+msgid "Guangdong|Yangdong"
+msgstr "阳东"
+
+msgid "Guangdong|Yangxi"
+msgstr "阳西"
+
+msgid "Guangdong|Jiangcheng"
+msgstr "江城"
+
+msgid "Guangdong|Jieyang"
+msgstr "揭阳"
+
+msgid "Guangdong|Jiexi"
+msgstr "揭西"
+
+msgid "Guangdong|Puning"
+msgstr "普宁"
+
+msgid "Guangdong|Huilai"
+msgstr "惠来"
+
+msgid "Guangdong|Jiedong"
+msgstr "揭东"
+
+msgid "Guangdong|Rongcheng"
+msgstr "榕城"
+
+msgid "Guangdong|Maoming"
+msgstr "茂名"
+
+msgid "Guangdong|Gaozhou"
+msgstr "高州"
+
+msgid "Guangdong|Huazhou"
+msgstr "化州"
+
+msgid "Guangdong|Dianbai"
+msgstr "电白"
+
+msgid "Guangdong|Xinyi"
+msgstr "信宜"
+
+msgid "Guangdong|Maonan"
+msgstr "茂南"
+
+msgid "Guangdong|Shanwei"
+msgstr "汕尾"
+
+msgid "Guangdong|Haifeng"
+msgstr "海丰"
+
+msgid "Guangdong|Lufeng"
+msgstr "陆丰"
+
+msgid "Guangdong|Luhe"
+msgstr "陆河"
+
+msgid "Guangdong|Chengqu"
+msgstr "城区"
 
 msgid "Yunnan"
 msgstr "云南省"
@@ -238,17 +8803,815 @@ msgstr "云南省"
 msgid "Yunnan|Kunming"
 msgstr "昆明"
 
+msgid "Yunnan|Wuhua"
+msgstr "五华"
+
+msgid "Yunnan|Dongchuan"
+msgstr "东川"
+
+msgid "Yunnan|Xundian"
+msgstr "寻甸"
+
+msgid "Yunnan|Jinning"
+msgstr "晋宁"
+
+msgid "Yunnan|Yiliang"
+msgstr "宜良"
+
+msgid "Yunnan|Shilin"
+msgstr "石林"
+
+msgid "Yunnan|Chenggong"
+msgstr "呈贡"
+
+msgid "Yunnan|Fumin"
+msgstr "富民"
+
+msgid "Yunnan|Songming"
+msgstr "嵩明"
+
+msgid "Yunnan|Luquan"
+msgstr "禄劝"
+
+msgid "Yunnan|Anning"
+msgstr "安宁"
+
+msgid "Yunnan|Panlong"
+msgstr "盘龙"
+
+msgid "Yunnan|Guandu"
+msgstr "官渡"
+
+msgid "Yunnan|Xishan"
+msgstr "西山"
+
+msgid "Yunnan|Dali Prefecture"
+msgstr "大理州"
+
+msgid "Yunnan|Yunlong"
+msgstr "云龙"
+
+msgid "Yunnan|Yangbi"
+msgstr "漾濞"
+
+msgid "Yunnan|Yongping"
+msgstr "永平"
+
+msgid "Yunnan|Binchuan"
+msgstr "宾川"
+
+msgid "Yunnan|Midu"
+msgstr "弥渡"
+
+msgid "Yunnan|Xiangyun"
+msgstr "祥云"
+
+msgid "Yunnan|Weishan"
+msgstr "巍山"
+
+msgid "Yunnan|Jianchuan"
+msgstr "剑川"
+
+msgid "Yunnan|Eryuan"
+msgstr "洱源"
+
+msgid "Yunnan|Heqing"
+msgstr "鹤庆"
+
+msgid "Yunnan|Nanjian"
+msgstr "南涧"
+
+msgid "Yunnan|Dali City"
+msgstr "大理市"
+
+msgid "Yunnan|Honghe Prefecture"
+msgstr "红河"
+
+msgid "Yunnan|Shiping"
+msgstr "石屏"
+
+msgid "Yunnan|Jianshui"
+msgstr "建水"
+
+msgid "Yunnan|Mile"
+msgstr "弥勒"
+
+msgid "Yunnan|Yuanyang"
+msgstr "元阳"
+
+msgid "Yunnan|Luchun"
+msgstr "绿春"
+
+msgid "Yunnan|Kaiyuan"
+msgstr "开远"
+
+msgid "Yunnan|Gejiu"
+msgstr "个旧"
+
+msgid "Yunnan|Mengzi"
+msgstr "蒙自"
+
+msgid "Yunnan|Pingbian"
+msgstr "屏边"
+
+msgid "Yunnan|Luxi"
+msgstr "泸西"
+
+msgid "Yunnan|Jinping"
+msgstr "金平"
+
+msgid "Yunnan|Hekou"
+msgstr "河口"
+
+msgid "Yunnan|Honghe County"
+msgstr "红河县"
+
+msgid "Yunnan|Qujing"
+msgstr "曲靖"
+
+msgid "Yunnan|Zhanyi"
+msgstr "沾益"
+
+msgid "Yunnan|Luliang"
+msgstr "陆良"
+
+msgid "Yunnan|Fuyuan"
+msgstr "富源"
+
+msgid "Yunnan|Malong"
+msgstr "马龙"
+
+msgid "Yunnan|Shizong"
+msgstr "师宗"
+
+msgid "Yunnan|Luoping"
+msgstr "罗平"
+
+msgid "Yunnan|Huize"
+msgstr "会泽"
+
+msgid "Yunnan|Xuanwei"
+msgstr "宣威"
+
+msgid "Yunnan|Kylin"
+msgstr "麒麟"
+
+msgid "Yunnan|Baoshan"
+msgstr "保山"
+
+msgid "Yunnan|Longyang"
+msgstr "隆阳"
+
+msgid "Yunnan|Longling"
+msgstr "龙陵"
+
+msgid "Yunnan|Shidian"
+msgstr "施甸"
+
+msgid "Yunnan|Changning"
+msgstr "昌宁"
+
+msgid "Yunnan|Tengchong"
+msgstr "腾冲"
+
+msgid "Yunnan|Wenshan Prefecture"
+msgstr "文山州"
+
+msgid "Yunnan|Xichou"
+msgstr "西畴"
+
+msgid "Yunnan|Maguan"
+msgstr "马关"
+
+msgid "Yunnan|Malipo"
+msgstr "麻栗坡"
+
+msgid "Yunnan|Yanshan"
+msgstr "砚山"
+
+msgid "Yunnan|Qiubei"
+msgstr "丘北"
+
+msgid "Yunnan|Guangnan"
+msgstr "广南"
+
+msgid "Yunnan|Funing"
+msgstr "富宁"
+
+msgid "Yunnan|Wenshan City"
+msgstr "文山市"
+
+msgid "Yunnan|Yuxi"
+msgstr "玉溪"
+
+msgid "Yunnan|Chengjiang"
+msgstr "澄江"
+
+msgid "Yunnan|Jiangchuan"
+msgstr "江川"
+
+msgid "Yunnan|Tonghai"
+msgstr "通海"
+
+msgid "Yunnan|Huaning"
+msgstr "华宁"
+
+msgid "Yunnan|Xinping"
+msgstr "新平"
+
+msgid "Yunnan|Yimen"
+msgstr "易门"
+
+msgid "Yunnan|Eshan"
+msgstr "峨山"
+
+msgid "Yunnan|Yuanjiang"
+msgstr "元江"
+
+msgid "Yunnan|Hongta"
+msgstr "红塔"
+
+msgid "Yunnan|Chuxiong Prefecture"
+msgstr "楚雄州"
+
+msgid "Yunnan|Dayao"
+msgstr "大姚"
+
+msgid "Yunnan|Yuanmou"
+msgstr "元谋"
+
+msgid "Yunnan|Yao'an"
+msgstr "姚安"
+
+msgid "Yunnan|Mouding"
+msgstr "牟定"
+
+msgid "Yunnan|Nanhua"
+msgstr "南华"
+
+msgid "Yunnan|Wuding"
+msgstr "武定"
+
+msgid "Yunnan|Lufeng"
+msgstr "禄丰"
+
+msgid "Yunnan|Shuangbai"
+msgstr "双柏"
+
+msgid "Yunnan|Yongren"
+msgstr "永仁"
+
+msgid "Yunnan|Chuxiong City"
+msgstr "楚雄市"
+
+msgid "Yunnan|Pu'er City"
+msgstr "普洱"
+
+msgid "Yunnan|Jinggu"
+msgstr "景谷"
+
+msgid "Yunnan|Jingdong"
+msgstr "景东"
+
+msgid "Yunnan|Lancang"
+msgstr "澜沧"
+
+msgid "Yunnan|Simao"
+msgstr "思茅"
+
+msgid "Yunnan|Mojiang"
+msgstr "墨江"
+
+msgid "Yunnan|Jiangcheng"
+msgstr "江城"
+
+msgid "Yunnan|Menglian"
+msgstr "孟连"
+
+msgid "Yunnan|Ximeng"
+msgstr "西盟"
+
+msgid "Yunnan|Zhenyuan"
+msgstr "镇沅"
+
+msgid "Yunnan|Ning'er"
+msgstr "宁洱"
+
+msgid "Yunnan|Zhaotong"
+msgstr "昭通"
+
+msgid "Yunnan|Ludian"
+msgstr "鲁甸"
+
+msgid "Yunnan|Yiliang"
+msgstr "彝良"
+
+msgid "Yunnan|Zhenxiong"
+msgstr "镇雄"
+
+msgid "Yunnan|Weixin"
+msgstr "威信"
+
+msgid "Yunnan|Qiaojia"
+msgstr "巧家"
+
+msgid "Yunnan|Suijiang"
+msgstr "绥江"
+
+msgid "Yunnan|Yongshan"
+msgstr "永善"
+
+msgid "Yunnan|Yanjin"
+msgstr "盐津"
+
+msgid "Yunnan|Daguan"
+msgstr "大关"
+
+msgid "Yunnan|Shuifu"
+msgstr "水富"
+
+msgid "Yunnan|Zhaoyang"
+msgstr "昭阳"
+
+msgid "Yunnan|Lincang"
+msgstr "临沧"
+
+msgid "Yunnan|Cangyua"
+msgstr "沧源"
+
+msgid "Yunnan|Gengma"
+msgstr "耿马"
+
+msgid "Yunnan|Shuangjiang"
+msgstr "双江"
+
+msgid "Yunnan|Fengqing"
+msgstr "凤庆"
+
+msgid "Yunnan|Yongde"
+msgstr "永德"
+
+msgid "Yunnan|Yun County"
+msgstr "云县"
+
+msgid "Yunnan|Zhenkang"
+msgstr "镇康"
+
+msgid "Yunnan|Linxiang"
+msgstr "临翔"
+
+msgid "Yunnan|Nujiang Prefecture"
+msgstr "怒江"
+
+msgid "Yunnan|Fugong"
+msgstr "福贡"
+
+msgid "Yunnan|Lanping"
+msgstr "兰坪"
+
+msgid "Yunnan|Lushui"
+msgstr "泸水"
+
+msgid "Yunnan|Gongshan"
+msgstr "贡山"
+
+msgid "Yunnan|Shangri-La City"
+msgstr "香格里拉"
+
+msgid "Yunnan|Deqin"
+msgstr "德钦"
+
+msgid "Yunnan|Weixi"
+msgstr "维西"
+
+msgid "Yunnan|Diqing Prefecture"
+msgstr "迪庆"
+
+msgid "Yunnan|Lijiang"
+msgstr "丽江"
+
+msgid "Yunnan|Yongsheng"
+msgstr "永胜"
+
+msgid "Yunnan|Huaping"
+msgstr "华坪"
+
+msgid "Yunnan|Ninglang"
+msgstr "宁蒗"
+
+msgid "Yunnan|Gucheng"
+msgstr "古城"
+
+msgid "Yunnan|Yulong"
+msgstr "玉龙"
+
+msgid "Yunnan|Dehong Prefecture"
+msgstr "德宏"
+
+msgid "Yunnan|Longchuan"
+msgstr "陇川"
+
+msgid "Yunnan|Yingjiang"
+msgstr "盈江"
+
+msgid "Yunnan|Ruili"
+msgstr "瑞丽"
+
+msgid "Yunnan|Lianghe"
+msgstr "梁河"
+
+msgid "Yunnan|Mangshi"
+msgstr "芒市"
+
+msgid "Yunnan|Jinghong"
+msgstr "景洪"
+
+msgid "Yunnan|Xishuangbanna Prefecture"
+msgstr "西双版纳"
+
+msgid "Yunnan|Menghai"
+msgstr "勐海"
+
+msgid "Yunnan|Mengla"
+msgstr "勐腊"
+
 msgid "Guangxi Zhuang Autonomous Region"
 msgstr "广西壮族自治区"
 
 msgid "Guangxi Zhuang Autonomous Region|Nanning"
 msgstr "南宁"
 
+msgid "Guangxi Zhuang Autonomous Region|Xingning"
+msgstr "兴宁"
+
+msgid "Guangxi Zhuang Autonomous Region|Yongning"
+msgstr "邕宁"
+
+msgid "Guangxi Zhuang Autonomous Region|HengZhou City"
+msgstr "横州"
+
+msgid "Guangxi Zhuang Autonomous Region|Long'an"
+msgstr "隆安"
+
+msgid "Guangxi Zhuang Autonomous Region|Mashan"
+msgstr "马山"
+
+msgid "Guangxi Zhuang Autonomous Region|Shanglin"
+msgstr "上林"
+
+msgid "Guangxi Zhuang Autonomous Region|Wuming"
+msgstr "武鸣"
+
+msgid "Guangxi Zhuang Autonomous Region|Binyang"
+msgstr "宾阳"
+
+msgid "Guangxi Zhuang Autonomous Region|Qingxiu"
+msgstr "青秀"
+
+msgid "Guangxi Zhuang Autonomous Region|Jiangnan"
+msgstr "江南"
+
+msgid "Guangxi Zhuang Autonomous Region|Xixiangtang"
+msgstr "西乡塘"
+
+msgid "Guangxi Zhuang Autonomous Region|Liangqing"
+msgstr "良庆"
+
+msgid "Guangxi Zhuang Autonomous Region|Chongzuo"
+msgstr "崇左"
+
+msgid "Guangxi Zhuang Autonomous Region|Tiandeng"
+msgstr "天等"
+
+msgid "Guangxi Zhuang Autonomous Region|Longzhou"
+msgstr "龙州"
+
+msgid "Guangxi Zhuang Autonomous Region|Pingxiang"
+msgstr "凭祥"
+
+msgid "Guangxi Zhuang Autonomous Region|Daxin"
+msgstr "大新"
+
+msgid "Guangxi Zhuang Autonomous Region|Fusui"
+msgstr "扶绥"
+
+msgid "Guangxi Zhuang Autonomous Region|Ningming"
+msgstr "宁明"
+
+msgid "Guangxi Zhuang Autonomous Region|Jiangzhou"
+msgstr "江州"
+
+msgid "Guangxi Zhuang Autonomous Region|Liuzhou"
+msgstr "柳州"
+
+msgid "Guangxi Zhuang Autonomous Region|Liucheng"
+msgstr "柳城"
+
+msgid "Guangxi Zhuang Autonomous Region|Chengzhong"
+msgstr "城中"
+
+msgid "Guangxi Zhuang Autonomous Region|Luzhai"
+msgstr "鹿寨"
+
+msgid "Guangxi Zhuang Autonomous Region|Liujiang"
+msgstr "柳江"
+
+msgid "Guangxi Zhuang Autonomous Region|Rong'an"
+msgstr "融安"
+
+msgid "Guangxi Zhuang Autonomous Region|Rongshui"
+msgstr "融水"
+
+msgid "Guangxi Zhuang Autonomous Region|Sanjiang"
+msgstr "三江"
+
+msgid "Guangxi Zhuang Autonomous Region|Yufeng"
+msgstr "鱼峰"
+
+msgid "Guangxi Zhuang Autonomous Region|Liunan"
+msgstr "柳南"
+
+msgid "Guangxi Zhuang Autonomous Region|Liubei"
+msgstr "柳北"
+
+msgid "Guangxi Zhuang Autonomous Region|Laibin"
+msgstr "来宾"
+
+msgid "Guangxi Zhuang Autonomous Region|Xincheng"
+msgstr "忻城"
+
+msgid "Guangxi Zhuang Autonomous Region|Jinxiu"
+msgstr "金秀"
+
+msgid "Guangxi Zhuang Autonomous Region|Xiangzhou"
+msgstr "象州"
+
+msgid "Guangxi Zhuang Autonomous Region|Wuxuan"
+msgstr "武宣"
+
+msgid "Guangxi Zhuang Autonomous Region|Heshan"
+msgstr "合山"
+
+msgid "Guangxi Zhuang Autonomous Region|Xingbin"
+msgstr "兴宾"
+
+msgid "Guangxi Zhuang Autonomous Region|Guilin"
+msgstr "桂林"
+
+msgid "Guangxi Zhuang Autonomous Region|Xiufeng"
+msgstr "秀峰"
+
+msgid "Guangxi Zhuang Autonomous Region|Longsheng"
+msgstr "龙胜"
+
+msgid "Guangxi Zhuang Autonomous Region|Yongfu"
+msgstr "永福"
+
+msgid "Guangxi Zhuang Autonomous Region|Lingui"
+msgstr "临桂"
+
+msgid "Guangxi Zhuang Autonomous Region|Xing'an"
+msgstr "兴安"
+
+msgid "Guangxi Zhuang Autonomous Region|Lingchuan"
+msgstr "灵川"
+
+msgid "Guangxi Zhuang Autonomous Region|Quanzhou"
+msgstr "全州"
+
+msgid "Guangxi Zhuang Autonomous Region|Guanyang"
+msgstr "灌阳"
+
+msgid "Guangxi Zhuang Autonomous Region|Yangshuo"
+msgstr "阳朔"
+
+msgid "Guangxi Zhuang Autonomous Region|Gongcheng"
+msgstr "恭城"
+
+msgid "Guangxi Zhuang Autonomous Region|Pingle"
+msgstr "平乐"
+
+msgid "Guangxi Zhuang Autonomous Region|Lipu"
+msgstr "荔浦"
+
+msgid "Guangxi Zhuang Autonomous Region|Ziyuan"
+msgstr "资源"
+
+msgid "Guangxi Zhuang Autonomous Region|Diecai"
+msgstr "叠彩"
+
+msgid "Guangxi Zhuang Autonomous Region|Xiangshan"
+msgstr "象山"
+
+msgid "Guangxi Zhuang Autonomous Region|Qixing"
+msgstr "七星"
+
+msgid "Guangxi Zhuang Autonomous Region|Yanshan"
+msgstr "雁山"
+
+msgid "Guangxi Zhuang Autonomous Region|Wuzhou"
+msgstr "梧州"
+
+msgid "Guangxi Zhuang Autonomous Region|Teng County"
+msgstr "藤县"
+
+msgid "Guangxi Zhuang Autonomous Region|Wanxiu"
+msgstr "万秀"
+
+msgid "Guangxi Zhuang Autonomous Region|Cangwu"
+msgstr "苍梧"
+
+msgid "Guangxi Zhuang Autonomous Region|Mengshan"
+msgstr "蒙山"
+
+msgid "Guangxi Zhuang Autonomous Region|Cenxi"
+msgstr "岑溪"
+
+msgid "Guangxi Zhuang Autonomous Region|Cheung Chau"
+msgstr "长洲"
+
+msgid "Guangxi Zhuang Autonomous Region|Longxu"
+msgstr "龙圩"
+
+msgid "Guangxi Zhuang Autonomous Region|Hezhou"
+msgstr "贺州"
+
+msgid "Guangxi Zhuang Autonomous Region|Zhaoping"
+msgstr "昭平"
+
+msgid "Guangxi Zhuang Autonomous Region|Fuchuan"
+msgstr "富川"
+
+msgid "Guangxi Zhuang Autonomous Region|Zhongshan"
+msgstr "钟山"
+
+msgid "Guangxi Zhuang Autonomous Region|Babu"
+msgstr "八步"
+
+msgid "Guangxi Zhuang Autonomous Region|Pinggui"
+msgstr "平桂"
+
+msgid "Guangxi Zhuang Autonomous Region|Guigang"
+msgstr "贵港"
+
+msgid "Guangxi Zhuang Autonomous Region|Guiping"
+msgstr "桂平"
+
+msgid "Guangxi Zhuang Autonomous Region|Pingnan"
+msgstr "平南"
+
+msgid "Guangxi Zhuang Autonomous Region|Gangbei"
+msgstr "港北"
+
+msgid "Guangxi Zhuang Autonomous Region|Gangnan"
+msgstr "港南"
+
+msgid "Guangxi Zhuang Autonomous Region|Qintang"
+msgstr "覃塘"
+
 msgid "Guangxi Zhuang Autonomous Region|Yulin"
 msgstr "玉林"
 
+msgid "Guangxi Zhuang Autonomous Region|Bobai"
+msgstr "博白"
+
+msgid "Guangxi Zhuang Autonomous Region|Beiliu"
+msgstr "北流"
+
 msgid "Guangxi Zhuang Autonomous Region|Rong County"
 msgstr "容县"
+
+msgid "Guangxi Zhuang Autonomous Region|Luchuan"
+msgstr "陆川"
+
+msgid "Guangxi Zhuang Autonomous Region|Xingye"
+msgstr "兴业"
+
+msgid "Guangxi Zhuang Autonomous Region|Yuzhou"
+msgstr "玉州"
+
+msgid "Guangxi Zhuang Autonomous Region|Fumian"
+msgstr "福绵"
+
+msgid "Guangxi Zhuang Autonomous Region|Baise"
+msgstr "百色"
+
+msgid "Guangxi Zhuang Autonomous Region|Napo"
+msgstr "那坡"
+
+msgid "Guangxi Zhuang Autonomous Region|Tianyang"
+msgstr "田阳"
+
+msgid "Guangxi Zhuang Autonomous Region|Debao"
+msgstr "德保"
+
+msgid "Guangxi Zhuang Autonomous Region|Jingxi"
+msgstr "靖西"
+
+msgid "Guangxi Zhuang Autonomous Region|Tiandong"
+msgstr "田东"
+
+msgid "Guangxi Zhuang Autonomous Region|Pingguo"
+msgstr "平果"
+
+msgid "Guangxi Zhuang Autonomous Region|Longlin"
+msgstr "隆林"
+
+msgid "Guangxi Zhuang Autonomous Region|Xilin"
+msgstr "西林"
+
+msgid "Guangxi Zhuang Autonomous Region|Leye"
+msgstr "乐业"
+
+msgid "Guangxi Zhuang Autonomous Region|Lingyun"
+msgstr "凌云"
+
+msgid "Guangxi Zhuang Autonomous Region|Tianlin"
+msgstr "田林"
+
+msgid "Guangxi Zhuang Autonomous Region|Youjiang"
+msgstr "右江"
+
+msgid "Guangxi Zhuang Autonomous Region|Qinzhou"
+msgstr "钦州"
+
+msgid "Guangxi Zhuang Autonomous Region|Pubei"
+msgstr "浦北"
+
+msgid "Guangxi Zhuang Autonomous Region|Lingshan"
+msgstr "灵山"
+
+msgid "Guangxi Zhuang Autonomous Region|Qinnan"
+msgstr "钦南"
+
+msgid "Guangxi Zhuang Autonomous Region|Qinbei"
+msgstr "钦北"
+
+msgid "Guangxi Zhuang Autonomous Region|Hechi"
+msgstr "河池"
+
+msgid "Guangxi Zhuang Autonomous Region|Tian'e"
+msgstr "天峨"
+
+msgid "Guangxi Zhuang Autonomous Region|Donglan"
+msgstr "东兰"
+
+msgid "Guangxi Zhuang Autonomous Region|Bama"
+msgstr "巴马"
+
+msgid "Guangxi Zhuang Autonomous Region|Huanjiang"
+msgstr "环江"
+
+msgid "Guangxi Zhuang Autonomous Region|Luocheng"
+msgstr "罗城"
+
+msgid "Guangxi Zhuang Autonomous Region|Yizhou"
+msgstr "宜州"
+
+msgid "Guangxi Zhuang Autonomous Region|Fengshan"
+msgstr "凤山"
+
+msgid "Guangxi Zhuang Autonomous Region|Nandan"
+msgstr "南丹"
+
+msgid "Guangxi Zhuang Autonomous Region|Du'an"
+msgstr "都安"
+
+msgid "Guangxi Zhuang Autonomous Region|Dahua"
+msgstr "大化"
+
+msgid "Guangxi Zhuang Autonomous Region|Jinchengjiang"
+msgstr "金城江"
+
+msgid "Guangxi Zhuang Autonomous Region|Beihai"
+msgstr "北海"
+
+msgid "Guangxi Zhuang Autonomous Region|Hepu"
+msgstr "合浦"
+
+msgid "Guangxi Zhuang Autonomous Region|Haicheng"
+msgstr "海城"
+
+msgid "Guangxi Zhuang Autonomous Region|Yinhai"
+msgstr "银海"
+
+msgid "Guangxi Zhuang Autonomous Region|Tieshangang"
+msgstr "铁山港"
+
+msgid "Guangxi Zhuang Autonomous Region|Fangchenggang"
+msgstr "防城港"
+
+msgid "Guangxi Zhuang Autonomous Region|Shangsi"
+msgstr "上思"
+
+msgid "Guangxi Zhuang Autonomous Region|Dongxing"
+msgstr "东兴"
+
+msgid "Guangxi Zhuang Autonomous Region|Gangkou"
+msgstr "港口"
+
+msgid "Guangxi Zhuang Autonomous Region|Fangcheng"
+msgstr "防城"
 
 msgid "Hainan"
 msgstr "海南省"
@@ -256,11 +9619,152 @@ msgstr "海南省"
 msgid "Hainan|Haikou"
 msgstr "海口"
 
+msgid "Hainan|Xiuying"
+msgstr "秀英"
+
+msgid "Hainan|Longhua"
+msgstr "龙华"
+
+msgid "Hainan|Qiongshan"
+msgstr "琼山"
+
+msgid "Hainan|Meilan"
+msgstr "美兰"
+
+msgid "Hainan|Sanya"
+msgstr "三亚"
+
+msgid "Hainan|Dongfang"
+msgstr "东方"
+
+msgid "Hainan|Lingao"
+msgstr "临高"
+
+msgid "Hainan|Chengmai"
+msgstr "澄迈"
+
+msgid "Hainan|Danzhou"
+msgstr "儋州"
+
+msgid "Hainan|Changjiang"
+msgstr "昌江"
+
+msgid "Hainan|Baisha"
+msgstr "白沙"
+
+msgid "Hainan|Qiongzhong"
+msgstr "琼中"
+
+msgid "Hainan|Ding'an"
+msgstr "定安"
+
+msgid "Hainan|Tunchang"
+msgstr "屯昌"
+
+msgid "Hainan|Qionghai"
+msgstr "琼海"
+
+msgid "Hainan|Wenchang"
+msgstr "文昌"
+
+msgid "Hainan|Haitang"
+msgstr "海棠"
+
+msgid "Hainan|Baoting"
+msgstr "保亭"
+
+msgid "Hainan|Wanning"
+msgstr "万宁"
+
+msgid "Hainan|Lingshui"
+msgstr "陵水"
+
+msgid "Hainan|Jiyang"
+msgstr "吉阳"
+
+msgid "Hainan|Tianya"
+msgstr "天涯"
+
+msgid "Hainan|Ledong"
+msgstr "乐东"
+
+msgid "Hainan|Wuzhishan"
+msgstr "五指山"
+
+msgid "Hainan|Yazhou"
+msgstr "崖州"
+
+msgid "Hainan|Sansha"
+msgstr "三沙"
+
+msgid "Hainan|Xisha"
+msgstr "西沙"
+
+msgid "Hainan|Nansha"
+msgstr "南沙"
+
 msgid "Hong Kong SAR"
 msgstr "香港特别行政区"
 
 msgid "Hong Kong SAR|Hong Kong"
 msgstr "香港"
+
+msgid "Hong Kong SAR|New Territories"
+msgstr "新界"
+
+msgid "Hong Kong SAR|Yau Tsim Mong"
+msgstr "油尖旺"
+
+msgid "Hong Kong SAR|Eastern District"
+msgstr "东区"
+
+msgid "Hong Kong SAR|Central and Western District"
+msgstr "中西区"
+
+msgid "Hong Kong SAR|Tuen Mun"
+msgstr "屯门"
+
+msgid "Hong Kong SAR|Tai Po"
+msgstr "大埔"
+
+msgid "Hong Kong SAR|Sham Shui Po"
+msgstr "深水埗"
+
+msgid "Hong Kong SAR|Kowloon City"
+msgstr "九龙城"
+
+msgid "Hong Kong SAR|Kwai Tsing"
+msgstr "葵青"
+
+msgid "Hong Kong SAR|Yuen Long"
+msgstr "元朗"
+
+msgid "Hong Kong SAR|Wan Chai"
+msgstr "湾仔"
+
+msgid "Hong Kong SAR|Sai Kung"
+msgstr "西贡"
+
+msgid "Hong Kong SAR|Sha Tin"
+msgstr "沙田"
+
+msgid "Hong Kong SAR|Kwun Tong"
+msgstr "观塘"
+
+msgid "Hong Kong SAR|North District"
+msgstr "北区"
+
+msgid "Hong Kong SAR|Islands District"
+msgstr "离岛"
+
+msgid "Hong Kong SAR|Wong Tai Sin"
+msgstr "黄大仙"
+
+msgid "Hong Kong SAR|Tsuen Wan"
+msgstr "荃湾"
+
+msgid "Hong Kong SAR|Southern District"
+msgstr "南区"
 
 msgid "Macao SAR"
 msgstr "澳门特别行政区"
@@ -268,32 +9772,71 @@ msgstr "澳门特别行政区"
 msgid "Macao SAR|Macao"
 msgstr "澳门"
 
+msgid "Macao SAR|Taipa Island"
+msgstr "氹仔岛"
+
+msgid "Macao SAR|Coloane Island"
+msgstr "路环岛"
+
+msgid "Macao SAR|Cotai"
+msgstr "路凼城"
+
+msgid "Macao SAR|Saint Lawrence Parish"
+msgstr "风顺堂区"
+
+msgid "Macao SAR|Taipa"
+msgstr "嘉模堂区"
+
+msgid "Macao SAR|Saint Lazarus Parish"
+msgstr "望德堂区"
+
+msgid "Macao SAR|Cathedral Parish"
+msgstr "大堂区"
+
+msgid "Macao SAR|Coloane"
+msgstr "圣方济各堂区"
+
+msgid "Macao SAR|Saint Anthony Parish"
+msgstr "花王堂区"
+
+msgid "Macao SAR|Our Lady of Fatima Parish"
+msgstr "花地玛堂区"
+
 msgid "Taiwan, Province of China"
 msgstr "台湾省"
 
+msgid "Taiwan, Province of China|Diaoyu Islands"
+msgstr "钓鱼岛"
+
 msgid "Taiwan, Province of China|Taipei"
 msgstr "台北"
-
-msgid "Taiwan, Province of China|New Taipei City"
-msgstr "新北市"
-
-msgid "Taiwan, Province of China|Tainan"
-msgstr "台南市"
-
-msgid "Taiwan, Province of China|Taichung"
-msgstr "台中市"
-
-msgid "Taiwan, Province of China|Taitung"
-msgstr "台东市"
-
-msgid "Taiwan, Province of China|Keelung"
-msgstr "基隆市"
 
 msgid "Taiwan, Province of China|Taoyuan"
 msgstr "桃园"
 
 msgid "Taiwan, Province of China|Hsinchu"
 msgstr "新竹"
+
+msgid "Taiwan, Province of China|Yilan"
+msgstr "宜兰市"
+
+msgid "Taiwan, Province of China|Kaohsiung"
+msgstr "高雄"
+
+msgid "Taiwan, Province of China|Chiayi"
+msgstr "嘉义市"
+
+msgid "Taiwan, Province of China|Tainan"
+msgstr "台南市"
+
+msgid "Taiwan, Province of China|Taitung"
+msgstr "台东市"
+
+msgid "Taiwan, Province of China|Pingtung"
+msgstr "屏东市"
+
+msgid "Taiwan, Province of China|Taichung"
+msgstr "台中市"
 
 msgid "Taiwan, Province of China|Miaoli"
 msgstr "苗栗市"
@@ -304,29 +9847,1049 @@ msgstr "彰化市"
 msgid "Taiwan, Province of China|Nantou"
 msgstr "南投市"
 
-msgid "Taiwan, Province of China|Douliu City"
-msgstr "斗六市"
-
-msgid "Taiwan, Province of China|Chiayi"
-msgstr "嘉义市"
-
-msgid "Taiwan, Province of China|Kaohsiung"
-msgstr "高雄"
-
-msgid "Taiwan, Province of China|Pingtung"
-msgstr "屏东市"
-
-msgid "Taiwan, Province of China|Yilan"
-msgstr "宜兰市"
-
 msgid "Taiwan, Province of China|Hualien"
 msgstr "花莲市"
 
-msgid "Fujian|Kinmen"
-msgstr "金门"
+msgid "Taiwan, Province of China|Laiyi Township"
+msgstr "来义乡"
 
-msgid "Fujian|Lianjiang"
-msgstr "连江"
+msgid "Taiwan, Province of China|Nansi District"
+msgstr "楠西区"
+
+msgid "Taiwan, Province of China|Dongshan Township"
+msgstr "冬山乡"
+
+msgid "Taiwan, Province of China|Houli District"
+msgstr "后里区"
+
+msgid "Taiwan, Province of China|Niaosong District"
+msgstr "鸟松区"
+
+msgid "Taiwan, Province of China|Linkou District"
+msgstr "林口区"
+
+msgid "Taiwan, Province of China|Taiping District"
+msgstr "太平区"
+
+msgid "Taiwan, Province of China|Xiulin Township"
+msgstr "秀林乡"
+
+msgid "Taiwan, Province of China|Guanshan Township"
+msgstr "关山镇"
+
+msgid "Taiwan, Province of China|Zhongzheng District"
+msgstr "中正区"
+
+msgid "Taiwan, Province of China|West Central District"
+msgstr "中西区"
+
+msgid "Taiwan, Province of China|Puzi City"
+msgstr "朴子市"
+
+msgid "Taiwan, Province of China|Lingya District"
+msgstr "苓雅区"
+
+msgid "Taiwan, Province of China|Emei Township"
+msgstr "峨眉乡"
+
+msgid "Taiwan, Province of China|Yingge District"
+msgstr "莺歌区"
+
+msgid "Taiwan, Province of China|Fengbin Township"
+msgstr "丰滨乡"
+
+msgid "Taiwan, Province of China|Daan Waipu Area"
+msgstr "大安区"
+
+msgid "Taiwan, Province of China|Beinan Township"
+msgstr "卑南乡"
+
+msgid "Taiwan, Province of China|Qingshui District"
+msgstr "清水区"
+
+msgid "Taiwan, Province of China|Sanxia District"
+msgstr "三峽区"
+
+msgid "Taiwan, Province of China|Maolin District"
+msgstr "茂林区"
+
+msgid "Taiwan, Province of China|Gaoshu Township"
+msgstr "高树乡"
+
+msgid "Taiwan, Province of China|Jiuru Township"
+msgstr "九如乡"
+
+msgid "Taiwan, Province of China|Ren'ai Township"
+msgstr "仁爱乡"
+
+msgid "Taiwan, Province of China|Shenkeng District"
+msgstr "深坑区"
+
+msgid "Taiwan, Province of China|Alian District"
+msgstr "阿莲区"
+
+msgid "Taiwan, Province of China|Wuri District"
+msgstr "乌日区"
+
+msgid "Taiwan, Province of China|Dongshi Township"
+msgstr "东势乡"
+
+msgid "Taiwan, Province of China|Shengang Township"
+msgstr "伸港乡"
+
+msgid "Taiwan, Province of China|Shilin District"
+msgstr "士林区"
+
+msgid "Taiwan, Province of China|Longjing District"
+msgstr "龙井区"
+
+msgid "Taiwan, Province of China|Wujie Township"
+msgstr "五结乡"
+
+msgid "Taiwan, Province of China|Puxin Township"
+msgstr "埔心乡"
+
+msgid "Taiwan, Province of China|Dadu District"
+msgstr "大肚区"
+
+msgid "Taiwan, Province of China|Tianliao District"
+msgstr "田寮区"
+
+msgid "Taiwan, Province of China|Shuilin Township"
+msgstr "水林乡"
+
+msgid "Taiwan, Province of China|Luzhu District"
+msgstr "芦竹区"
+
+msgid "Taiwan, Province of China|Zhuqi Township"
+msgstr "竹崎乡"
+
+msgid "Taiwan, Province of China|Pingzhen District"
+msgstr "平镇区"
+
+msgid "Taiwan, Province of China|Ziguan District"
+msgstr "梓官区"
+
+msgid "Taiwan, Province of China|Nanhua District"
+msgstr "南化区"
+
+msgid "Taiwan, Province of China|Guantian District"
+msgstr "官田区"
+
+msgid "Taiwan, Province of China|Mudan Township"
+msgstr "牡丹乡"
+
+msgid "Taiwan, Province of China|Tucheng District"
+msgstr "土城区"
+
+msgid "Taiwan, Province of China|Nuannuan District"
+msgstr "暖暖区"
+
+msgid "Taiwan, Province of China|Xinpu Township"
+msgstr "新埔镇"
+
+msgid "Taiwan, Province of China|Kouhu Township"
+msgstr "口湖乡"
+
+msgid "Taiwan, Province of China|Guanmiao District"
+msgstr "关庙区"
+
+msgid "Taiwan, Province of China|Changbin Township"
+msgstr "长滨乡"
+
+msgid "Taiwan, Province of China|Pitou Township"
+msgstr "埤头乡"
+
+msgid "Taiwan, Province of China|Xiangshan Distric"
+msgstr "香山区"
+
+msgid "Taiwan, Province of China|Rende District"
+msgstr "仁德区"
+
+msgid "Taiwan, Province of China|Su'ao Township"
+msgstr "苏澳镇"
+
+msgid "Taiwan, Province of China|Haiduan Township"
+msgstr "海端乡"
+
+msgid "Taiwan, Province of China|Beitou District"
+msgstr "北投区"
+
+msgid "Taiwan, Province of China|Alishan Township"
+msgstr "阿里山乡"
+
+msgid "Taiwan, Province of China|Tai'an Township"
+msgstr "泰安乡"
+
+msgid "Taiwan, Province of China|Changzhi Township"
+msgstr "长治乡"
+
+msgid "Taiwan, Province of China|Zhonghe District"
+msgstr "中和区"
+
+msgid "Taiwan, Province of China|Jiji Township"
+msgstr "集集镇"
+
+msgid "Taiwan, Province of China|Dacun Township"
+msgstr "大村乡"
+
+msgid "Taiwan, Province of China|Nanzih District"
+msgstr "楠梓区"
+
+msgid "Taiwan, Province of China|Wenshan District"
+msgstr "文山区"
+
+msgid "Taiwan, Province of China|Ruifang District"
+msgstr "瑞芳区"
+
+msgid "Taiwan, Province of China|Manzhou Township"
+msgstr "满州乡"
+
+msgid "Taiwan, Province of China|Anping District"
+msgstr "安平区"
+
+msgid "Taiwan, Province of China|Dali District"
+msgstr "大里区"
+
+msgid "Taiwan, Province of China|Zhongpu Township"
+msgstr "中埔乡"
+
+msgid "Taiwan, Province of China|Beitun District"
+msgstr "北屯区"
+
+msgid "Taiwan, Province of China|Liujiao Township"
+msgstr "六脚乡"
+
+msgid "Taiwan, Province of China|Lunbei Township"
+msgstr "仑背乡"
+
+msgid "Taiwan, Province of China|Ershui Township"
+msgstr "二水乡"
+
+msgid "Taiwan, Province of China|Cigu District"
+msgstr "七股区"
+
+msgid "Taiwan, Province of China|Bade District"
+msgstr "八德区"
+
+msgid "Taiwan, Province of China|Xikou Township"
+msgstr "溪口乡"
+
+msgid "Taiwan, Province of China|Checheng Township"
+msgstr "车城乡"
+
+msgid "Taiwan, Province of China|Ligang Township"
+msgstr "里港乡"
+
+msgid "Taiwan, Province of China|Xihu Township"
+msgstr "西湖乡"
+
+msgid "Taiwan, Province of China|Taoyuan District"
+msgstr "桃源区"
+
+msgid "Taiwan, Province of China|Meishan Township"
+msgstr "梅山乡"
+
+msgid "Taiwan, Province of China|Tanzi District"
+msgstr "潭子区"
+
+msgid "Taiwan, Province of China|Shitan Township"
+msgstr "狮潭乡"
+
+msgid "Taiwan, Province of China|Dacheng Township"
+msgstr "大城乡"
+
+msgid "Taiwan, Province of China|Kanding Township"
+msgstr "崁顶乡"
+
+msgid "Taiwan, Province of China|Annan District"
+msgstr "安南区"
+
+msgid "Taiwan, Province of China|Yongkang District"
+msgstr "永康区"
+
+msgid "Taiwan, Province of China|Fuxing District"
+msgstr "复兴区"
+
+msgid "Taiwan, Province of China|Gukeng Township"
+msgstr "古坑乡"
+
+msgid "Taiwan, Province of China|Qidu District"
+msgstr "七堵区"
+
+msgid "Taiwan, Province of China|Xihu Township"
+msgstr "西湖乡"
+
+msgid "Taiwan, Province of China|Hemei Township"
+msgstr "和美镇"
+
+msgid "Taiwan, Province of China|Meinong District"
+msgstr "美浓区"
+
+msgid "Taiwan, Province of China|Zhongshan District"
+msgstr "中山区"
+
+msgid "Taiwan, Province of China|Mingjian Township"
+msgstr "名间乡"
+
+msgid "Taiwan, Province of China|Jiali District"
+msgstr "佳里区"
+
+msgid "Taiwan, Province of China|Yangmei District"
+msgstr "杨梅区"
+
+msgid "Taiwan, Province of China|Fanlu Township"
+msgstr "番路乡"
+
+msgid "Taiwan, Province of China|Taibao"
+msgstr "太保市"
+
+msgid "Taiwan, Province of China|South District"
+msgstr "南区"
+
+msgid "Taiwan, Province of China|Shulin District"
+msgstr "樹林区"
+
+msgid "Taiwan, Province of China|Yuanshan Township"
+msgstr "员山乡"
+
+msgid "Taiwan, Province of China|Dongshan District"
+msgstr "东山区"
+
+msgid "Taiwan, Province of China|Tuku Township"
+msgstr "土库镇"
+
+msgid "Taiwan, Province of China|Mailiao Township"
+msgstr "麦寮乡"
+
+msgid "Taiwan, Province of China|Bali District"
+msgstr "八里区"
+
+msgid "Taiwan, Province of China|Yongjing Township"
+msgstr "永靖乡"
+
+msgid "Taiwan, Province of China|Jiaoxi Township"
+msgstr "礁溪乡"
+
+msgid "Taiwan, Province of China|Yong'an District"
+msgstr "永安区"
+
+msgid "Taiwan, Province of China|Jinfeng Township"
+msgstr "金峰乡"
+
+msgid "Taiwan, Province of China|Guishan District"
+msgstr "龟山区"
+
+msgid "Taiwan, Province of China|Guoxing Township"
+msgstr "国姓乡"
+
+msgid "Taiwan, Province of China|Ludao Township"
+msgstr "绿岛乡"
+
+msgid "Taiwan, Province of China|Dahu Township"
+msgstr "大湖乡"
+
+msgid "Taiwan, Province of China|Tianzhong Township"
+msgstr "田中镇"
+
+msgid "Taiwan, Province of China|Fangyuan Township"
+msgstr "芳苑乡"
+
+msgid "Taiwan, Province of China|Jinshan District"
+msgstr "金山区"
+
+msgid "Taiwan, Province of China|Budai Township"
+msgstr "布袋镇"
+
+msgid "Taiwan, Province of China|Yanchao District"
+msgstr "燕巢区"
+
+msgid "Taiwan, Province of China|Liouying District"
+msgstr "柳营区"
+
+msgid "Taiwan, Province of China|Zhutian Township"
+msgstr "竹田乡"
+
+msgid "Taiwan, Province of China|Pingxi District"
+msgstr "平渓区"
+
+msgid "Taiwan, Province of China|Citong Township"
+msgstr "莿桐乡"
+
+msgid "Taiwan, Province of China|Dounan Township"
+msgstr "斗南镇"
+
+msgid "Taiwan, Province of China|Xinyi District"
+msgstr "信义区"
+
+msgid "Taiwan, Province of China|Taimali Township"
+msgstr "太麻里乡"
+
+msgid "Taiwan, Province of China|Yujing District"
+msgstr "玉井区"
+
+msgid "Taiwan, Province of China|Xinfeng Township"
+msgstr "新丰乡"
+
+msgid "Taiwan, Province of China|Yizhu Township"
+msgstr "义竹乡"
+
+msgid "Taiwan, Province of China|Lujhu District"
+msgstr "路竹区"
+
+msgid "Taiwan, Province of China|Chishang Township"
+msgstr "池上乡"
+
+msgid "Taiwan, Province of China|Wanli District"
+msgstr "万里区"
+
+msgid "Taiwan, Province of China|Guanyin District"
+msgstr "观音区"
+
+msgid "Taiwan, Province of China|Shimen District"
+msgstr "石门区"
+
+msgid "Taiwan, Province of China|Jiangjun District"
+msgstr "将军区"
+
+msgid "Taiwan, Province of China|Dapu Township"
+msgstr "大埔乡"
+
+msgid "Taiwan, Province of China|Cianjin District"
+msgstr "前金区"
+
+msgid "Taiwan, Province of China|Sigang District"
+msgstr "西港区"
+
+msgid "Taiwan, Province of China|South District"
+msgstr "南区"
+
+msgid "Taiwan, Province of China|Shizi Township"
+msgstr "狮子乡"
+
+msgid "Taiwan, Province of China|Linyuan District"
+msgstr "林园区"
+
+msgid "Taiwan, Province of China|Ji'an Township"
+msgstr "吉安乡"
+
+msgid "Taiwan, Province of China|Daliao District"
+msgstr "大寮区"
+
+msgid "Taiwan, Province of China|Cishan District"
+msgstr "旗山区"
+
+msgid "Taiwan, Province of China|Ruisui Township"
+msgstr "瑞穗乡"
+
+msgid "Taiwan, Province of China|Xizhi District"
+msgstr "汐止区"
+
+msgid "Taiwan, Province of China|Chaozhou Township"
+msgstr "潮州镇"
+
+msgid "Taiwan, Province of China|Jiadong Township"
+msgstr "佳冬乡"
+
+msgid "Taiwan, Province of China|West District"
+msgstr "西区"
+
+msgid "Taiwan, Province of China|Sanwan Township"
+msgstr "三湾乡"
+
+msgid "Taiwan, Province of China|Yanshuei District"
+msgstr "盐水区"
+
+msgid "Taiwan, Province of China|Xingang Township"
+msgstr "新港乡"
+
+msgid "Taiwan, Province of China|Nan'ao Township"
+msgstr "南澳乡"
+
+msgid "Taiwan, Province of China|Pinglin District"
+msgstr "坪林区"
+
+msgid "Taiwan, Province of China|Hengshan Township"
+msgstr "横山乡"
+
+msgid "Taiwan, Province of China|Nangang District"
+msgstr "南港区"
+
+msgid "Taiwan, Province of China|Shanlin District"
+msgstr "杉林区"
+
+msgid "Taiwan, Province of China|Central District"
+msgstr "中区"
+
+msgid "Taiwan, Province of China|Longci District"
+msgstr "龙崎区"
 
 msgid "Taiwan, Province of China|Magong"
 msgstr "马公市"
+
+msgid "Taiwan, Province of China|Wanrong Township"
+msgstr "万荣乡"
+
+msgid "Taiwan, Province of China|Hengchun Township"
+msgstr "恒春镇"
+
+msgid "Taiwan, Province of China|Da'an District"
+msgstr "大安区"
+
+msgid "Taiwan, Province of China|Dajia District"
+msgstr "大甲区"
+
+msgid "Taiwan, Province of China|Dashu District"
+msgstr "大树区"
+
+msgid "Taiwan, Province of China|Puli Township"
+msgstr "埔里镇"
+
+msgid "Taiwan, Province of China|New Taipei City"
+msgstr "新北市"
+
+msgid "Taiwan, Province of China|Toucheng Township"
+msgstr "头城镇"
+
+msgid "Taiwan, Province of China|Cijin District"
+msgstr "旗津区"
+
+msgid "Taiwan, Province of China|East District"
+msgstr "东区"
+
+msgid "Taiwan, Province of China|Baihe District"
+msgstr "白河区"
+
+msgid "Taiwan, Province of China|Zhuolan Township"
+msgstr "卓兰镇"
+
+msgid "Taiwan, Province of China|Xincheng Township"
+msgstr "新城乡"
+
+msgid "Taiwan, Province of China|Baoshan Township"
+msgstr "宝山乡"
+
+msgid "Taiwan, Province of China|Madou District"
+msgstr "麻豆区"
+
+msgid "Taiwan, Province of China|Cianjhen District"
+msgstr "前镇区"
+
+msgid "Taiwan, Province of China|Hunei District"
+msgstr "湖内区"
+
+msgid "Taiwan, Province of China|Shigang District"
+msgstr "石冈区"
+
+msgid "Taiwan, Province of China|Syuejia District"
+msgstr "学甲区"
+
+msgid "Taiwan, Province of China|Fangshan Township"
+msgstr "枋山乡"
+
+msgid "Taiwan, Province of China|Wanhua District"
+msgstr "万華区"
+
+msgid "Taiwan, Province of China|Caotun Township"
+msgstr "草屯镇"
+
+msgid "Taiwan, Province of China|Puyan Township"
+msgstr "埔盐乡"
+
+msgid "Taiwan, Province of China|Jianshi Township"
+msgstr "尖石乡"
+
+msgid "Taiwan, Province of China|Xiushui Township"
+msgstr "秀水乡"
+
+msgid "Taiwan, Province of China|Erlin Township"
+msgstr "二林镇"
+
+msgid "Taiwan, Province of China|Beidou Township"
+msgstr "北斗镇"
+
+msgid "Taiwan, Province of China|Douliu City"
+msgstr "斗六市"
+
+msgid "Taiwan, Province of China|Xitun District"
+msgstr "西屯区"
+
+msgid "Taiwan, Province of China|Yancheng District"
+msgstr "盐埕区"
+
+msgid "Taiwan, Province of China|Dayuan District"
+msgstr "大园区"
+
+msgid "Taiwan, Province of China|Wugu District"
+msgstr "五股区"
+
+msgid "Taiwan, Province of China|Linnei Township"
+msgstr "林内乡"
+
+msgid "Taiwan, Province of China|Zhutang Township"
+msgstr "竹塘乡"
+
+msgid "Taiwan, Province of China|Gangshan District"
+msgstr "冈山区"
+
+msgid "Taiwan, Province of China|Wandan Township"
+msgstr "万丹乡"
+
+msgid "Taiwan, Province of China|Sandimen Township"
+msgstr "三地门乡"
+
+msgid "Taiwan, Province of China|Zhudong Township"
+msgstr "竹东镇"
+
+msgid "Taiwan, Province of China|Gongguan Township"
+msgstr "公馆乡"
+
+msgid "Taiwan, Province of China|Nanzhou Township"
+msgstr "南州乡"
+
+msgid "Taiwan, Province of China|Neimen District"
+msgstr "内门区"
+
+msgid "Taiwan, Province of China|Xinshe District"
+msgstr "新社区"
+
+msgid "Taiwan, Province of China|Yuanli Township"
+msgstr "苑里镇"
+
+msgid "Taiwan, Province of China|Xinying District"
+msgstr "新营区"
+
+msgid "Taiwan, Province of China|Sanchong District"
+msgstr "三重区"
+
+msgid "Taiwan, Province of China|Daren Township"
+msgstr "达仁乡"
+
+msgid "Taiwan, Province of China|Wutai Township"
+msgstr "雾台乡"
+
+msgid "Taiwan, Province of China|Luye Township"
+msgstr "鹿野乡"
+
+msgid "Taiwan, Province of China|Houlong Township"
+msgstr "后龙镇"
+
+msgid "Taiwan, Province of China|Xianxi Township"
+msgstr "线西乡"
+
+msgid "Taiwan, Province of China|Dapi Township"
+msgstr "大埤乡"
+
+msgid "Taiwan, Province of China|Danei District"
+msgstr "大内区"
+
+msgid "Taiwan, Province of China|Taixi Township"
+msgstr "台西乡"
+
+msgid "Taiwan, Province of China|North District"
+msgstr "北区"
+
+msgid "Taiwan, Province of China|Wulai District"
+msgstr "乌来区"
+
+msgid "Taiwan, Province of China|Wang'an Township"
+msgstr "望安乡"
+
+msgid "Taiwan, Province of China|Yonghe District"
+msgstr "永和区"
+
+msgid "Taiwan, Province of China|Shanshang District"
+msgstr "山上区"
+
+msgid "Taiwan, Province of China|Xizhou Township"
+msgstr "溪州乡"
+
+msgid "Taiwan, Province of China|Sinhua District"
+msgstr "新化区"
+
+msgid "Taiwan, Province of China|Fenyuan Township"
+msgstr "芬园乡"
+
+msgid "Taiwan, Province of China|Shetou Township"
+msgstr "社头乡"
+
+msgid "Taiwan, Province of China|Songshan District"
+msgstr "松山区"
+
+msgid "Taiwan, Province of China|Huxi Township"
+msgstr "湖西乡"
+
+msgid "Taiwan, Province of China|Anding District"
+msgstr "安定区"
+
+msgid "Taiwan, Province of China|Tongxiao Township"
+msgstr "通霄镇"
+
+msgid "Taiwan, Province of China|Liouguei District"
+msgstr "六龟区"
+
+msgid "Taiwan, Province of China|Wufeng District"
+msgstr "雾峰区"
+
+msgid "Taiwan, Province of China|Tianwei Township"
+msgstr "田尾乡"
+
+msgid "Taiwan, Province of China|Lanyu Township"
+msgstr "兰屿乡"
+
+msgid "Taiwan, Province of China|Xinyuan Township"
+msgstr "新园乡"
+
+msgid "Taiwan, Province of China|Keelung"
+msgstr "基隆市"
+
+msgid "Taiwan, Province of China|Linluo Township"
+msgstr "麟洛乡"
+
+msgid "Taiwan, Province of China|Mituo District"
+msgstr "弥陀区"
+
+msgid "Taiwan, Province of China|Lukang Township"
+msgstr "鹿港镇"
+
+msgid "Taiwan, Province of China|Yuanlin Township"
+msgstr "员林镇"
+
+msgid "Taiwan, Province of China|Wanluan Township"
+msgstr "万峦乡"
+
+msgid "Taiwan, Province of China|Zhuangwei Township"
+msgstr "壮围乡"
+
+msgid "Taiwan, Province of China|Fengshan District"
+msgstr "凤山区"
+
+msgid "Taiwan, Province of China|Houbi District"
+msgstr "后壁区"
+
+msgid "Taiwan, Province of China|Zaoqiao Township"
+msgstr "造桥乡"
+
+msgid "Taiwan, Province of China|Dongshi District"
+msgstr "东势区"
+
+msgid "Taiwan, Province of China|Linbian Township"
+msgstr "林边乡"
+
+msgid "Taiwan, Province of China|Dashe District"
+msgstr "大社区"
+
+msgid "Taiwan, Province of China|Shalu District"
+msgstr "沙鹿区"
+
+msgid "Taiwan, Province of China|Gongliao District"
+msgstr "貢寮区"
+
+msgid "Taiwan, Province of China|Sinshih District"
+msgstr "新市区"
+
+msgid "Taiwan, Province of China|Sihu Township"
+msgstr "四湖乡"
+
+msgid "Taiwan, Province of China|Datong District"
+msgstr "大同区"
+
+msgid "Taiwan, Province of China|Yuanchang Township"
+msgstr "元长乡"
+
+msgid "Taiwan, Province of China|Donggang Township"
+msgstr "东港镇"
+
+msgid "Taiwan, Province of China|Sanyi Township"
+msgstr "三义乡"
+
+msgid "Taiwan, Province of China|Zhuoxi Township"
+msgstr "卓溪乡"
+
+msgid "Taiwan, Province of China|Shoufeng Township"
+msgstr "寿丰乡"
+
+msgid "Taiwan, Province of China|Zhushan Township"
+msgstr "竹山镇"
+
+msgid "Taiwan, Province of China|Xinyi Township"
+msgstr "信义乡"
+
+msgid "Taiwan, Province of China|Fangliao Township"
+msgstr "枋寮乡"
+
+msgid "Taiwan, Province of China|Sinsing District"
+msgstr "新兴区"
+
+msgid "Taiwan, Province of China|Daya District"
+msgstr "大雅区"
+
+msgid "Taiwan, Province of China|Chunri Township"
+msgstr "春日乡"
+
+msgid "Taiwan, Province of China|Xiluo Township"
+msgstr "西螺镇"
+
+msgid "Taiwan, Province of China|Guangfu Township"
+msgstr "光复乡"
+
+msgid "Taiwan, Province of China|Wuqi District"
+msgstr "梧栖区"
+
+msgid "Taiwan, Province of China|Baozhong Township"
+msgstr "褒忠乡"
+
+msgid "Taiwan, Province of China|Taishan District"
+msgstr "泰山区"
+
+msgid "Taiwan, Province of China|Baisha Township"
+msgstr "白沙乡"
+
+msgid "Taiwan, Province of China|Nantun District"
+msgstr "南屯区"
+
+msgid "Taiwan, Province of China|Sanzhi District"
+msgstr "三芝区"
+
+msgid "Taiwan, Province of China|Dawu Township"
+msgstr "大武乡"
+
+msgid "Taiwan, Province of China|Siaogang District"
+msgstr "小港区"
+
+msgid "Taiwan, Province of China|Shuili Township"
+msgstr "水里乡"
+
+msgid "Taiwan, Province of China|Tamsui District"
+msgstr "淡水区"
+
+msgid "Taiwan, Province of China|Beimen District"
+msgstr "北门区"
+
+msgid "Taiwan, Province of China|Majia Township"
+msgstr "玛家乡"
+
+msgid "Taiwan, Province of China|Zhubei"
+msgstr "竹北市"
+
+msgid "Taiwan, Province of China|Zhongshan District"
+msgstr "中山区"
+
+msgid "Taiwan, Province of China|Neipu Township"
+msgstr "内埔乡"
+
+msgid "Taiwan, Province of China|Longtan District"
+msgstr "龙潭区"
+
+msgid "Taiwan, Province of China|Waipu Area"
+msgstr "外埔区"
+
+msgid "Taiwan, Province of China|Luodong Township"
+msgstr "罗东镇"
+
+msgid "Taiwan, Province of China|Shuishang Township"
+msgstr "水上乡"
+
+msgid "Taiwan, Province of China|Wufeng Township"
+msgstr "五峰乡"
+
+msgid "Taiwan, Province of China|Toufen Township"
+msgstr "头份镇"
+
+msgid "Taiwan, Province of China|Fenglin Township"
+msgstr "凤林镇"
+
+msgid "Taiwan, Province of China|Sanmin District"
+msgstr "三民区"
+
+msgid "Taiwan, Province of China|Lioujia District"
+msgstr "六甲区"
+
+msgid "Taiwan, Province of China|Shanhua District"
+msgstr "善化区"
+
+msgid "Taiwan, Province of China|Zuoying District"
+msgstr "左营区"
+
+msgid "Taiwan, Province of China|Beipu Township"
+msgstr "北埔乡"
+
+msgid "Taiwan, Province of China|Dongshi Township"
+msgstr "东势乡"
+
+msgid "Taiwan, Province of China|Minxiong Township"
+msgstr "民雄乡"
+
+msgid "Taiwan, Province of China|Xiyu Township"
+msgstr "西屿乡"
+
+msgid "Taiwan, Province of China|Shiding District"
+msgstr "石碇区"
+
+msgid "Taiwan, Province of China|Xinyi District"
+msgstr "信义区"
+
+msgid "Taiwan, Province of China|Zhunan Township"
+msgstr "竹南镇"
+
+msgid "Taiwan, Province of China|Qimei Township"
+msgstr "七美乡"
+
+msgid "Taiwan, Province of China|Anle Distric"
+msgstr "安乐区"
+
+msgid "Taiwan, Province of China|Zhongzheng"
+msgstr "中正区"
+
+msgid "Taiwan, Province of China|Lucao Township"
+msgstr "鹿草乡"
+
+msgid "Taiwan, Province of China|Neihu District"
+msgstr "内湖区"
+
+msgid "Taiwan, Province of China|Zhongli  District"
+msgstr "中坜区"
+
+msgid "Taiwan, Province of China|Lugu Township"
+msgstr "鹿谷乡"
+
+msgid "Taiwan, Province of China|Donghe Township"
+msgstr "东河乡"
+
+msgid "Taiwan, Province of China|Jiasian District"
+msgstr "甲仙区"
+
+msgid "Taiwan, Province of China|Luzhou District"
+msgstr "蘆洲区"
+
+msgid "Taiwan, Province of China|Banqiao District"
+msgstr "板桥区"
+
+msgid "Taiwan, Province of China|Dalin Township"
+msgstr "大林镇"
+
+msgid "Taiwan, Province of China|Qionglin Township"
+msgstr "芎林乡"
+
+msgid "Taiwan, Province of China|Tongluo Township"
+msgstr "铜锣乡"
+
+msgid "Taiwan, Province of China|Zhongliao Township"
+msgstr "中寮乡"
+
+msgid "Taiwan, Province of China|Erlun Township"
+msgstr "二仑乡"
+
+msgid "Taiwan, Province of China|North District"
+msgstr "北区"
+
+msgid "Taiwan, Province of China|Nanzhuang Township"
+msgstr "南庄乡"
+
+msgid "Taiwan, Province of China|Hukou Township"
+msgstr "湖口乡"
+
+msgid "Taiwan, Province of China|Chenggong Township"
+msgstr "成功镇"
+
+msgid "Taiwan, Province of China|East District"
+msgstr "东区"
+
+msgid "Taiwan, Province of China|Taiwu Township"
+msgstr "泰武乡"
+
+msgid "Taiwan, Province of China|Touwu Township"
+msgstr "头屋乡"
+
+msgid "Taiwan, Province of China|Namasia District"
+msgstr "那玛夏区"
+
+msgid "Taiwan, Province of China|Sanxing Township"
+msgstr "三星乡"
+
+msgid "Taiwan, Province of China|Xiaying District"
+msgstr "下营区"
+
+msgid "Taiwan, Province of China|Zuojhen District"
+msgstr "左镇区"
+
+msgid "Taiwan, Province of China|Huwei Township"
+msgstr "虎尾镇"
+
+msgid "Taiwan, Province of China|Huatan Township"
+msgstr "花坛乡"
+
+msgid "Taiwan, Province of China|Fuxing Township"
+msgstr "福兴乡"
+
+msgid "Taiwan, Province of China|Fengyuan District"
+msgstr "丰原区"
+
+msgid "Taiwan, Province of China|Xinpi Township"
+msgstr "新埤乡"
+
+msgid "Taiwan, Province of China|Qieding District"
+msgstr "茄萣区"
+
+msgid "Taiwan, Province of China|Xinzhuang District"
+msgstr "新庄区"
+
+msgid "Taiwan, Province of China|Fuli Township"
+msgstr "富里乡"
+
+msgid "Taiwan, Province of China|Yuchi Township"
+msgstr "鱼池乡"
+
+msgid "Taiwan, Province of China|Datong Township"
+msgstr "大同乡"
+
+msgid "Taiwan, Province of China|Yuli Township"
+msgstr "玉里镇"
+
+msgid "Taiwan, Province of China|Liuqiu Township"
+msgstr "琉球乡"
+
+msgid "Taiwan, Province of China|Gushan District"
+msgstr "鼓山区"
+
+msgid "Taiwan, Province of China|Daxi District"
+msgstr "大溪区"
+
+msgid "Taiwan, Province of China|Renwu District"
+msgstr "仁武区"
+
+msgid "Taiwan, Province of China|Yanping Township"
+msgstr "延平乡"
+
+msgid "Taiwan, Province of China|Guanxi Township"
+msgstr "关西镇"
+
+msgid "Taiwan, Province of China|Heping District"
+msgstr "和平区"
+
+msgid "Taiwan, Province of China|Xindian District"
+msgstr "新店区"
+
+msgid "Taiwan, Province of China|Gueiren District"
+msgstr "归仁区"
+
+msgid "Taiwan, Province of China|Renai District"
+msgstr "仁爱区"
+
+msgid "Taiwan, Province of China|Ciaotou District"
+msgstr "桥头区"
+
+msgid "Taiwan, Province of China|Shuangxi District"
+msgstr "双渓区"
+
+msgid "Taiwan, Province of China|Shengang District"
+msgstr "神冈区"
+
+msgid "Taiwan, Province of China|Beigang Township"
+msgstr "北港镇"
+
+msgid "Taiwan, Province of China|Yanpu Township"
+msgstr "盐埔乡"
+
+msgid "Taiwan, Province of China|Xinwu District"
+msgstr "新屋区"

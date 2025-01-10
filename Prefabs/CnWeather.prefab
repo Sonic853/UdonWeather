@@ -8981,6 +8981,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2013415185726793139, guid: cc76361582bb33a48a3ec0857783f4fb, type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 2013415185726793139, guid: cc76361582bb33a48a3ec0857783f4fb, type: 3}
     - target: {fileID: 2366138827694500762, guid: cc76361582bb33a48a3ec0857783f4fb, type: 3}
       propertyPath: serializationData.Prefab
       value: 
