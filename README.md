@@ -10,6 +10,7 @@ Demo: [853的功能屋 853's Udon Room](https://vrchat.com/home/world/wrld_fa01c
 
 - [和风天气](https://www.qweather.com/)
 - [AccuWeather](https://www.accuweather.com/)
+- [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)
 
 ## License restrictions 许可限制
 Individuals or companies in Chinese Mainland (except Hong Kong China, Macau China, and Taiwan Province of China) are prohibited from using this LGPL license and using this repository and products if the following circumstances apply:
