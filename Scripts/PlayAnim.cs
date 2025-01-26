@@ -10,7 +10,9 @@ namespace Sonic853.Udon.Weather
     {
         [SerializeField] Animator animator;
         [SerializeField] string boolName = "Show";
-        public void Show() => animator.SetBool(boolName, true);
-        public void Hide() => animator.SetBool(boolName, false);
+        public void Show() => Show(boolName);
+        public void Show(string _boolName) => animator.SetBool(_boolName, true);
+        public void Hide() => Hide(boolName);
+        public void Hide(string _boolName) => animator.SetBool(_boolName, false);
     }
 }
