@@ -56,7 +56,7 @@ namespace Sonic853.Udon.Weather.UI
             var locationName = "";
             if (!string.IsNullOrEmpty(locationItem.adm1Name)
                 && locationItem.adm1Name != "olddata"
-                && locationItem.adm1Name != locationItem.locationName) locationName = _($"{locationItem.adm1Name}{"|"}{locationItem.locationName}");
+                && locationItem.adm1Name != locationItem.locationName) locationName = _($"{locationItem.adm1Name}|{locationItem.locationName}");
             else locationName = _(locationItem.locationName);
             var texts = locationName.Split('|');
             var finalText = texts[0];

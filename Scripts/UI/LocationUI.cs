@@ -36,7 +36,7 @@ namespace Sonic853.Udon.Weather.UI
             }
             if (_locationItem.adm1Name != "olddata" && _locationItem.adm1Name != _locationItem.locationName)
             {
-                var texts = _($"{_locationItem.adm1Name}{"|"}{_locationItem.locationName}").Split('|');
+                var texts = _($"{_locationItem.adm1Name}|{_locationItem.locationName}").Split('|');
                 var finalText = texts[0];
                 if (texts.Length > 1)
                 {
