@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ColliderLayerChanger
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: ade685b0ae28e7b499e85b72bbd57879, type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 3cc4af7eae2a27c48ad91f10b409e3d6, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 0096f0fea2a862b43b82327705663ea5, type: 3}

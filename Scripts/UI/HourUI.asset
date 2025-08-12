@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: HourUI
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 7efd0ea1564bdde4c82d783798ad71b0, type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: d3a69245fc511d7458a0b1f1efa0931b, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: dbdafbcbc41d32449a3e76b8b0a12b30, type: 3}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: LocationUI
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 5bd392f8dc26aff43b069a2a567875e3, type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 7b34dae56ecb2af4bab6ecdd5c3985f9, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 3af6d0c04e3d8a64ebaebb5409f6f00a, type: 3}

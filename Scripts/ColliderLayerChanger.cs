@@ -17,6 +17,7 @@ namespace Sonic853.Udon.Weather
             if (collider == null) { return; }
             isFound = true;
             collider.excludeLayers = excludeLayers;
+            enabled = false;
         }
     }
 }

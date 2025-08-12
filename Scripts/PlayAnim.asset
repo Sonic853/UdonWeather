@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: PlayAnim
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: de4bc27db31e45f46acf7d3aea7b358f, type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 149560f138a4ce74689e724538f8aed2, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 0225316ce872ba24e8f8b3e4d6a7900c, type: 3}

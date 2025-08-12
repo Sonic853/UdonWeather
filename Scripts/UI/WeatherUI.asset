@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: WeatherUI
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: dd2bf3f065ddc7f4286008efcb676208, type: 2}
+  serializedUdonProgramAsset: {fileID: 11400000, guid: c9c86612b981bd54eb216a1d7ba355cd, type: 2}
   udonAssembly: 
   assemblyError: 
   sourceCsScript: {fileID: 11500000, guid: 81ce011171141014fa5c499120955053, type: 3}
