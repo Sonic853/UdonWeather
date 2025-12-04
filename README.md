@@ -6,6 +6,12 @@
 
 Demo: [853的功能屋 853's Udon Room](https://vrchat.com/home/world/wrld_fa01cb8c-766c-4f36-8360-57409866d011)
 
+## 服务端
+
+采用 Actions 生成数据存在 github.io 站点
+https://github.com/Sonic853/VRChat-World-Weather-Creator
+https://github.com/853Lab/VRChat-World-cnWeather
+
 ## 数据来源
 
 - [和风天气](https://www.qweather.com/)
