@@ -15,6 +15,7 @@ namespace Sonic853.Udon.Weather
     public class UdonWeather : UdonSharpBehaviour
     {
         public TranslateManager translateManager;
+        [SerializeField] TranslatePo zhsPo;
         public WeatherUI weatherUI;
         public bool rememberWeatherName = true;
         [SerializeField] LocationUI[] locationUIs;
@@ -43,6 +44,7 @@ namespace Sonic853.Udon.Weather
         public void Init()
         {
             if (!translateManager.LoadedTranslate) translateManager.LoadTranslate();
+            if (zhsPo != null) zhsPo.ReadPoFile();
             InitIndex();
             foreach (var locationUI in locationUIs)
             {
@@ -98,6 +100,11 @@ namespace Sonic853.Udon.Weather
                     var locationKey = locationK.ToLower();
                     locationItem.tAdm1Name = _(adm1Name).Trim();
                     locationItem.tLocationName = adm1Name != locationName ? _(locationK).Trim() : _(locationName).Trim();
+                    if (zhsPo != null)
+                    {
+                        locationItem.zhsAdm1Name = zhsPo.GetText(adm1Name).Trim();
+                        locationItem.zhsLocationName = adm1Name != locationName ? zhsPo.GetText(locationK).Trim() : zhsPo.GetText(locationName).Trim();
+                    }
                     if (locations.ContainsKey(locationKey))
                     {
                         locations.SetValue(locationKey, locationItems.Length - 1);
@@ -142,18 +149,20 @@ namespace Sonic853.Udon.Weather
             }
         }
         public void ShowWeather(string locationName) => ShowWeather(GetWeather(locationName));
+        public void ShowWeather(string locationName, bool saveSettings) => ShowWeather(GetWeather(locationName), saveSettings);
         public void ShowWeather(int locationIndex)
         {
             if (locationIndex == -1 || locationIndex >= locationItems.Length) { return; }
             ShowWeather(locationItems[locationIndex]);
         }
-        public void ShowWeather(LocationItem location)
+        public void ShowWeather(LocationItem location) => ShowWeather(location, true);
+        public void ShowWeather(LocationItem location, bool saveSettings)
         {
             if (location == null) { return; }
             if (currentLocationItem == location) { return; }
             currentLocationItem = location;
             defaultWeather = $"{location.adm1Name}|{location.locationName}";
-            PlayerData.SetString($"Sonic853.Udon.Weather", defaultWeather);
+            if (saveSettings) PlayerData.SetString($"Sonic853.Udon.Weather", defaultWeather);
             location.LoadUI();
         }
         public LocationItem[] SearchWeathers(string userType)
@@ -173,6 +182,8 @@ namespace Sonic853.Udon.Weather
                     // || locationItem.tAdm1Name.ToLower() == _userType
                     || locationItem.tLocationName.ToLower().Contains(_userType)
                     // || locationItem.tLocationName.ToLower() == _userType
+                    || locationItem.zhsAdm1Name.ToLower().Contains(_userType)
+                    || locationItem.zhsLocationName.ToLower().Contains(_userType)
                 )
                 {
                     foundIndex.Add(i);

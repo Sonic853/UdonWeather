@@ -23,6 +23,10 @@ namespace Sonic853.Udon.Weather
         /// </summary>
         public string tAdm1Name;
         /// <summary>
+        /// 中文行政区域名称
+        /// </summary>
+        public string zhsAdm1Name;
+        /// <summary>
         /// 地区名称
         /// </summary>
         public string locationName;
@@ -30,6 +34,10 @@ namespace Sonic853.Udon.Weather
         /// 翻译后的地区名称
         /// </summary>
         public string tLocationName;
+        /// <summary>
+        /// 中文地区名称
+        /// </summary>
+        public string zhsLocationName;
         /// <summary>
         /// 更新时间
         /// </summary>

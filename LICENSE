@@ -1,165 +1,84 @@
-                   GNU LESSER GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+Source Available 许可协议
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+版权所有 (c) 2025 Sonic853
 
+本项目以“源代码可见（Source Available）”形式提供，
+不属于开源软件（Open Source）。
 
-  This version of the GNU Lesser General Public License incorporates
-the terms and conditions of version 3 of the GNU General Public
-License, supplemented by the additional permissions listed below.
+除非获得版权所有者的明确书面授权，
+否则仅可在遵守本协议全部条款的前提下使用本项目。
 
-  0. Additional Definitions.
+────────────────────────────────
 
-  As used herein, "this License" refers to version 3 of the GNU Lesser
-General Public License, and the "GNU GPL" refers to version 3 of the GNU
-General Public License.
+一、授权范围
 
-  "The Library" refers to a covered work governed by this License,
-other than an Application or a Combined Work as defined below.
+在遵守本协议的前提下，允许用户：
 
-  An "Application" is any work that makes use of an interface provided
-by the Library, but which is not otherwise based on the Library.
-Defining a subclass of a class defined by the Library is deemed a mode
-of using an interface provided by the Library.
+1. 查看、下载本项目的源代码；
+2. 出于学习、研究、评估目的对源代码进行修改；
+3. 在**非商业用途**下使用本项目。
 
-  A "Combined Work" is a work produced by combining or linking an
-Application with the Library.  The particular version of the Library
-with which the Combined Work was made is also called the "Linked
-Version".
+本协议未明确授予的任何权利，均予以保留。
 
-  The "Minimal Corresponding Source" for a Combined Work means the
-Corresponding Source for the Combined Work, excluding any source code
-for portions of the Combined Work that, considered in isolation, are
-based on the Application, and not on the Linked Version.
+────────────────────────────────
 
-  The "Corresponding Application Code" for a Combined Work means the
-object code and/or source code for the Application, including any data
-and utility programs needed for reproducing the Combined Work from the
-Application, but excluding the System Libraries of the Combined Work.
+二、中国大陆地区的特别限制
 
-  1. Exception to Section 3 of the GNU GPL.
+以下条款仅适用于位于中国大陆地区的个人或实体
+（不包括中国香港、中国澳门和中国台湾地区）：
 
-  You may convey a covered work under sections 3 and 4 of this License
-without being bound by section 3 of the GNU GPL.
+1. 仅允许以**个人名义**使用本项目；
+2. 禁止以公司、工作室、社团、社区、组织或任何
+   非个人名义使用本项目；
+3. 任何地图、世界或衍生内容的参与制作人数
+   不得超过 2 人（不含 2 人）；
+4. 被版权所有者 Sonic853 明确禁止的个人或实体，
+   不得以任何形式使用本项目；
+5. 超出上述范围的任何使用行为，
+   均需获得版权所有者的明确书面授权。
 
-  2. Conveying Modified Versions.
+────────────────────────────────
 
-  If you modify a copy of the Library, and, in your modifications, a
-facility refers to a function or data to be supplied by an Application
-that uses the facility (other than as an argument passed when the
-facility is invoked), then you may convey a copy of the modified
-version:
+三、非中国大陆地区的使用说明
 
-   a) under this License, provided that you make a good faith effort to
-   ensure that, in the event an Application does not supply the
-   function or data, the facility still operates, and performs
-   whatever part of its purpose remains meaningful, or
+位于中国大陆地区以外的用户：
 
-   b) under the GNU GPL, with none of the additional permissions of
-   this License applicable to that copy.
+1. 仅可在**非商业用途**下使用本项目；
+2. 任何商业用途、再分发、出售、出租、
+   再授权或作为商品一部分的行为，
+   均需获得版权所有者的明确书面授权。
 
-  3. Object Code Incorporating Material from Library Header Files.
+────────────────────────────────
 
-  The object code form of an Application may incorporate material from
-a header file that is part of the Library.  You may convey such object
-code under terms of your choice, provided that, if the incorporated
-material is not limited to numerical parameters, data structure
-layouts and accessors, or small macros, inline functions and templates
-(ten or fewer lines in length), you do both of the following:
+四、商业使用与再分发
 
-   a) Give prominent notice with each copy of the object code that the
-   Library is used in it and that the Library and its use are
-   covered by this License.
+未经版权所有者明确书面授权，禁止以下行为（包括但不限于）：
 
-   b) Accompany the object code with a copy of the GNU GPL and this license
-   document.
+1. 将本项目或其衍生作品用于任何商业目的；
+2. 对本项目进行出售、出租、分发或再授权；
+3. 将本项目作为商品或服务的一部分提供给第三方。
 
-  4. Combined Works.
+────────────────────────────────
 
-  You may convey a Combined Work under terms of your choice that,
-taken together, effectively do not restrict modification of the
-portions of the Library contained in the Combined Work and reverse
-engineering for debugging such modifications, if you also do each of
-the following:
+五、开源许可证声明
 
-   a) Give prominent notice with each copy of the Combined Work that
-   the Library is used in it and that the Library and its use are
-   covered by this License.
+本项目 **不适用** 且 **不授予** 任何其他开源许可证的权利；
 
-   b) Accompany the Combined Work with a copy of the GNU GPL and this license
-   document.
+访问、下载或使用本项目，
+不构成对任何开源许可证权利的授予。
 
-   c) For a Combined Work that displays copyright notices during
-   execution, include the copyright notice for the Library among
-   these notices, as well as a reference directing the user to the
-   copies of the GNU GPL and this license document.
+────────────────────────────────
 
-   d) Do one of the following:
+六、协议终止
 
-       0) Convey the Minimal Corresponding Source under the terms of this
-       License, and the Corresponding Application Code in a form
-       suitable for, and under terms that permit, the user to
-       recombine or relink the Application with a modified version of
-       the Linked Version to produce a modified Combined Work, in the
-       manner specified by section 6 of the GNU GPL for conveying
-       Corresponding Source.
+如用户违反本协议的任何条款，
+本协议项下授予的所有权利将立即自动终止，
+且无需另行通知。
 
-       1) Use a suitable shared library mechanism for linking with the
-       Library.  A suitable mechanism is one that (a) uses at run time
-       a copy of the Library already present on the user's computer
-       system, and (b) will operate properly with a modified version
-       of the Library that is interface-compatible with the Linked
-       Version.
+────────────────────────────────
 
-   e) Provide Installation Information, but only if you would otherwise
-   be required to provide such information under section 6 of the
-   GNU GPL, and only to the extent that such information is
-   necessary to install and execute a modified version of the
-   Combined Work produced by recombining or relinking the
-   Application with a modified version of the Linked Version. (If
-   you use option 4d0, the Installation Information must accompany
-   the Minimal Corresponding Source and Corresponding Application
-   Code. If you use option 4d1, you must provide the Installation
-   Information in the manner specified by section 6 of the GNU GPL
-   for conveying Corresponding Source.)
+七、语言与解释
 
-  5. Combined Libraries.
-
-  You may place library facilities that are a work based on the
-Library side by side in a single library together with other library
-facilities that are not Applications and are not covered by this
-License, and convey such a combined library under terms of your
-choice, if you do both of the following:
-
-   a) Accompany the combined library with a copy of the same work based
-   on the Library, uncombined with any other library facilities,
-   conveyed under the terms of this License.
-
-   b) Give prominent notice with the combined library that part of it
-   is a work based on the Library, and explaining where to find the
-   accompanying uncombined form of the same work.
-
-  6. Revised Versions of the GNU Lesser General Public License.
-
-  The Free Software Foundation may publish revised and/or new versions
-of the GNU Lesser General Public License from time to time. Such new
-versions will be similar in spirit to the present version, but may
-differ in detail to address new problems or concerns.
-
-  Each version is given a distinguishing version number. If the
-Library as you received it specifies that a certain numbered version
-of the GNU Lesser General Public License "or any later version"
-applies to it, you have the option of following the terms and
-conditions either of that published version or of any later version
-published by the Free Software Foundation. If the Library as you
-received it does not specify a version number of the GNU Lesser
-General Public License, you may choose any version of the GNU Lesser
-General Public License ever published by the Free Software Foundation.
-
-  If the Library as you received it specifies that a proxy can decide
-whether future versions of the GNU Lesser General Public License shall
-apply, that proxy's public statement of acceptance of any version is
-permanent authorization for you to choose that version for the
-Library.
+本协议以**中文版本为准**。
+如中英文版本存在任何不一致，
+以中文版本为最终解释。
