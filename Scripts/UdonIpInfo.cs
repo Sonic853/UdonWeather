@@ -118,7 +118,7 @@ namespace Sonic853.Udon.Weather
                     locationItemsLength = locationItems.Length;
                     if (locationItemsLength > 0)
                     {
-                        udonWeather.ShowWeather(locationItems[locationItemsLength - 1], false);
+                        udonWeather.ShowWeather(locationItems[0], false);
                         return false;
                     }
                 }
