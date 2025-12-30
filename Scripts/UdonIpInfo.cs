@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UdonSharp;
 using UnityEngine;
 using VRC.SDK3.Data;
+using UnityEngine.UI;
 
 namespace Sonic853.Udon.Weather
 {
@@ -39,6 +40,8 @@ namespace Sonic853.Udon.Weather
         /// </summary>
         [NonSerialized] public float Longitude;
         public string content;
+        public bool saveLocation = false;
+        [SerializeField] InputField debug;
         void Update()
         {
             if (udonWeather == null) enabled = false;
@@ -58,9 +61,10 @@ namespace Sonic853.Udon.Weather
         public void ParseJson() => ParseJson(content);
         public void ParseJson(string _content)
         {
-            ClearData();
+            if (debug != null && !string.IsNullOrEmpty(_content)) debug.text = _content;
             if (!VRCJson.TryDeserializeFromJson(_content, out var result)) return;
             if (result.TokenType != TokenType.DataDictionary) { return; }
+            ClearData();
             var body = result.DataDictionary;
             if (body.TryGetValue("code", out var codeToken) && codeToken.TokenType == TokenType.Int)
             {
@@ -109,7 +113,7 @@ namespace Sonic853.Udon.Weather
                 var locationItemsLength = locationItems.Length;
                 if (locationItemsLength > 0)
                 {
-                    udonWeather.ShowWeather(locationItems[locationItemsLength - 1], false);
+                    udonWeather.ShowWeather(locationItems[locationItemsLength - 1], saveLocation);
                     return false;
                 }
                 else
@@ -118,7 +122,7 @@ namespace Sonic853.Udon.Weather
                     locationItemsLength = locationItems.Length;
                     if (locationItemsLength > 0)
                     {
-                        udonWeather.ShowWeather(locationItems[0], false);
+                        udonWeather.ShowWeather(locationItems[0], saveLocation);
                         return false;
                     }
                 }

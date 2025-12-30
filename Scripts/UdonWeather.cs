@@ -169,7 +169,7 @@ namespace Sonic853.Udon.Weather
         {
             if (string.IsNullOrEmpty(userType)) { return new LocationItem[0]; }
             var foundIndex = new DataList();
-            var _userType = userType.ToLower();
+            var _userType = userType.Trim().ToLower();
             for (int i = 0; i < locationItems.Length; i++)
             {
                 var locationItem = locationItems[i];
@@ -265,6 +265,7 @@ namespace Sonic853.Udon.Weather
         }
         public override void OnPlayerDataUpdated(VRCPlayerApi player, PlayerData.Info[] infos)
         {
+            if (!player.isLocal) { return; }
             if (!rememberWeatherName) { return; }
             ReadDefaultWeather();
         }
@@ -274,6 +275,7 @@ namespace Sonic853.Udon.Weather
         /// <param name="player"></param>
         public override void OnPlayerRestored(VRCPlayerApi player)
         {
+            if (!player.isLocal) { return; }
             ReadDefaultWeather();
         }
         #region 翻译
