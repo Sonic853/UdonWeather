@@ -330,3 +330,9 @@ msgstr "連江"
 
 msgid "Taiwan, Province of China|Magong"
 msgstr "馬公市"
+
+msgid "Taiwan, Province of China|Yunlin County"
+msgstr "雲林縣"
+
+msgid "Taiwan, Province of China|Penghu County"
+msgstr "澎湖縣"

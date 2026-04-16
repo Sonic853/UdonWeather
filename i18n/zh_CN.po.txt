@@ -10893,3 +10893,9 @@ msgstr "盐埔乡"
 
 msgid "Taiwan, Province of China|Xinwu District"
 msgstr "新屋区"
+
+msgid "Taiwan, Province of China|Yunlin County"
+msgstr "云林县"
+
+msgid "Taiwan, Province of China|Penghu County"
+msgstr "澎湖县"
